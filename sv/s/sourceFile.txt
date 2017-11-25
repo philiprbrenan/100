@@ -1,4 +1,4 @@
-  app 100.sv.s = svs - The Screenshots in Swedish
+  app philiprbrenan.100.sv.4 = 100sv4 - The Screenshots in Swedish
   description= Learn to recognize and say the screenshots in Swedish
   icon       = icon.png
   ordered    = always
