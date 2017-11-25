@@ -1,0 +1,59 @@
+  app es10x10 = es10x10 - The Tens from 10 to 100 in Spanish
+  description= Learn to recognize and say the tens from 10 to 100 in Spanish
+  icon       = icon.png
+  ordered    = finally
+  maxImages  = 12
+  author     = philiprbrenan
+  email      = philiprbrenan@gmail.com
+  language   = es
+
+
+photo 10 = diez
+  afewchars = 10
+  say       = 10
+  wiki      = https://en.wikipedia.org/wiki/10_(number)
+
+photo 20 = veinte
+  afewchars = 20
+  say       = 20
+  wiki      = https://en.wikipedia.org/wiki/20_(number)
+
+photo 30 = treinta
+  afewchars = 30
+  say       = 30
+  wiki      = https://en.wikipedia.org/wiki/30_(number)
+
+photo 40 = cuarenta
+  afewchars = 40
+  say       = 40
+  wiki      = https://en.wikipedia.org/wiki/40_(number)
+
+photo 50 = cincuenta
+  afewchars = 50
+  say       = 50
+  wiki      = https://en.wikipedia.org/wiki/50_(number)
+
+photo 60 = sesenta
+  afewchars = 60
+  say       = 60
+  wiki      = https://en.wikipedia.org/wiki/60_(number)
+
+photo 70 = setenta
+  afewchars = 70
+  say       = 70
+  wiki      = https://en.wikipedia.org/wiki/70_(number)
+
+photo 80 = ochenta
+  afewchars = 80
+  say       = 80
+  wiki      = https://en.wikipedia.org/wiki/80_(number)
+
+photo 90 = noventa
+  afewchars = 90
+  say       = 90
+  wiki      = https://en.wikipedia.org/wiki/90_(number)
+
+photo 100 = cien
+  afewchars = 100
+  say       = 100
+  wiki      = https://en.wikipedia.org/wiki/100_(number)
