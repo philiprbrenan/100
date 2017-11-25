@@ -1,34 +1,37 @@
 Failed.
 
-2017-11-25 at 21:37:34 Generate AppaAppsPhotoApp version 20171124-1 philiprbrenan/100/sv/s
+2017-11-25 at 22:08:19 Generate AppaAppsPhotoApp version 20171124-1 philiprbrenan/100/sv/s
 
-2017-11-25 at 21:37:35 Step: parseSource
-2017-11-25 at 21:37:35 <b>Good source file!</b>
-2017-11-25 at 21:37:35 Step: loadAssets
-2017-11-25 at 21:37:36 0 new, 10 reused audio files
-2017-11-25 at 21:37:36 Step: multiplyPhotosByFacts
-2017-11-25 at 21:37:36 Step: genJavaManifest
-2017-11-25 at 21:37:36 Step: genJsonManifest
-2017-11-25 at 21:37:36 Step: genGameHtml
-2017-11-25 at 21:37:36 Step: genHtmlAssets
-2017-11-25 at 21:37:36 Step: zipAssets
-2017-11-25 at 21:37:36 Zip file is only 61366 bytes which is small?
+2017-11-25 at 22:08:20 Step: parseSource
+2017-11-25 at 22:08:20 <b>Good source file!</b>
+2017-11-25 at 22:08:20 Step: loadAssets
+2017-11-25 at 22:08:21 0 new, 10 reused audio files
+2017-11-25 at 22:08:21 Step: multiplyPhotosByFacts
+2017-11-25 at 22:08:21 Step: genJavaManifest
+2017-11-25 at 22:08:21 Step: genJsonManifest
+2017-11-25 at 22:08:21 Step: genGameHtml
+2017-11-25 at 22:08:21 Step: genHtmlAssets
+2017-11-25 at 22:08:21 Step: zipAssets
+2017-11-25 at 22:08:21 Zip file is only 61389 bytes which is small?
 
-2017-11-25 at 21:37:36 Step: compileApp
-2017-11-25 at 21:37:43 Unable to create apk file /tmp/AppaAppsPhotoApp/build/bin/s.apk in build folder:
+2017-11-25 at 22:08:21 Step: compileApp
+2017-11-25 at 22:08:21 Unable to create apk file /tmp/AppaAppsPhotoApp/build/bin/s.apk in build folder:
 /tmp/AppaAppsPhotoApp/users/philiprbrenan/100/sv/s/
 Java errors
+/tmp/AppaAppsPhotoApp/build/gen/com/appaapps/photoapp/100/sv/s/R.java:8: error: ';' expected
+package com.appaapps.photoapp.100.sv.s;
+                             ^
 /tmp/AppaAppsPhotoApp/build/gen/com/appaapps/photoapp/100/sv/s/Activity.java:13: error: ';' expected
 package com.appaapps.photoapp.100.sv.s;
                              ^
-1 error
+2 errors
  at /usr/local/share/perl/5.22.1/Android/Build.pm line 449.
-	Android::Build::make(Android::Build=HASH(0x1754540)) called at /usr/local/share/perl/5.22.1/Android/Build.pm line 548
-	Android::Build::compile(Android::Build=HASH(0x1754540)) called at AppaAppsPhotoApp.pm line 2204
-	eval {...} called at AppaAppsPhotoApp.pm line 2204
-	Manifest::compileApp(Manifest=HASH(0xbc1680)) called at AppaAppsPhotoApp.pm line 605
-	main::genApplicationDescriptionFromSourceFile() called at AppaAppsPhotoApp.pm line 2577
-	main::projectAction("philiprbrenan/100/sv/s", 4) called at AppaAppsPhotoApp.pm line 2605
+	Android::Build::make(Android::Build=HASH(0x20cb6d8)) called at /usr/local/share/perl/5.22.1/Android/Build.pm line 548
+	Android::Build::compile(Android::Build=HASH(0x20cb6d8)) called at AppaAppsPhotoApp.pm line 2208
+	eval {...} called at AppaAppsPhotoApp.pm line 2208
+	Manifest::compileApp(Manifest=HASH(0x1edaf40)) called at AppaAppsPhotoApp.pm line 611
+	main::genApplicationDescriptionFromSourceFile() called at AppaAppsPhotoApp.pm line 2581
+	main::projectAction("philiprbrenan/100/sv/s", 4) called at AppaAppsPhotoApp.pm line 2609
 
 --------------------------------------------------------------------------------
 do {
@@ -47,11 +50,11 @@ do {
       keyStorePwd   => "genApp",
       libs          => [],
       log           => [
-                         "/tmp/AppaAppsPhotoApp/build/AndroidManifest.xml:11: error: Error: No resource found that matches the given name (at 'icon' with value '\@drawable/ic_launcher').",
-                         "/tmp/AppaAppsPhotoApp/build/gen/com/appaapps/photoapp/100/sv/s/Activity.java:13: error: ';' expected\npackage com.appaapps.photoapp.100.sv.s;\n                             ^\n1 error",
+                         "",
+                         "/tmp/AppaAppsPhotoApp/build/gen/com/appaapps/photoapp/100/sv/s/R.java:8: error: ';' expected\npackage com.appaapps.photoapp.100.sv.s;\n                             ^\n/tmp/AppaAppsPhotoApp/build/gen/com/appaapps/photoapp/100/sv/s/Activity.java:13: error: ';' expected\npackage com.appaapps.photoapp.100.sv.s;\n                             ^\n2 errors",
                        ],
       package       => "com.appaapps.photoapp.100.sv.s",
-      parameters    => "1511645856,philiprbrenan,100,sv/s,http://www.appaapps.com/users/philiprbrenan/100/sv/s/zip/100.zip,svs - The Screenshots in Swedish",
+      parameters    => "1511647701,philiprbrenan,100,sv/s,http://www.appaapps.com/users/philiprbrenan/100/sv/s/zip/100.zip,svs - The Screenshots in Swedish",
       permissions   => ["INTERNET", "ACCESS_NETWORK_STATE", "WRITE_EXTERNAL_STORAGE"],
       platform      => "/home/phil/Android/sdk/platforms/android-25/",
       platformTools => "/home/phil/Android/sdk/platform-tools/",
@@ -96,7 +99,7 @@ do {
         rightInARow => 6,
         speakers    => "Astrid",
         title       => "svs - The Screenshots in Swedish",
-        version     => "2017-11-25 at 21:37:35",
+        version     => "2017-11-25 at 22:08:20",
       }, "ParsedKeys"),
       start => 1,
       title => "svs - The Screenshots in Swedish",
@@ -105,20 +108,20 @@ do {
     error => 1,
     iconFile => "/home/phil/audioImageCache/images/icon.png",
     log => [
-      "\n2017-11-25 at 21:37:34 Generate AppaAppsPhotoApp version 20171124-1 philiprbrenan/100/sv/s\n",
-      "2017-11-25 at 21:37:35 Step: parseSource",
-      "2017-11-25 at 21:37:35 <b>Good source file!</b>",
-      "2017-11-25 at 21:37:35 Step: loadAssets",
-      "2017-11-25 at 21:37:36 0 new, 10 reused audio files",
-      "2017-11-25 at 21:37:36 Step: multiplyPhotosByFacts",
-      "2017-11-25 at 21:37:36 Step: genJavaManifest",
-      "2017-11-25 at 21:37:36 Step: genJsonManifest",
-      "2017-11-25 at 21:37:36 Step: genGameHtml",
-      "2017-11-25 at 21:37:36 Step: genHtmlAssets",
-      "2017-11-25 at 21:37:36 Step: zipAssets",
-      "2017-11-25 at 21:37:36 Zip file is only 61366 bytes which is small?\n",
-      "2017-11-25 at 21:37:36 Step: compileApp",
-      "2017-11-25 at 21:37:43 Unable to create apk file /tmp/AppaAppsPhotoApp/build/bin/s.apk in build folder:\n/tmp/AppaAppsPhotoApp/users/philiprbrenan/100/sv/s/\nJava errors\n/tmp/AppaAppsPhotoApp/build/gen/com/appaapps/photoapp/100/sv/s/Activity.java:13: error: ';' expected\npackage com.appaapps.photoapp.100.sv.s;\n                             ^\n1 error\n at /usr/local/share/perl/5.22.1/Android/Build.pm line 449.\n\tAndroid::Build::make(Android::Build=HASH(0x1754540)) called at /usr/local/share/perl/5.22.1/Android/Build.pm line 548\n\tAndroid::Build::compile(Android::Build=HASH(0x1754540)) called at AppaAppsPhotoApp.pm line 2204\n\teval {...} called at AppaAppsPhotoApp.pm line 2204\n\tManifest::compileApp(Manifest=HASH(0xbc1680)) called at AppaAppsPhotoApp.pm line 605\n\tmain::genApplicationDescriptionFromSourceFile() called at AppaAppsPhotoApp.pm line 2577\n\tmain::projectAction(\"philiprbrenan/100/sv/s\", 4) called at AppaAppsPhotoApp.pm line 2605\n",
+      "\n2017-11-25 at 22:08:19 Generate AppaAppsPhotoApp version 20171124-1 philiprbrenan/100/sv/s\n",
+      "2017-11-25 at 22:08:20 Step: parseSource",
+      "2017-11-25 at 22:08:20 <b>Good source file!</b>",
+      "2017-11-25 at 22:08:20 Step: loadAssets",
+      "2017-11-25 at 22:08:21 0 new, 10 reused audio files",
+      "2017-11-25 at 22:08:21 Step: multiplyPhotosByFacts",
+      "2017-11-25 at 22:08:21 Step: genJavaManifest",
+      "2017-11-25 at 22:08:21 Step: genJsonManifest",
+      "2017-11-25 at 22:08:21 Step: genGameHtml",
+      "2017-11-25 at 22:08:21 Step: genHtmlAssets",
+      "2017-11-25 at 22:08:21 Step: zipAssets",
+      "2017-11-25 at 22:08:21 Zip file is only 61389 bytes which is small?\n",
+      "2017-11-25 at 22:08:21 Step: compileApp",
+      "2017-11-25 at 22:08:21 Unable to create apk file /tmp/AppaAppsPhotoApp/build/bin/s.apk in build folder:\n/tmp/AppaAppsPhotoApp/users/philiprbrenan/100/sv/s/\nJava errors\n/tmp/AppaAppsPhotoApp/build/gen/com/appaapps/photoapp/100/sv/s/R.java:8: error: ';' expected\npackage com.appaapps.photoapp.100.sv.s;\n                             ^\n/tmp/AppaAppsPhotoApp/build/gen/com/appaapps/photoapp/100/sv/s/Activity.java:13: error: ';' expected\npackage com.appaapps.photoapp.100.sv.s;\n                             ^\n2 errors\n at /usr/local/share/perl/5.22.1/Android/Build.pm line 449.\n\tAndroid::Build::make(Android::Build=HASH(0x20cb6d8)) called at /usr/local/share/perl/5.22.1/Android/Build.pm line 548\n\tAndroid::Build::compile(Android::Build=HASH(0x20cb6d8)) called at AppaAppsPhotoApp.pm line 2208\n\teval {...} called at AppaAppsPhotoApp.pm line 2208\n\tManifest::compileApp(Manifest=HASH(0x1edaf40)) called at AppaAppsPhotoApp.pm line 611\n\tmain::genApplicationDescriptionFromSourceFile() called at AppaAppsPhotoApp.pm line 2581\n\tmain::projectAction(\"philiprbrenan/100/sv/s\", 4) called at AppaAppsPhotoApp.pm line 2609\n",
     ],
     parsedCmds => [
       'fix',
