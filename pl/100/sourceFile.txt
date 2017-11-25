@@ -1,0 +1,514 @@
+  app pl100 = pl100 - The Numbers from 0 to 100 in Polish
+  description= Learn to recognize and say the numbers from 0 to 100 in Polish
+  icon       = icon.png
+  ordered    = finally
+  maxImages  = 12
+  author     = philiprbrenan
+  email      = philiprbrenan@gmail.com
+  language   = pl
+
+
+photo 0 = zero
+  afewchars = 0
+  say       = 0
+  wiki      = https://en.wikipedia.org/wiki/0_(number)
+
+photo 1 = jeden
+  afewchars = 1
+  say       = 1
+  wiki      = https://en.wikipedia.org/wiki/1_(number)
+
+photo 2 = dwa
+  afewchars = 2
+  say       = 2
+  wiki      = https://en.wikipedia.org/wiki/2_(number)
+
+photo 3 = trzy
+  afewchars = 3
+  say       = 3
+  wiki      = https://en.wikipedia.org/wiki/3_(number)
+
+photo 4 = cztery
+  afewchars = 4
+  say       = 4
+  wiki      = https://en.wikipedia.org/wiki/4_(number)
+
+photo 5 = pięć
+  afewchars = 5
+  say       = 5
+  wiki      = https://en.wikipedia.org/wiki/5_(number)
+
+photo 6 = sześć
+  afewchars = 6
+  say       = 6
+  wiki      = https://en.wikipedia.org/wiki/6_(number)
+
+photo 7 = siedem
+  afewchars = 7
+  say       = 7
+  wiki      = https://en.wikipedia.org/wiki/7_(number)
+
+photo 8 = osiem
+  afewchars = 8
+  say       = 8
+  wiki      = https://en.wikipedia.org/wiki/8_(number)
+
+photo 9 = dziewięć
+  afewchars = 9
+  say       = 9
+  wiki      = https://en.wikipedia.org/wiki/9_(number)
+
+photo 10 = dziesięć
+  afewchars = 10
+  say       = 10
+  wiki      = https://en.wikipedia.org/wiki/10_(number)
+
+photo 11 = jedenaście
+  afewchars = 11
+  say       = 11
+  wiki      = https://en.wikipedia.org/wiki/11_(number)
+
+photo 12 = dwanaście
+  afewchars = 12
+  say       = 12
+  wiki      = https://en.wikipedia.org/wiki/12_(number)
+
+photo 13 = trzynaście
+  afewchars = 13
+  say       = 13
+  wiki      = https://en.wikipedia.org/wiki/13_(number)
+
+photo 14 = czternaście
+  afewchars = 14
+  say       = 14
+  wiki      = https://en.wikipedia.org/wiki/14_(number)
+
+photo 15 = piętnaście
+  afewchars = 15
+  say       = 15
+  wiki      = https://en.wikipedia.org/wiki/15_(number)
+
+photo 16 = szesnaście
+  afewchars = 16
+  say       = 16
+  wiki      = https://en.wikipedia.org/wiki/16_(number)
+
+photo 17 = siedemnaście
+  afewchars = 17
+  say       = 17
+  wiki      = https://en.wikipedia.org/wiki/17_(number)
+
+photo 18 = osiemnaście
+  afewchars = 18
+  say       = 18
+  wiki      = https://en.wikipedia.org/wiki/18_(number)
+
+photo 19 = dziewiętnaście
+  afewchars = 19
+  say       = 19
+  wiki      = https://en.wikipedia.org/wiki/19_(number)
+
+photo 20 = dwadzieścia
+  afewchars = 20
+  say       = 20
+  wiki      = https://en.wikipedia.org/wiki/20_(number)
+
+photo 21 = dwadzieścia jeden
+  afewchars = 21
+  say       = 21
+  wiki      = https://en.wikipedia.org/wiki/21_(number)
+
+photo 22 = dwadzieścia dwa
+  afewchars = 22
+  say       = 22
+  wiki      = https://en.wikipedia.org/wiki/22_(number)
+
+photo 23 = dwadzieścia trzy
+  afewchars = 23
+  say       = 23
+  wiki      = https://en.wikipedia.org/wiki/23_(number)
+
+photo 24 = dwadzieścia cztery
+  afewchars = 24
+  say       = 24
+  wiki      = https://en.wikipedia.org/wiki/24_(number)
+
+photo 25 = dwadzieścia pięć
+  afewchars = 25
+  say       = 25
+  wiki      = https://en.wikipedia.org/wiki/25_(number)
+
+photo 26 = dwadzieścia sześć
+  afewchars = 26
+  say       = 26
+  wiki      = https://en.wikipedia.org/wiki/26_(number)
+
+photo 27 = dwadzieścia siedmiu
+  afewchars = 27
+  say       = 27
+  wiki      = https://en.wikipedia.org/wiki/27_(number)
+
+photo 28 = dwadzieścia osiem
+  afewchars = 28
+  say       = 28
+  wiki      = https://en.wikipedia.org/wiki/28_(number)
+
+photo 29 = dwadzieścia dziewięć
+  afewchars = 29
+  say       = 29
+  wiki      = https://en.wikipedia.org/wiki/29_(number)
+
+photo 30 = trzydzieści
+  afewchars = 30
+  say       = 30
+  wiki      = https://en.wikipedia.org/wiki/30_(number)
+
+photo 31 = trzydzieści jeden
+  afewchars = 31
+  say       = 31
+  wiki      = https://en.wikipedia.org/wiki/31_(number)
+
+photo 32 = trzydzieści dwa
+  afewchars = 32
+  say       = 32
+  wiki      = https://en.wikipedia.org/wiki/32_(number)
+
+photo 33 = trzydzieści trzy
+  afewchars = 33
+  say       = 33
+  wiki      = https://en.wikipedia.org/wiki/33_(number)
+
+photo 34 = trzydzieści cztery
+  afewchars = 34
+  say       = 34
+  wiki      = https://en.wikipedia.org/wiki/34_(number)
+
+photo 35 = trzydzieści pięć lat
+  afewchars = 35
+  say       = 35
+  wiki      = https://en.wikipedia.org/wiki/35_(number)
+
+photo 36 = trzydzieści sześć
+  afewchars = 36
+  say       = 36
+  wiki      = https://en.wikipedia.org/wiki/36_(number)
+
+photo 37 = trzydzieści siedem
+  afewchars = 37
+  say       = 37
+  wiki      = https://en.wikipedia.org/wiki/37_(number)
+
+photo 38 = trzydzieści osiem
+  afewchars = 38
+  say       = 38
+  wiki      = https://en.wikipedia.org/wiki/38_(number)
+
+photo 39 = trzydzieści dziewięć
+  afewchars = 39
+  say       = 39
+  wiki      = https://en.wikipedia.org/wiki/39_(number)
+
+photo 40 = czterdzieści
+  afewchars = 40
+  say       = 40
+  wiki      = https://en.wikipedia.org/wiki/40_(number)
+
+photo 41 = czterdzieści jeden
+  afewchars = 41
+  say       = 41
+  wiki      = https://en.wikipedia.org/wiki/41_(number)
+
+photo 42 = czterdzieści dwa
+  afewchars = 42
+  say       = 42
+  wiki      = https://en.wikipedia.org/wiki/42_(number)
+
+photo 43 = czterdzieści trzy
+  afewchars = 43
+  say       = 43
+  wiki      = https://en.wikipedia.org/wiki/43_(number)
+
+photo 44 = czterdzieści cztery
+  afewchars = 44
+  say       = 44
+  wiki      = https://en.wikipedia.org/wiki/44_(number)
+
+photo 45 = czterdzieści pięć
+  afewchars = 45
+  say       = 45
+  wiki      = https://en.wikipedia.org/wiki/45_(number)
+
+photo 46 = czterdzieści sześć
+  afewchars = 46
+  say       = 46
+  wiki      = https://en.wikipedia.org/wiki/46_(number)
+
+photo 47 = czterdzieści siedem
+  afewchars = 47
+  say       = 47
+  wiki      = https://en.wikipedia.org/wiki/47_(number)
+
+photo 48 = czterdzieści osiem
+  afewchars = 48
+  say       = 48
+  wiki      = https://en.wikipedia.org/wiki/48_(number)
+
+photo 49 = czterdzieści dziewięć
+  afewchars = 49
+  say       = 49
+  wiki      = https://en.wikipedia.org/wiki/49_(number)
+
+photo 50 = pięćdziesiąt
+  afewchars = 50
+  say       = 50
+  wiki      = https://en.wikipedia.org/wiki/50_(number)
+
+photo 51 = pięćdziesiąt jeden
+  afewchars = 51
+  say       = 51
+  wiki      = https://en.wikipedia.org/wiki/51_(number)
+
+photo 52 = pięćdziesiąt dwa
+  afewchars = 52
+  say       = 52
+  wiki      = https://en.wikipedia.org/wiki/52_(number)
+
+photo 53 = pięćdziesiąt trzy
+  afewchars = 53
+  say       = 53
+  wiki      = https://en.wikipedia.org/wiki/53_(number)
+
+photo 54 = pięćdziesiąt cztery
+  afewchars = 54
+  say       = 54
+  wiki      = https://en.wikipedia.org/wiki/54_(number)
+
+photo 55 = pięćdziesiąt pięć
+  afewchars = 55
+  say       = 55
+  wiki      = https://en.wikipedia.org/wiki/55_(number)
+
+photo 56 = pięćdziesiąt sześć
+  afewchars = 56
+  say       = 56
+  wiki      = https://en.wikipedia.org/wiki/56_(number)
+
+photo 57 = pięćdziesiąt siedem
+  afewchars = 57
+  say       = 57
+  wiki      = https://en.wikipedia.org/wiki/57_(number)
+
+photo 58 = pięćdziesiąt osiem
+  afewchars = 58
+  say       = 58
+  wiki      = https://en.wikipedia.org/wiki/58_(number)
+
+photo 59 = pięćdziesiąt dziewięć
+  afewchars = 59
+  say       = 59
+  wiki      = https://en.wikipedia.org/wiki/59_(number)
+
+photo 60 = sześćdziesiąt
+  afewchars = 60
+  say       = 60
+  wiki      = https://en.wikipedia.org/wiki/60_(number)
+
+photo 61 = sześćdziesiąt jeden
+  afewchars = 61
+  say       = 61
+  wiki      = https://en.wikipedia.org/wiki/61_(number)
+
+photo 62 = sześćdziesiąt dwa
+  afewchars = 62
+  say       = 62
+  wiki      = https://en.wikipedia.org/wiki/62_(number)
+
+photo 63 = sześćdziesiąt trzy
+  afewchars = 63
+  say       = 63
+  wiki      = https://en.wikipedia.org/wiki/63_(number)
+
+photo 64 = sześćdziesiąt cztery
+  afewchars = 64
+  say       = 64
+  wiki      = https://en.wikipedia.org/wiki/64_(number)
+
+photo 65 = sześćdziesiąt pięć
+  afewchars = 65
+  say       = 65
+  wiki      = https://en.wikipedia.org/wiki/65_(number)
+
+photo 66 = sześćdziesiąt sześć
+  afewchars = 66
+  say       = 66
+  wiki      = https://en.wikipedia.org/wiki/66_(number)
+
+photo 67 = sześćdziesiąt siedem
+  afewchars = 67
+  say       = 67
+  wiki      = https://en.wikipedia.org/wiki/67_(number)
+
+photo 68 = sześćdziesiąt osiem
+  afewchars = 68
+  say       = 68
+  wiki      = https://en.wikipedia.org/wiki/68_(number)
+
+photo 69 = sześćdziesiąt dziewięć
+  afewchars = 69
+  say       = 69
+  wiki      = https://en.wikipedia.org/wiki/69_(number)
+
+photo 70 = siedemdziesiąt
+  afewchars = 70
+  say       = 70
+  wiki      = https://en.wikipedia.org/wiki/70_(number)
+
+photo 71 = siedemdziesiąt jeden
+  afewchars = 71
+  say       = 71
+  wiki      = https://en.wikipedia.org/wiki/71_(number)
+
+photo 72 = siedemdziesiat dwa
+  afewchars = 72
+  say       = 72
+  wiki      = https://en.wikipedia.org/wiki/72_(number)
+
+photo 73 = siedemdziesiąt trzy
+  afewchars = 73
+  say       = 73
+  wiki      = https://en.wikipedia.org/wiki/73_(number)
+
+photo 74 = siedemdziesiąt cztery
+  afewchars = 74
+  say       = 74
+  wiki      = https://en.wikipedia.org/wiki/74_(number)
+
+photo 75 = siedemdziesiat pięć
+  afewchars = 75
+  say       = 75
+  wiki      = https://en.wikipedia.org/wiki/75_(number)
+
+photo 76 = siedemdziesiąt sześć
+  afewchars = 76
+  say       = 76
+  wiki      = https://en.wikipedia.org/wiki/76_(number)
+
+photo 77 = siedemdziesiąt siedem
+  afewchars = 77
+  say       = 77
+  wiki      = https://en.wikipedia.org/wiki/77_(number)
+
+photo 78 = siedemdziesiąt osiem
+  afewchars = 78
+  say       = 78
+  wiki      = https://en.wikipedia.org/wiki/78_(number)
+
+photo 79 = siedemdziesiąt dziewięć
+  afewchars = 79
+  say       = 79
+  wiki      = https://en.wikipedia.org/wiki/79_(number)
+
+photo 80 = osiemdziesiąt
+  afewchars = 80
+  say       = 80
+  wiki      = https://en.wikipedia.org/wiki/80_(number)
+
+photo 81 = osiemdziesiąt jeden
+  afewchars = 81
+  say       = 81
+  wiki      = https://en.wikipedia.org/wiki/81_(number)
+
+photo 82 = osiemdziesiąt dwa
+  afewchars = 82
+  say       = 82
+  wiki      = https://en.wikipedia.org/wiki/82_(number)
+
+photo 83 = osiemdziesiąt trzy
+  afewchars = 83
+  say       = 83
+  wiki      = https://en.wikipedia.org/wiki/83_(number)
+
+photo 84 = osiemdziesiąt cztery
+  afewchars = 84
+  say       = 84
+  wiki      = https://en.wikipedia.org/wiki/84_(number)
+
+photo 85 = osiemdziesiąt pięć
+  afewchars = 85
+  say       = 85
+  wiki      = https://en.wikipedia.org/wiki/85_(number)
+
+photo 86 = osiemdziesiąt sześć
+  afewchars = 86
+  say       = 86
+  wiki      = https://en.wikipedia.org/wiki/86_(number)
+
+photo 87 = osiemdziesiąt siedem
+  afewchars = 87
+  say       = 87
+  wiki      = https://en.wikipedia.org/wiki/87_(number)
+
+photo 88 = osiemdziesiąt osiem
+  afewchars = 88
+  say       = 88
+  wiki      = https://en.wikipedia.org/wiki/88_(number)
+
+photo 89 = osiemdziesiąt dziewięć
+  afewchars = 89
+  say       = 89
+  wiki      = https://en.wikipedia.org/wiki/89_(number)
+
+photo 90 = dziewięćdziesiąt
+  afewchars = 90
+  say       = 90
+  wiki      = https://en.wikipedia.org/wiki/90_(number)
+
+photo 91 = dziewięćdziesiąt jeden
+  afewchars = 91
+  say       = 91
+  wiki      = https://en.wikipedia.org/wiki/91_(number)
+
+photo 92 = dziewięćdziesiąt dwa
+  afewchars = 92
+  say       = 92
+  wiki      = https://en.wikipedia.org/wiki/92_(number)
+
+photo 93 = dziewięćdziesiąt trzy
+  afewchars = 93
+  say       = 93
+  wiki      = https://en.wikipedia.org/wiki/93_(number)
+
+photo 94 = dziewięćdziesiąt cztery
+  afewchars = 94
+  say       = 94
+  wiki      = https://en.wikipedia.org/wiki/94_(number)
+
+photo 95 = dziewięćdziesiąt pięć
+  afewchars = 95
+  say       = 95
+  wiki      = https://en.wikipedia.org/wiki/95_(number)
+
+photo 96 = dziewięćdziesiąt sześć
+  afewchars = 96
+  say       = 96
+  wiki      = https://en.wikipedia.org/wiki/96_(number)
+
+photo 97 = dziewięćdziesiąt siedem
+  afewchars = 97
+  say       = 97
+  wiki      = https://en.wikipedia.org/wiki/97_(number)
+
+photo 98 = dziewięćdziesiąt osiem
+  afewchars = 98
+  say       = 98
+  wiki      = https://en.wikipedia.org/wiki/98_(number)
+
+photo 99 = dziewięćdziesiąt dziewięć
+  afewchars = 99
+  say       = 99
+  wiki      = https://en.wikipedia.org/wiki/99_(number)
+
+photo 100 = sto
+  afewchars = 100
+  say       = 100
+  wiki      = https://en.wikipedia.org/wiki/100_(number)
