@@ -1,0 +1,59 @@
+  app ja10x10 = ja10x10 - The Tens from 10 to 100 in Japanese
+  description= Learn to recognize and say the tens from 10 to 100 in Japanese
+  icon       = icon.png
+  ordered    = finally
+  maxImages  = 12
+  author     = philiprbrenan
+  email      = philiprbrenan@gmail.com
+  language   = ja
+
+
+photo 10 = juu
+  afewchars = 10
+  say       = 10
+  wiki      = https://en.wikipedia.org/wiki/10_(number)
+
+photo 20 = nijuu
+  afewchars = 20
+  say       = 20
+  wiki      = https://en.wikipedia.org/wiki/20_(number)
+
+photo 30 = sanjuu
+  afewchars = 30
+  say       = 30
+  wiki      = https://en.wikipedia.org/wiki/30_(number)
+
+photo 40 = yonjuu
+  afewchars = 40
+  say       = 40
+  wiki      = https://en.wikipedia.org/wiki/40_(number)
+
+photo 50 = gojuu
+  afewchars = 50
+  say       = 50
+  wiki      = https://en.wikipedia.org/wiki/50_(number)
+
+photo 60 = rokujuu
+  afewchars = 60
+  say       = 60
+  wiki      = https://en.wikipedia.org/wiki/60_(number)
+
+photo 70 = nanajuu
+  afewchars = 70
+  say       = 70
+  wiki      = https://en.wikipedia.org/wiki/70_(number)
+
+photo 80 = hachijuu
+  afewchars = 80
+  say       = 80
+  wiki      = https://en.wikipedia.org/wiki/80_(number)
+
+photo 90 = kyuujuu
+  afewchars = 90
+  say       = 90
+  wiki      = https://en.wikipedia.org/wiki/90_(number)
+
+photo 100 = hyaku
+  afewchars = 100
+  say       = 100
+  wiki      = https://en.wikipedia.org/wiki/100_(number)
