@@ -1,0 +1,59 @@
+  app ja9 = ja9 - The Digits 0 to 9 in Japanese
+  description= Learn to recognize and say the digits 0 to 9 in Japanese
+  icon       = icon.png
+  ordered    = finally
+  maxImages  = 12
+  author     = philiprbrenan
+  email      = philiprbrenan@gmail.com
+  language   = ja
+
+
+photo 0 = rei
+  afewchars = 0
+  say       = 0
+  wiki      = https://en.wikipedia.org/wiki/0_(number)
+
+photo 1 = ichi
+  afewchars = 1
+  say       = 1
+  wiki      = https://en.wikipedia.org/wiki/1_(number)
+
+photo 2 = ni
+  afewchars = 2
+  say       = 2
+  wiki      = https://en.wikipedia.org/wiki/2_(number)
+
+photo 3 = san
+  afewchars = 3
+  say       = 3
+  wiki      = https://en.wikipedia.org/wiki/3_(number)
+
+photo 4 = yon
+  afewchars = 4
+  say       = 4
+  wiki      = https://en.wikipedia.org/wiki/4_(number)
+
+photo 5 = go
+  afewchars = 5
+  say       = 5
+  wiki      = https://en.wikipedia.org/wiki/5_(number)
+
+photo 6 = roku
+  afewchars = 6
+  say       = 6
+  wiki      = https://en.wikipedia.org/wiki/6_(number)
+
+photo 7 = nana
+  afewchars = 7
+  say       = 7
+  wiki      = https://en.wikipedia.org/wiki/7_(number)
+
+photo 8 = hachi
+  afewchars = 8
+  say       = 8
+  wiki      = https://en.wikipedia.org/wiki/8_(number)
+
+photo 9 = kyuu
+  afewchars = 9
+  say       = 9
+  wiki      = https://en.wikipedia.org/wiki/9_(number)
