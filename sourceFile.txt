@@ -1,4 +1,4 @@
-  app cycy9 = cycy9 - The Digits 0 to 9 in Welsh
+  app cy9 = cy9 - The Digits 0 to 9 in Welsh
   description= Learn to recognize and say the digits 0 to 9
   icon       = icon.png
   ordered    = finally
