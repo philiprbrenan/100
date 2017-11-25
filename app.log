@@ -1,38 +1,22 @@
-Failed.
+SUCCESS!
 
-2017-11-25 at 22:08:19 Generate AppaAppsPhotoApp version 20171124-1 philiprbrenan/100/sv/s
+2017-11-25 at 22:12:15 Generate AppaAppsPhotoApp version 20171124-1 philiprbrenan/100/sv/s
 
-2017-11-25 at 22:08:20 Step: parseSource
-2017-11-25 at 22:08:20 <b>Good source file!</b>
-2017-11-25 at 22:08:20 Step: loadAssets
-2017-11-25 at 22:08:21 0 new, 10 reused audio files
-2017-11-25 at 22:08:21 Step: multiplyPhotosByFacts
-2017-11-25 at 22:08:21 Step: genJavaManifest
-2017-11-25 at 22:08:21 Step: genJsonManifest
-2017-11-25 at 22:08:21 Step: genGameHtml
-2017-11-25 at 22:08:21 Step: genHtmlAssets
-2017-11-25 at 22:08:21 Step: zipAssets
-2017-11-25 at 22:08:21 Zip file is only 61389 bytes which is small?
+2017-11-25 at 22:12:17 Step: parseSource
+2017-11-25 at 22:12:17 <b>Good source file!</b>
+2017-11-25 at 22:12:17 Step: loadAssets
+2017-11-25 at 22:12:17 0 new, 10 reused audio files
+2017-11-25 at 22:12:17 Step: multiplyPhotosByFacts
+2017-11-25 at 22:12:17 Step: genJavaManifest
+2017-11-25 at 22:12:17 Step: genJsonManifest
+2017-11-25 at 22:12:17 Step: genGameHtml
+2017-11-25 at 22:12:17 Step: genHtmlAssets
+2017-11-25 at 22:12:17 Step: zipAssets
+2017-11-25 at 22:12:17 Zip file is only 61370 bytes which is small?
 
-2017-11-25 at 22:08:21 Step: compileApp
-2017-11-25 at 22:08:21 Unable to create apk file /tmp/AppaAppsPhotoApp/build/bin/s.apk in build folder:
-/tmp/AppaAppsPhotoApp/users/philiprbrenan/100/sv/s/
-Java errors
-/tmp/AppaAppsPhotoApp/build/gen/com/appaapps/photoapp/100/sv/s/R.java:8: error: ';' expected
-package com.appaapps.photoapp.100.sv.s;
-                             ^
-/tmp/AppaAppsPhotoApp/build/gen/com/appaapps/photoapp/100/sv/s/Activity.java:13: error: ';' expected
-package com.appaapps.photoapp.100.sv.s;
-                             ^
-2 errors
- at /usr/local/share/perl/5.22.1/Android/Build.pm line 449.
-	Android::Build::make(Android::Build=HASH(0x20cb6d8)) called at /usr/local/share/perl/5.22.1/Android/Build.pm line 548
-	Android::Build::compile(Android::Build=HASH(0x20cb6d8)) called at AppaAppsPhotoApp.pm line 2208
-	eval {...} called at AppaAppsPhotoApp.pm line 2208
-	Manifest::compileApp(Manifest=HASH(0x1edaf40)) called at AppaAppsPhotoApp.pm line 611
-	main::genApplicationDescriptionFromSourceFile() called at AppaAppsPhotoApp.pm line 2581
-	main::projectAction("philiprbrenan/100/sv/s", 4) called at AppaAppsPhotoApp.pm line 2609
-
+2017-11-25 at 22:12:17 Step: compileApp
+2017-11-25 at 22:12:21 Step: copyLinksToGitHub
+2017-11-25 at 22:12:26 Step: copyFilesIntoPositionOnWebServer
 --------------------------------------------------------------------------------
 do {
   my $a = bless({
@@ -51,10 +35,14 @@ do {
       libs          => [],
       log           => [
                          "",
-                         "/tmp/AppaAppsPhotoApp/build/gen/com/appaapps/photoapp/100/sv/s/R.java:8: error: ';' expected\npackage com.appaapps.photoapp.100.sv.s;\n                             ^\n/tmp/AppaAppsPhotoApp/build/gen/com/appaapps/photoapp/100/sv/s/Activity.java:13: error: ';' expected\npackage com.appaapps.photoapp.100.sv.s;\n                             ^\n2 errors",
+                         "",
+                         "Crunching PNG Files in source dir: /tmp/AppaAppsPhotoApp/build/res/\nTo destination dir: /tmp/AppaAppsPhotoApp/build/bin//tmp/AppaAppsPhotoApp/build/res",
+                         "",
+                         "Enter Passphrase for keystore: jar signed.\n\nWarning: \nNo -tsa or -tsacert is provided and this jar is not timestamped. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2044-09-10) or after any future revocation date.",
+                         "",
                        ],
-      package       => "com.appaapps.photoapp.100.sv.s",
-      parameters    => "1511647701,philiprbrenan,100,sv/s,http://www.appaapps.com/users/philiprbrenan/100/sv/s/zip/100.zip,svs - The Screenshots in Swedish",
+      package       => "com.appaapps.photoapp100svs",
+      parameters    => "1511647937,philiprbrenan,100,sv/s,http://www.appaapps.com/users/philiprbrenan/100/sv/s/zip/100.zip,svs - The Screenshots in Swedish",
       permissions   => ["INTERNET", "ACCESS_NETWORK_STATE", "WRITE_EXTERNAL_STORAGE"],
       platform      => "/home/phil/Android/sdk/platforms/android-25/",
       platformTools => "/home/phil/Android/sdk/platform-tools/",
@@ -79,6 +67,7 @@ do {
                          "/home/phil/java/unzip/Unzip.java",
                        ],
       title         => "svs - The Screenshots in Swedish",
+      verifyApk     => undef,
       version       => 20171125,
     }, "Android::Build"),
     app => bless({
@@ -99,29 +88,30 @@ do {
         rightInARow => 6,
         speakers    => "Astrid",
         title       => "svs - The Screenshots in Swedish",
-        version     => "2017-11-25 at 22:08:20",
+        version     => "2017-11-25 at 22:12:17",
       }, "ParsedKeys"),
       start => 1,
       title => "svs - The Screenshots in Swedish",
       titleFile => undef,
     }, "ParsedCmd"),
-    error => 1,
+    error => 0,
     iconFile => "/home/phil/audioImageCache/images/icon.png",
     log => [
-      "\n2017-11-25 at 22:08:19 Generate AppaAppsPhotoApp version 20171124-1 philiprbrenan/100/sv/s\n",
-      "2017-11-25 at 22:08:20 Step: parseSource",
-      "2017-11-25 at 22:08:20 <b>Good source file!</b>",
-      "2017-11-25 at 22:08:20 Step: loadAssets",
-      "2017-11-25 at 22:08:21 0 new, 10 reused audio files",
-      "2017-11-25 at 22:08:21 Step: multiplyPhotosByFacts",
-      "2017-11-25 at 22:08:21 Step: genJavaManifest",
-      "2017-11-25 at 22:08:21 Step: genJsonManifest",
-      "2017-11-25 at 22:08:21 Step: genGameHtml",
-      "2017-11-25 at 22:08:21 Step: genHtmlAssets",
-      "2017-11-25 at 22:08:21 Step: zipAssets",
-      "2017-11-25 at 22:08:21 Zip file is only 61389 bytes which is small?\n",
-      "2017-11-25 at 22:08:21 Step: compileApp",
-      "2017-11-25 at 22:08:21 Unable to create apk file /tmp/AppaAppsPhotoApp/build/bin/s.apk in build folder:\n/tmp/AppaAppsPhotoApp/users/philiprbrenan/100/sv/s/\nJava errors\n/tmp/AppaAppsPhotoApp/build/gen/com/appaapps/photoapp/100/sv/s/R.java:8: error: ';' expected\npackage com.appaapps.photoapp.100.sv.s;\n                             ^\n/tmp/AppaAppsPhotoApp/build/gen/com/appaapps/photoapp/100/sv/s/Activity.java:13: error: ';' expected\npackage com.appaapps.photoapp.100.sv.s;\n                             ^\n2 errors\n at /usr/local/share/perl/5.22.1/Android/Build.pm line 449.\n\tAndroid::Build::make(Android::Build=HASH(0x20cb6d8)) called at /usr/local/share/perl/5.22.1/Android/Build.pm line 548\n\tAndroid::Build::compile(Android::Build=HASH(0x20cb6d8)) called at AppaAppsPhotoApp.pm line 2208\n\teval {...} called at AppaAppsPhotoApp.pm line 2208\n\tManifest::compileApp(Manifest=HASH(0x1edaf40)) called at AppaAppsPhotoApp.pm line 611\n\tmain::genApplicationDescriptionFromSourceFile() called at AppaAppsPhotoApp.pm line 2581\n\tmain::projectAction(\"philiprbrenan/100/sv/s\", 4) called at AppaAppsPhotoApp.pm line 2609\n",
+      "\n2017-11-25 at 22:12:15 Generate AppaAppsPhotoApp version 20171124-1 philiprbrenan/100/sv/s\n",
+      "2017-11-25 at 22:12:17 Step: parseSource",
+      "2017-11-25 at 22:12:17 <b>Good source file!</b>",
+      "2017-11-25 at 22:12:17 Step: loadAssets",
+      "2017-11-25 at 22:12:17 0 new, 10 reused audio files",
+      "2017-11-25 at 22:12:17 Step: multiplyPhotosByFacts",
+      "2017-11-25 at 22:12:17 Step: genJavaManifest",
+      "2017-11-25 at 22:12:17 Step: genJsonManifest",
+      "2017-11-25 at 22:12:17 Step: genGameHtml",
+      "2017-11-25 at 22:12:17 Step: genHtmlAssets",
+      "2017-11-25 at 22:12:17 Step: zipAssets",
+      "2017-11-25 at 22:12:17 Zip file is only 61370 bytes which is small?\n",
+      "2017-11-25 at 22:12:17 Step: compileApp",
+      "2017-11-25 at 22:12:21 Step: copyLinksToGitHub",
+      "2017-11-25 at 22:12:26 Step: copyFilesIntoPositionOnWebServer",
     ],
     parsedCmds => [
       'fix',
@@ -318,7 +308,7 @@ do {
     ],
     source => "  app 100.sv.s = svs - The Screenshots in Swedish\n  description= Learn to recognize and say the screenshots in Swedish\n  icon       = icon.png\n  ordered    = always\n  maxImages  = 12\n  author     = philiprbrenan\n  email      = philiprbrenan\@gmail.com\n  language   = sv\n\n\nphoto 0 = noll\n  afewchars = 0\n  say       = 0\n  wiki      = https://en.wikipedia.org/wiki/0_(number)\n\nphoto 1 = en\n  afewchars = 1\n  say       = 1\n  wiki      = https://en.wikipedia.org/wiki/1_(number)\n\nphoto 2 = tv\xE5\n  afewchars = 2\n  say       = 2\n  wiki      = https://en.wikipedia.org/wiki/2_(number)\n\nphoto 3 = tre\n  afewchars = 3\n  say       = 3\n  wiki      = https://en.wikipedia.org/wiki/3_(number)\n\nphoto 4 = fyra\n  afewchars = 4\n  say       = 4\n  wiki      = https://en.wikipedia.org/wiki/4_(number)\n\nphoto 5 = fem\n  afewchars = 5\n  say       = 5\n  wiki      = https://en.wikipedia.org/wiki/5_(number)\n\nphoto 6 = sex\n  afewchars = 6\n  say       = 6\n  wiki      = https://en.wikipedia.org/wiki/6_(number)\n\nphoto 7 = sju\n  afewchars = 7\n  say       = 7\n  wiki      = https://en.wikipedia.org/wiki/7_(number)\n\nphoto 8 = \xE5tta\n  afewchars = 8\n  say       = 8\n  wiki      = https://en.wikipedia.org/wiki/8_(number)\n\nphoto 9 = nio\n  afewchars = 9\n  say       = 9\n  wiki      = https://en.wikipedia.org/wiki/9_(number)\n",
     sourceFileSha => "698648e679ef5da450a80e75b14867db1c1265e1",
-    step => "compileApp",
+    step => "completed",
   }, "Manifest");
   $a->{parsedCmds}[0] = $a->{app};
   $a;
