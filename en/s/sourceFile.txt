@@ -1,0 +1,59 @@
+  app ens = ens - The Screenshots in English
+  description= Learn to recognize and say the screenshots in English
+  icon       = icon.png
+  ordered    = always
+  maxImages  = 12
+  author     = philiprbrenan
+  email      = philiprbrenan@gmail.com
+  language   = en
+
+
+photo 0 = zero
+  afewchars = 0
+  say       = 0
+  wiki      = https://en.wikipedia.org/wiki/0_(number)
+
+photo 1 = one
+  afewchars = 1
+  say       = 1
+  wiki      = https://en.wikipedia.org/wiki/1_(number)
+
+photo 2 = two
+  afewchars = 2
+  say       = 2
+  wiki      = https://en.wikipedia.org/wiki/2_(number)
+
+photo 3 = three
+  afewchars = 3
+  say       = 3
+  wiki      = https://en.wikipedia.org/wiki/3_(number)
+
+photo 4 = four
+  afewchars = 4
+  say       = 4
+  wiki      = https://en.wikipedia.org/wiki/4_(number)
+
+photo 5 = five
+  afewchars = 5
+  say       = 5
+  wiki      = https://en.wikipedia.org/wiki/5_(number)
+
+photo 6 = six
+  afewchars = 6
+  say       = 6
+  wiki      = https://en.wikipedia.org/wiki/6_(number)
+
+photo 7 = seven
+  afewchars = 7
+  say       = 7
+  wiki      = https://en.wikipedia.org/wiki/7_(number)
+
+photo 8 = eight
+  afewchars = 8
+  say       = 8
+  wiki      = https://en.wikipedia.org/wiki/8_(number)
+
+photo 9 = nine
+  afewchars = 9
+  say       = 9
+  wiki      = https://en.wikipedia.org/wiki/9_(number)
