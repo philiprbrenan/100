@@ -1,0 +1,59 @@
+  app pts = pts - The Screenshots in Portuguese
+  description= Learn to recognize and say the screenshots in Portuguese
+  icon       = icon.png
+  ordered    = always
+  maxImages  = 12
+  author     = philiprbrenan
+  email      = philiprbrenan@gmail.com
+  language   = pt
+
+
+photo 0 = zero
+  afewchars = 0
+  say       = 0
+  wiki      = https://en.wikipedia.org/wiki/0_(number)
+
+photo 1 = um
+  afewchars = 1
+  say       = 1
+  wiki      = https://en.wikipedia.org/wiki/1_(number)
+
+photo 2 = dois
+  afewchars = 2
+  say       = 2
+  wiki      = https://en.wikipedia.org/wiki/2_(number)
+
+photo 3 = três
+  afewchars = 3
+  say       = 3
+  wiki      = https://en.wikipedia.org/wiki/3_(number)
+
+photo 4 = quatro
+  afewchars = 4
+  say       = 4
+  wiki      = https://en.wikipedia.org/wiki/4_(number)
+
+photo 5 = cinco
+  afewchars = 5
+  say       = 5
+  wiki      = https://en.wikipedia.org/wiki/5_(number)
+
+photo 6 = seis
+  afewchars = 6
+  say       = 6
+  wiki      = https://en.wikipedia.org/wiki/6_(number)
+
+photo 7 = sete
+  afewchars = 7
+  say       = 7
+  wiki      = https://en.wikipedia.org/wiki/7_(number)
+
+photo 8 = oito
+  afewchars = 8
+  say       = 8
+  wiki      = https://en.wikipedia.org/wiki/8_(number)
+
+photo 9 = nove
+  afewchars = 9
+  say       = 9
+  wiki      = https://en.wikipedia.org/wiki/9_(number)
