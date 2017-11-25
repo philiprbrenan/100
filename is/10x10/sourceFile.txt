@@ -1,0 +1,59 @@
+  app is10x10 = is10x10 - The Tens from 10 to 100 in Icelandic
+  description= Learn to recognize and say the tens from 10 to 100 in Icelandic
+  icon       = icon.png
+  ordered    = finally
+  maxImages  = 12
+  author     = philiprbrenan
+  email      = philiprbrenan@gmail.com
+  language   = is
+
+
+photo 10 = tíu
+  afewchars = 10
+  say       = 10
+  wiki      = https://en.wikipedia.org/wiki/10_(number)
+
+photo 20 = tuttugu
+  afewchars = 20
+  say       = 20
+  wiki      = https://en.wikipedia.org/wiki/20_(number)
+
+photo 30 = þrjátíu
+  afewchars = 30
+  say       = 30
+  wiki      = https://en.wikipedia.org/wiki/30_(number)
+
+photo 40 = fjörutíu
+  afewchars = 40
+  say       = 40
+  wiki      = https://en.wikipedia.org/wiki/40_(number)
+
+photo 50 = fimmtíu
+  afewchars = 50
+  say       = 50
+  wiki      = https://en.wikipedia.org/wiki/50_(number)
+
+photo 60 = sextíu
+  afewchars = 60
+  say       = 60
+  wiki      = https://en.wikipedia.org/wiki/60_(number)
+
+photo 70 = sjötíu
+  afewchars = 70
+  say       = 70
+  wiki      = https://en.wikipedia.org/wiki/70_(number)
+
+photo 80 = áttatíu
+  afewchars = 80
+  say       = 80
+  wiki      = https://en.wikipedia.org/wiki/80_(number)
+
+photo 90 = níutíu
+  afewchars = 90
+  say       = 90
+  wiki      = https://en.wikipedia.org/wiki/90_(number)
+
+photo 100 = hundrað
+  afewchars = 100
+  say       = 100
+  wiki      = https://en.wikipedia.org/wiki/100_(number)
