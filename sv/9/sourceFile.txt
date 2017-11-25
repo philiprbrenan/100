@@ -1,4 +1,4 @@
-  app sv9 = sv9 - The Digits 0 to 9 in Swedish
+  app 100.sv.2 = 100sv2 - The Digits 0 to 9 in Swedish
   description= Learn to recognize and say the digits 0 to 9 in Swedish
   icon       = icon.png
   ordered    = finally
