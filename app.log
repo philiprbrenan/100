@@ -1,15 +1,15 @@
 Failed.
 
-2017-11-26 at 01:00:41 Generate AppaAppsPhotoApp version 20171125-2 philiprbrenan/100
+2017-11-26 at 01:06:30 Generate AppaAppsPhotoApp version 20171125-3 philiprbrenan/100
 
-2017-11-26 at 01:00:43 Unable to read sourceFile.txt from GitHub repository philiprbrenan/100 Please create this repository and add a file sourceFile.txt 
+2017-11-26 at 01:06:32 Unable to read sourceFile.txt from GitHub repository philiprbrenan/100 Please create this repository and add a file sourceFile.txt 
 --------------------------------------------------------------------------------
 bless({
   error => 1,
   gitHubNoSourceFile => 1,
   log => [
-    "\n2017-11-26 at 01:00:41 Generate AppaAppsPhotoApp version 20171125-2 philiprbrenan/100\n",
-    "2017-11-26 at 01:00:43 Unable to read sourceFile.txt from GitHub repository philiprbrenan/100 Please create this repository and add a file sourceFile.txt ",
+    "\n2017-11-26 at 01:06:30 Generate AppaAppsPhotoApp version 20171125-3 philiprbrenan/100\n",
+    "2017-11-26 at 01:06:32 Unable to read sourceFile.txt from GitHub repository philiprbrenan/100 Please create this repository and add a file sourceFile.txt ",
   ],
   step => "readSourceFileFromGitHub",
 }, "Manifest")
