@@ -1,12 +1,13 @@
   app 100.sv.s = The Screenshots in Swedish
-  description= Learn to recognize and say the screenshots in Swedish
-  icon       = icon.png
-  ordered    = always
-  maxImages  = 12
-  author     = philiprbrenan
-  email      = philiprbrenan@gmail.com
-  language   = sv
-  
+  description   = Learn to recognize and say the screenshots in Swedish
+  icon          = icon.png
+  ordered       = always
+  maxImages     = 12
+  author        = philiprbrenan
+  email         = philiprbrenan@gmail.com
+  language      = sv
+  prerequisites = 
+  enables       = 
 
 
 photo 0 = noll
