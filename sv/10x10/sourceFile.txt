@@ -7,7 +7,7 @@
   email         = philiprbrenan@gmail.com
   language      = sv
   prerequisites = philiprbrenan/100/sv/9
-  enables       = philiprbrenan/100/sv/1
+  enables       = philiprbrenan/100/sv/100
 
 
 photo 10 = tio
