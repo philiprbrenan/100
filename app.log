@@ -1,22 +1,22 @@
 SUCCESS!
 
-2017-11-27 at 02:17:56 Generate AppaAppsPhotoApp version 20171126-66 philiprbrenan/100/sv/s
+2017-11-27 at 02:53:38 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/s
 
-2017-11-27 at 02:17:57 Step: parseSource
-2017-11-27 at 02:17:57 <b>Good source file!</b>
-2017-11-27 at 02:17:57 Step: loadAssets
-2017-11-27 at 02:17:57 0 new, 10 reused audio files
-2017-11-27 at 02:17:57 Step: multiplyPhotosByFacts
-2017-11-27 at 02:17:57 Step: genJavaManifest
-2017-11-27 at 02:17:57 Step: genJsonManifest
-2017-11-27 at 02:17:57 Step: genGameHtml
-2017-11-27 at 02:17:57 Step: genHtmlAssets
-2017-11-27 at 02:17:57 Step: zipAssets
-2017-11-27 at 02:17:57 Zip file is only 61398 bytes which is small?
+2017-11-27 at 02:53:40 Step: parseSource
+2017-11-27 at 02:53:40 <b>Good source file!</b>
+2017-11-27 at 02:53:40 Step: loadAssets
+2017-11-27 at 02:53:40 0 new, 10 reused audio files
+2017-11-27 at 02:53:40 Step: multiplyPhotosByFacts
+2017-11-27 at 02:53:40 Step: genJavaManifest
+2017-11-27 at 02:53:40 Step: genJsonManifest
+2017-11-27 at 02:53:40 Step: genGameHtml
+2017-11-27 at 02:53:40 Step: genHtmlAssets
+2017-11-27 at 02:53:40 Step: zipAssets
+2017-11-27 at 02:53:40 Zip file is only 61375 bytes which is small?
 
-2017-11-27 at 02:17:57 Step: compileApp
-2017-11-27 at 02:18:07 Step: copyLinksToGitHub
-2017-11-27 at 02:18:09 Step: copyFilesIntoPositionOnWebServer
+2017-11-27 at 02:53:40 Step: compileApp
+2017-11-27 at 02:53:49 Step: copyLinksToGitHub
+2017-11-27 at 02:53:50 Step: copyFilesIntoPositionOnWebServer
 --------------------------------------------------------------------------------
 do {
   my $a = bless({
@@ -27,7 +27,7 @@ do {
                        buildTools    => "/home/phil/Android/sdk/build-tools/25.0.3/",
                        debug         => 0,
                        device        => "-s emulator-5554",
-                       home          => "/root/",
+                       home          => "/",
                        icon          => "/home/phil/audioImageCache/images/icon.png",
                        keyAlias      => "genApp",
                        keyStoreFile  => "/home/phil/AppaAppsPhotoApp/keys/genApp.keystore",
@@ -36,13 +36,13 @@ do {
                        log           => [
                                           "",
                                           "",
-                                          "Crunching PNG Files in source dir: /tmp/AppaAppsPhotoApp/build/res/\nTo destination dir: /tmp/AppaAppsPhotoApp/build/bin//tmp/AppaAppsPhotoApp/build/res",
+                                          "libpng error: Read Error\nCrunching PNG Files in source dir: /tmp/AppaAppsPhotoApp/build/res/\nTo destination dir: /tmp/AppaAppsPhotoApp/build/bin//tmp/AppaAppsPhotoApp/build/res",
                                           "",
                                           "Enter Passphrase for keystore: jar signed.\n\nWarning: \nNo -tsa or -tsacert is provided and this jar is not timestamped. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2044-09-10) or after any future revocation date.",
                                           "",
                                         ],
                        package       => "com.appaapps.photoapp.philiprbrenan100svs",
-                       parameters    => "1511749077,philiprbrenan,100,sv/s,http://www.appaapps.com/users/philiprbrenan/100/sv/s/zip/philiprbrenan100svs.zip,100.sv.s - 100svs - The Screenshots in Swedish",
+                       parameters    => "1511751220,philiprbrenan,100,sv/s,http://www.appaapps.com/users/philiprbrenan/100/sv/s/zip/philiprbrenan100svs.zip,100.sv.s - The Screenshots in Swedish",
                        permissions   => ["INTERNET", "ACCESS_NETWORK_STATE", "WRITE_EXTERNAL_STORAGE"],
                        platform      => "/home/phil/Android/sdk/platforms/android-25/",
                        platformTools => "/home/phil/Android/sdk/platform-tools/",
@@ -67,7 +67,7 @@ do {
                                           "/home/phil/java/upload/GitHubUploadStream.java",
                                           "/home/phil/java/unzip/Unzip.java",
                                         ],
-                       title         => "100svs - The Screenshots in Swedish",
+                       title         => "The Screenshots in Swedish",
                        verifyApk     => undef,
                        version       => 20171127,
                      }, "Android::Build"),
@@ -88,37 +88,37 @@ do {
                          ordered     => "always",
                          rightInARow => 6,
                          speakers    => "Astrid",
-                         title       => "100svs - The Screenshots in Swedish",
-                         version     => "2017-11-27 at 02:17:57",
+                         title       => "The Screenshots in Swedish",
+                         version     => "2017-11-27 at 02:53:40",
                        }, "ParsedKeys"),
                        start => 1,
-                       title => "100svs - The Screenshots in Swedish",
+                       title => "The Screenshots in Swedish",
                        titleFile => undef,
                      }, "ParsedCmd"),
     error         => 0,
     iconFile      => "/home/phil/audioImageCache/images/icon.png",
     log           => [
-                       "\n2017-11-27 at 02:17:56 Generate AppaAppsPhotoApp version 20171126-66 philiprbrenan/100/sv/s\n",
-                       "2017-11-27 at 02:17:57 Step: parseSource",
-                       "2017-11-27 at 02:17:57 <b>Good source file!</b>",
-                       "2017-11-27 at 02:17:57 Step: loadAssets",
-                       "2017-11-27 at 02:17:57 0 new, 10 reused audio files",
-                       "2017-11-27 at 02:17:57 Step: multiplyPhotosByFacts",
-                       "2017-11-27 at 02:17:57 Step: genJavaManifest",
-                       "2017-11-27 at 02:17:57 Step: genJsonManifest",
-                       "2017-11-27 at 02:17:57 Step: genGameHtml",
-                       "2017-11-27 at 02:17:57 Step: genHtmlAssets",
-                       "2017-11-27 at 02:17:57 Step: zipAssets",
-                       "2017-11-27 at 02:17:57 Zip file is only 61398 bytes which is small?\n",
-                       "2017-11-27 at 02:17:57 Step: compileApp",
-                       "2017-11-27 at 02:18:07 Step: copyLinksToGitHub",
-                       "2017-11-27 at 02:18:09 Step: copyFilesIntoPositionOnWebServer",
+                       "\n2017-11-27 at 02:53:38 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/s\n",
+                       "2017-11-27 at 02:53:40 Step: parseSource",
+                       "2017-11-27 at 02:53:40 <b>Good source file!</b>",
+                       "2017-11-27 at 02:53:40 Step: loadAssets",
+                       "2017-11-27 at 02:53:40 0 new, 10 reused audio files",
+                       "2017-11-27 at 02:53:40 Step: multiplyPhotosByFacts",
+                       "2017-11-27 at 02:53:40 Step: genJavaManifest",
+                       "2017-11-27 at 02:53:40 Step: genJsonManifest",
+                       "2017-11-27 at 02:53:40 Step: genGameHtml",
+                       "2017-11-27 at 02:53:40 Step: genHtmlAssets",
+                       "2017-11-27 at 02:53:40 Step: zipAssets",
+                       "2017-11-27 at 02:53:40 Zip file is only 61375 bytes which is small?\n",
+                       "2017-11-27 at 02:53:40 Step: compileApp",
+                       "2017-11-27 at 02:53:49 Step: copyLinksToGitHub",
+                       "2017-11-27 at 02:53:50 Step: copyFilesIntoPositionOnWebServer",
                      ],
     parsedCmds    => [
                        'fix',
                        bless({
                          cmd => "photo",
-                         end => 14,
+                         end => 15,
                          index => 0,
                          name => 0,
                          parsedKeys => bless({
@@ -131,13 +131,13 @@ do {
                            wiki => "https://en.wikipedia.org/wiki/0_(number)",
                          }, "ParsedKeys"),
                          say => 0,
-                         start => 11,
+                         start => 12,
                          title => "noll",
                          titleFile => "noll",
                        }, "ParsedCmd"),
                        bless({
                          cmd => "photo",
-                         end => 19,
+                         end => 20,
                          index => 1,
                          name => 1,
                          parsedKeys => bless({
@@ -150,13 +150,13 @@ do {
                            wiki => "https://en.wikipedia.org/wiki/1_(number)",
                          }, "ParsedKeys"),
                          say => 1,
-                         start => 16,
+                         start => 17,
                          title => "en",
                          titleFile => "en",
                        }, "ParsedCmd"),
                        bless({
                          cmd => "photo",
-                         end => 24,
+                         end => 25,
                          index => 2,
                          name => 2,
                          parsedKeys => bless({
@@ -169,13 +169,13 @@ do {
                            wiki => "https://en.wikipedia.org/wiki/2_(number)",
                          }, "ParsedKeys"),
                          say => 2,
-                         start => 21,
+                         start => 22,
                          title => "tv\xE5",
                          titleFile => "tv\xE5",
                        }, "ParsedCmd"),
                        bless({
                          cmd => "photo",
-                         end => 29,
+                         end => 30,
                          index => 3,
                          name => 3,
                          parsedKeys => bless({
@@ -188,13 +188,13 @@ do {
                            wiki => "https://en.wikipedia.org/wiki/3_(number)",
                          }, "ParsedKeys"),
                          say => 3,
-                         start => 26,
+                         start => 27,
                          title => "tre",
                          titleFile => "tre",
                        }, "ParsedCmd"),
                        bless({
                          cmd => "photo",
-                         end => 34,
+                         end => 35,
                          index => 4,
                          name => 4,
                          parsedKeys => bless({
@@ -207,13 +207,13 @@ do {
                            wiki => "https://en.wikipedia.org/wiki/4_(number)",
                          }, "ParsedKeys"),
                          say => 4,
-                         start => 31,
+                         start => 32,
                          title => "fyra",
                          titleFile => "fyra",
                        }, "ParsedCmd"),
                        bless({
                          cmd => "photo",
-                         end => 39,
+                         end => 40,
                          index => 5,
                          name => 5,
                          parsedKeys => bless({
@@ -226,13 +226,13 @@ do {
                            wiki => "https://en.wikipedia.org/wiki/5_(number)",
                          }, "ParsedKeys"),
                          say => 5,
-                         start => 36,
+                         start => 37,
                          title => "fem",
                          titleFile => "fem",
                        }, "ParsedCmd"),
                        bless({
                          cmd => "photo",
-                         end => 44,
+                         end => 45,
                          index => 6,
                          name => 6,
                          parsedKeys => bless({
@@ -245,13 +245,13 @@ do {
                            wiki => "https://en.wikipedia.org/wiki/6_(number)",
                          }, "ParsedKeys"),
                          say => 6,
-                         start => 41,
+                         start => 42,
                          title => "sex",
                          titleFile => "sex",
                        }, "ParsedCmd"),
                        bless({
                          cmd => "photo",
-                         end => 49,
+                         end => 50,
                          index => 7,
                          name => 7,
                          parsedKeys => bless({
@@ -264,13 +264,13 @@ do {
                            wiki => "https://en.wikipedia.org/wiki/7_(number)",
                          }, "ParsedKeys"),
                          say => 7,
-                         start => 46,
+                         start => 47,
                          title => "sju",
                          titleFile => "sju",
                        }, "ParsedCmd"),
                        bless({
                          cmd => "photo",
-                         end => 54,
+                         end => 55,
                          index => 8,
                          name => 8,
                          parsedKeys => bless({
@@ -283,13 +283,13 @@ do {
                            wiki => "https://en.wikipedia.org/wiki/8_(number)",
                          }, "ParsedKeys"),
                          say => 8,
-                         start => 51,
+                         start => 52,
                          title => "\xE5tta",
                          titleFile => "\xE5tta",
                        }, "ParsedCmd"),
                        bless({
                          cmd => "photo",
-                         end => 59,
+                         end => 60,
                          index => 9,
                          name => 9,
                          parsedKeys => bless({
@@ -302,14 +302,14 @@ do {
                            wiki => "https://en.wikipedia.org/wiki/9_(number)",
                          }, "ParsedKeys"),
                          say => 9,
-                         start => 56,
+                         start => 57,
                          title => "nio",
                          titleFile => "nio",
                        }, "ParsedCmd"),
                      ],
     project       => "philiprbrenan/100/sv/s",
-    source        => "  app 100.sv.s  = 100svs - The Screenshots in Swedish\n  description= Learn to recognize and say the screenshots in Swedish\n  icon       = icon.png\n  ordered    = always\n  maxImages  = 12\n  author     = philiprbrenan\n  email      = philiprbrenan\@gmail.com\n  language   = sv\n\n\nphoto 0 = noll\n  afewchars = 0\n  say       = 0\n  wiki      = https://en.wikipedia.org/wiki/0_(number)\n\nphoto 1 = en\n  afewchars = 1\n  say       = 1\n  wiki      = https://en.wikipedia.org/wiki/1_(number)\n\nphoto 2 = tv\xE5\n  afewchars = 2\n  say       = 2\n  wiki      = https://en.wikipedia.org/wiki/2_(number)\n\nphoto 3 = tre\n  afewchars = 3\n  say       = 3\n  wiki      = https://en.wikipedia.org/wiki/3_(number)\n\nphoto 4 = fyra\n  afewchars = 4\n  say       = 4\n  wiki      = https://en.wikipedia.org/wiki/4_(number)\n\nphoto 5 = fem\n  afewchars = 5\n  say       = 5\n  wiki      = https://en.wikipedia.org/wiki/5_(number)\n\nphoto 6 = sex\n  afewchars = 6\n  say       = 6\n  wiki      = https://en.wikipedia.org/wiki/6_(number)\n\nphoto 7 = sju\n  afewchars = 7\n  say       = 7\n  wiki      = https://en.wikipedia.org/wiki/7_(number)\n\nphoto 8 = \xE5tta\n  afewchars = 8\n  say       = 8\n  wiki      = https://en.wikipedia.org/wiki/8_(number)\n\nphoto 9 = nio\n  afewchars = 9\n  say       = 9\n  wiki      = https://en.wikipedia.org/wiki/9_(number)\n",
-    sourceFileSha => "e6251767df8cb4ce896798cd625a93613e2fcbe5",
+    source        => "  app 100.sv.s = The Screenshots in Swedish\n  description= Learn to recognize and say the screenshots in Swedish\n  icon       = icon.png\n  ordered    = always\n  maxImages  = 12\n  author     = philiprbrenan\n  email      = philiprbrenan\@gmail.com\n  language   = sv\n  \n\n\nphoto 0 = noll\n  afewchars = 0\n  say       = 0\n  wiki      = https://en.wikipedia.org/wiki/0_(number)\n\nphoto 1 = en\n  afewchars = 1\n  say       = 1\n  wiki      = https://en.wikipedia.org/wiki/1_(number)\n\nphoto 2 = tv\xE5\n  afewchars = 2\n  say       = 2\n  wiki      = https://en.wikipedia.org/wiki/2_(number)\n\nphoto 3 = tre\n  afewchars = 3\n  say       = 3\n  wiki      = https://en.wikipedia.org/wiki/3_(number)\n\nphoto 4 = fyra\n  afewchars = 4\n  say       = 4\n  wiki      = https://en.wikipedia.org/wiki/4_(number)\n\nphoto 5 = fem\n  afewchars = 5\n  say       = 5\n  wiki      = https://en.wikipedia.org/wiki/5_(number)\n\nphoto 6 = sex\n  afewchars = 6\n  say       = 6\n  wiki      = https://en.wikipedia.org/wiki/6_(number)\n\nphoto 7 = sju\n  afewchars = 7\n  say       = 7\n  wiki      = https://en.wikipedia.org/wiki/7_(number)\n\nphoto 8 = \xE5tta\n  afewchars = 8\n  say       = 8\n  wiki      = https://en.wikipedia.org/wiki/8_(number)\n\nphoto 9 = nio\n  afewchars = 9\n  say       = 9\n  wiki      = https://en.wikipedia.org/wiki/9_(number)\n",
+    sourceFileSha => "2213f035af453f283088a12886ef8e0496cedf49",
     step          => "completed",
   }, "Manifest");
   $a->{parsedCmds}[0] = $a->{app};
