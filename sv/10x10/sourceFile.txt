@@ -1,11 +1,13 @@
-  app sv10x10 = sv10x10 - The Tens from 10 to 100 in Swedish
-  description= Learn to recognize and say the tens from 10 to 100 in Swedish
-  icon       = icon.png
-  ordered    = finally
-  maxImages  = 12
-  author     = philiprbrenan
-  email      = philiprbrenan@gmail.com
-  language   = sv
+  app 100.sv.10x10 = The Tens from 10 to 100 in Swedish
+  description   = Learn to recognize and say the tens from 10 to 100 in Swedish
+  icon          = icon.png
+  ordered       = finally
+  maxImages     = 12
+  author        = philiprbrenan
+  email         = philiprbrenan@gmail.com
+  language      = sv
+  prerequisites = philiprbrenan/100/sv/9
+  enables       = philiprbrenan/100/sv/1
 
 
 photo 10 = tio
