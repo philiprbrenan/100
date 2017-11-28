@@ -1,22 +1,22 @@
 SUCCESS!
 
-2017-11-27 at 23:53:57 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/10x10
+2017-11-28 at 01:14:24 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/10x10
 
-2017-11-27 at 23:53:59 Step: parseSource
-2017-11-27 at 23:53:59 <b>Good source file!</b>
-2017-11-27 at 23:53:59 Step: loadAssets
-2017-11-27 at 23:53:59 0 new, 10 reused audio files
-2017-11-27 at 23:53:59 Step: multiplyPhotosByFacts
-2017-11-27 at 23:53:59 Step: genJavaManifest
-2017-11-27 at 23:53:59 Step: genJsonManifest
-2017-11-27 at 23:53:59 Step: genGameHtml
-2017-11-27 at 23:53:59 Step: genHtmlAssets
-2017-11-27 at 23:53:59 Step: zipAssets
-2017-11-27 at 23:53:59 Zip file is only 78762 bytes which is small?
+2017-11-28 at 01:14:25 Step: parseSource
+2017-11-28 at 01:14:25 <b>Good source file!</b>
+2017-11-28 at 01:14:25 Step: loadAssets
+2017-11-28 at 01:14:25 0 new, 10 reused audio files
+2017-11-28 at 01:14:25 Step: multiplyPhotosByFacts
+2017-11-28 at 01:14:25 Step: genJavaManifest
+2017-11-28 at 01:14:25 Step: genJsonManifest
+2017-11-28 at 01:14:25 Step: genGameHtml
+2017-11-28 at 01:14:25 Step: genHtmlAssets
+2017-11-28 at 01:14:25 Step: zipAssets
+2017-11-28 at 01:14:25 Zip file is only 78776 bytes which is small?
 
-2017-11-27 at 23:53:59 Step: compileApp
-2017-11-27 at 23:54:09 Step: copyLinksToGitHub
-2017-11-27 at 23:54:11 Step: copyFilesIntoPositionOnWebServer
+2017-11-28 at 01:14:25 Step: compileApp
+2017-11-28 at 01:14:35 Step: copyLinksToGitHub
+2017-11-28 at 01:14:36 Step: copyFilesIntoPositionOnWebServer
 --------------------------------------------------------------------------------
 do {
   my $a = bless({
@@ -36,13 +36,13 @@ do {
                        log           => [
                                           "",
                                           "",
-                                          "Crunching PNG Files in source dir: /tmp/AppaAppsPhotoApp/build/res/\nTo destination dir: /tmp/AppaAppsPhotoApp/build/bin//tmp/AppaAppsPhotoApp/build/res",
+                                          "libpng error: Read Error\nCrunching PNG Files in source dir: /tmp/AppaAppsPhotoApp/build/res/\nTo destination dir: /tmp/AppaAppsPhotoApp/build/bin//tmp/AppaAppsPhotoApp/build/res",
                                           "",
                                           "Enter Passphrase for keystore: jar signed.\n\nWarning: \nNo -tsa or -tsacert is provided and this jar is not timestamped. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2044-09-10) or after any future revocation date.",
                                           "",
                                         ],
                        package       => "com.appaapps.photoapp.philiprbrenan100sv10x10",
-                       parameters    => "1511826839,philiprbrenan,100,sv/10x10,http://www.appaapps.com/users/philiprbrenan/100/sv/10x10/zip/philiprbrenan100sv10x10.zip,100.sv.10x10 - The Tens from 10 to 100 in Swedish",
+                       parameters    => "1511831665,philiprbrenan,100,sv/10x10,http://www.appaapps.com/users/philiprbrenan/100/sv/10x10/zip/philiprbrenan100sv10x10.zip,100.sv.10x10 - The Tens from 10 to 100 in Swedish",
                        permissions   => ["INTERNET", "ACCESS_NETWORK_STATE", "WRITE_EXTERNAL_STORAGE"],
                        platform      => "/home/phil/Android/sdk/platforms/android-25/",
                        platformTools => "/home/phil/Android/sdk/platform-tools/",
@@ -69,11 +69,11 @@ do {
                                         ],
                        title         => "The Tens from 10 to 100 in Swedish",
                        verifyApk     => undef,
-                       version       => 20171127,
+                       version       => 20171128,
                      }, "Android::Build"),
     app           => bless({
                        cmd => "app",
-                       end => 10,
+                       end => 11,
                        index => 0,
                        name => "100.sv.10x10",
                        parsedKeys => bless({
@@ -91,7 +91,7 @@ do {
                          rightInARow   => 6,
                          speakers      => "Astrid",
                          title         => "The Tens from 10 to 100 in Swedish",
-                         version       => "2017-11-27 at 23:53:59",
+                         version       => "2017-11-28 at 01:14:20",
                        }, "ParsedKeys"),
                        start => 1,
                        title => "The Tens from 10 to 100 in Swedish",
@@ -100,27 +100,27 @@ do {
     error         => 0,
     iconFile      => "/home/phil/audioImageCache/images/icon.png",
     log           => [
-                       "\n2017-11-27 at 23:53:57 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/10x10\n",
-                       "2017-11-27 at 23:53:59 Step: parseSource",
-                       "2017-11-27 at 23:53:59 <b>Good source file!</b>",
-                       "2017-11-27 at 23:53:59 Step: loadAssets",
-                       "2017-11-27 at 23:53:59 0 new, 10 reused audio files",
-                       "2017-11-27 at 23:53:59 Step: multiplyPhotosByFacts",
-                       "2017-11-27 at 23:53:59 Step: genJavaManifest",
-                       "2017-11-27 at 23:53:59 Step: genJsonManifest",
-                       "2017-11-27 at 23:53:59 Step: genGameHtml",
-                       "2017-11-27 at 23:53:59 Step: genHtmlAssets",
-                       "2017-11-27 at 23:53:59 Step: zipAssets",
-                       "2017-11-27 at 23:53:59 Zip file is only 78762 bytes which is small?\n",
-                       "2017-11-27 at 23:53:59 Step: compileApp",
-                       "2017-11-27 at 23:54:09 Step: copyLinksToGitHub",
-                       "2017-11-27 at 23:54:11 Step: copyFilesIntoPositionOnWebServer",
+                       "\n2017-11-28 at 01:14:24 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/10x10\n",
+                       "2017-11-28 at 01:14:25 Step: parseSource",
+                       "2017-11-28 at 01:14:25 <b>Good source file!</b>",
+                       "2017-11-28 at 01:14:25 Step: loadAssets",
+                       "2017-11-28 at 01:14:25 0 new, 10 reused audio files",
+                       "2017-11-28 at 01:14:25 Step: multiplyPhotosByFacts",
+                       "2017-11-28 at 01:14:25 Step: genJavaManifest",
+                       "2017-11-28 at 01:14:25 Step: genJsonManifest",
+                       "2017-11-28 at 01:14:25 Step: genGameHtml",
+                       "2017-11-28 at 01:14:25 Step: genHtmlAssets",
+                       "2017-11-28 at 01:14:25 Step: zipAssets",
+                       "2017-11-28 at 01:14:25 Zip file is only 78776 bytes which is small?\n",
+                       "2017-11-28 at 01:14:25 Step: compileApp",
+                       "2017-11-28 at 01:14:35 Step: copyLinksToGitHub",
+                       "2017-11-28 at 01:14:36 Step: copyFilesIntoPositionOnWebServer",
                      ],
     parsedCmds    => [
                        'fix',
                        bless({
                          cmd => "photo",
-                         end => 16,
+                         end => 17,
                          index => 0,
                          name => 10,
                          parsedKeys => bless({
@@ -133,13 +133,13 @@ do {
                            wiki => "https://en.wikipedia.org/wiki/10_(number)",
                          }, "ParsedKeys"),
                          say => 10,
-                         start => 13,
+                         start => 14,
                          title => "tio",
                          titleFile => "tio",
                        }, "ParsedCmd"),
                        bless({
                          cmd => "photo",
-                         end => 21,
+                         end => 22,
                          index => 1,
                          name => 20,
                          parsedKeys => bless({
@@ -152,13 +152,13 @@ do {
                            wiki => "https://en.wikipedia.org/wiki/20_(number)",
                          }, "ParsedKeys"),
                          say => 20,
-                         start => 18,
+                         start => 19,
                          title => "tjugo",
                          titleFile => "tjugo",
                        }, "ParsedCmd"),
                        bless({
                          cmd => "photo",
-                         end => 26,
+                         end => 27,
                          index => 2,
                          name => 30,
                          parsedKeys => bless({
@@ -171,13 +171,13 @@ do {
                            wiki => "https://en.wikipedia.org/wiki/30_(number)",
                          }, "ParsedKeys"),
                          say => 30,
-                         start => 23,
+                         start => 24,
                          title => "trettio",
                          titleFile => "trettio",
                        }, "ParsedCmd"),
                        bless({
                          cmd => "photo",
-                         end => 31,
+                         end => 32,
                          index => 3,
                          name => 40,
                          parsedKeys => bless({
@@ -190,13 +190,13 @@ do {
                            wiki => "https://en.wikipedia.org/wiki/40_(number)",
                          }, "ParsedKeys"),
                          say => 40,
-                         start => 28,
+                         start => 29,
                          title => "fyrtio",
                          titleFile => "fyrtio",
                        }, "ParsedCmd"),
                        bless({
                          cmd => "photo",
-                         end => 36,
+                         end => 37,
                          index => 4,
                          name => 50,
                          parsedKeys => bless({
@@ -209,13 +209,13 @@ do {
                            wiki => "https://en.wikipedia.org/wiki/50_(number)",
                          }, "ParsedKeys"),
                          say => 50,
-                         start => 33,
+                         start => 34,
                          title => "femtio",
                          titleFile => "femtio",
                        }, "ParsedCmd"),
                        bless({
                          cmd => "photo",
-                         end => 41,
+                         end => 42,
                          index => 5,
                          name => 60,
                          parsedKeys => bless({
@@ -228,13 +228,13 @@ do {
                            wiki => "https://en.wikipedia.org/wiki/60_(number)",
                          }, "ParsedKeys"),
                          say => 60,
-                         start => 38,
+                         start => 39,
                          title => "sextio",
                          titleFile => "sextio",
                        }, "ParsedCmd"),
                        bless({
                          cmd => "photo",
-                         end => 46,
+                         end => 47,
                          index => 6,
                          name => 70,
                          parsedKeys => bless({
@@ -247,13 +247,13 @@ do {
                            wiki => "https://en.wikipedia.org/wiki/70_(number)",
                          }, "ParsedKeys"),
                          say => 70,
-                         start => 43,
+                         start => 44,
                          title => "sjuttio",
                          titleFile => "sjuttio",
                        }, "ParsedCmd"),
                        bless({
                          cmd => "photo",
-                         end => 51,
+                         end => 52,
                          index => 7,
                          name => 80,
                          parsedKeys => bless({
@@ -266,13 +266,13 @@ do {
                            wiki => "https://en.wikipedia.org/wiki/80_(number)",
                          }, "ParsedKeys"),
                          say => 80,
-                         start => 48,
+                         start => 49,
                          title => "\xE5ttio",
                          titleFile => "\xE5ttio",
                        }, "ParsedCmd"),
                        bless({
                          cmd => "photo",
-                         end => 56,
+                         end => 57,
                          index => 8,
                          name => 90,
                          parsedKeys => bless({
@@ -285,13 +285,13 @@ do {
                            wiki => "https://en.wikipedia.org/wiki/90_(number)",
                          }, "ParsedKeys"),
                          say => 90,
-                         start => 53,
+                         start => 54,
                          title => "nittio",
                          titleFile => "nittio",
                        }, "ParsedCmd"),
                        bless({
                          cmd => "photo",
-                         end => 61,
+                         end => 62,
                          index => 9,
                          name => 100,
                          parsedKeys => bless({
@@ -304,14 +304,14 @@ do {
                            wiki => "https://en.wikipedia.org/wiki/100_(number)",
                          }, "ParsedKeys"),
                          say => 100,
-                         start => 58,
+                         start => 59,
                          title => "hundra",
                          titleFile => "hundra",
                        }, "ParsedCmd"),
                      ],
     project       => "philiprbrenan/100/sv/10x10",
-    source        => "  app 100.sv.10x10 = The Tens from 10 to 100 in Swedish\n  description   = Learn to recognize and say the tens from 10 to 100 in Swedish\n  icon          = icon.png\n  ordered       = finally\n  maxImages     = 12\n  author        = philiprbrenan\n  email         = philiprbrenan\@gmail.com\n  language      = sv\n  prerequisites = philiprbrenan/100/sv/9\n  enables       = philiprbrenan/100/sv/100\n\n\nphoto 10 = tio\n  afewchars = 10\n  say       = 10\n  wiki      = https://en.wikipedia.org/wiki/10_(number)\n\nphoto 20 = tjugo\n  afewchars = 20\n  say       = 20\n  wiki      = https://en.wikipedia.org/wiki/20_(number)\n\nphoto 30 = trettio\n  afewchars = 30\n  say       = 30\n  wiki      = https://en.wikipedia.org/wiki/30_(number)\n\nphoto 40 = fyrtio\n  afewchars = 40\n  say       = 40\n  wiki      = https://en.wikipedia.org/wiki/40_(number)\n\nphoto 50 = femtio\n  afewchars = 50\n  say       = 50\n  wiki      = https://en.wikipedia.org/wiki/50_(number)\n\nphoto 60 = sextio\n  afewchars = 60\n  say       = 60\n  wiki      = https://en.wikipedia.org/wiki/60_(number)\n\nphoto 70 = sjuttio\n  afewchars = 70\n  say       = 70\n  wiki      = https://en.wikipedia.org/wiki/70_(number)\n\nphoto 80 = \xE5ttio\n  afewchars = 80\n  say       = 80\n  wiki      = https://en.wikipedia.org/wiki/80_(number)\n\nphoto 90 = nittio\n  afewchars = 90\n  say       = 90\n  wiki      = https://en.wikipedia.org/wiki/90_(number)\n\nphoto 100 = hundra\n  afewchars = 100\n  say       = 100\n  wiki      = https://en.wikipedia.org/wiki/100_(number)\n",
-    sourceFileSha => "620e33e4f80a389de1b1ca56a5fe723f05501c70",
+    source        => "  app 100.sv.10x10 = The Tens from 10 to 100 in Swedish\n  description   = Learn to recognize and say the tens from 10 to 100 in Swedish\n  icon          = icon.png\n  ordered       = finally\n  maxImages     = 12\n  author        = philiprbrenan\n  email         = philiprbrenan\@gmail.com\n  language      = sv\n  prerequisites = philiprbrenan/100/sv/9\n  enables       = philiprbrenan/100/sv/100\n  version       = 2017-11-28 at 01:14:20\n\n\nphoto 10 = tio\n  afewchars = 10\n  say       = 10\n  wiki      = https://en.wikipedia.org/wiki/10_(number)\n\nphoto 20 = tjugo\n  afewchars = 20\n  say       = 20\n  wiki      = https://en.wikipedia.org/wiki/20_(number)\n\nphoto 30 = trettio\n  afewchars = 30\n  say       = 30\n  wiki      = https://en.wikipedia.org/wiki/30_(number)\n\nphoto 40 = fyrtio\n  afewchars = 40\n  say       = 40\n  wiki      = https://en.wikipedia.org/wiki/40_(number)\n\nphoto 50 = femtio\n  afewchars = 50\n  say       = 50\n  wiki      = https://en.wikipedia.org/wiki/50_(number)\n\nphoto 60 = sextio\n  afewchars = 60\n  say       = 60\n  wiki      = https://en.wikipedia.org/wiki/60_(number)\n\nphoto 70 = sjuttio\n  afewchars = 70\n  say       = 70\n  wiki      = https://en.wikipedia.org/wiki/70_(number)\n\nphoto 80 = \xE5ttio\n  afewchars = 80\n  say       = 80\n  wiki      = https://en.wikipedia.org/wiki/80_(number)\n\nphoto 90 = nittio\n  afewchars = 90\n  say       = 90\n  wiki      = https://en.wikipedia.org/wiki/90_(number)\n\nphoto 100 = hundra\n  afewchars = 100\n  say       = 100\n  wiki      = https://en.wikipedia.org/wiki/100_(number)\n",
+    sourceFileSha => "9037cef6c50c125f037dbe813edd3986b67e766c",
     step          => "completed",
   }, "Manifest");
   $a->{parsedCmds}[0] = $a->{app};
