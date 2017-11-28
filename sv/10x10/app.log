@@ -1,9 +1,9 @@
 Failed.
 
-2017-11-28 at 03:24:54 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/10x10
+2017-11-28 at 03:29:13 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/10x10
 
-2017-11-28 at 03:24:58 Step: parseSource
-2017-11-28 at 03:24:58 The app command name keyword is <b>100.sv.10x10</b> but it should be <b>100.sv/10x10</b>
+2017-11-28 at 03:29:17 Step: parseSource
+2017-11-28 at 03:29:17 The app command name keyword is <b>100.sv.10x10</b> but it should be <b>100.sv</b>
  on line(s) 1-11
 --------------------------------------------------------------------------------
 do {
@@ -34,9 +34,9 @@ do {
     }, "ParsedCmd"),
     error => 1,
     log => [
-      "\n2017-11-28 at 03:24:54 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/10x10\n",
-      "2017-11-28 at 03:24:58 Step: parseSource",
-      "2017-11-28 at 03:24:58 The app command name keyword is <b>100.sv.10x10</b> but it should be <b>100.sv/10x10</b>\n on line(s) 1-11",
+      "\n2017-11-28 at 03:29:13 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/10x10\n",
+      "2017-11-28 at 03:29:17 Step: parseSource",
+      "2017-11-28 at 03:29:17 The app command name keyword is <b>100.sv.10x10</b> but it should be <b>100.sv</b>\n on line(s) 1-11",
     ],
     parsedCmds => [
       'fix',
