@@ -1,20 +1,20 @@
 SUCCESS!
 
-2017-11-28 at 02:46:43 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/100
+2017-11-29 at 01:13:15 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/100
 
-2017-11-28 at 02:46:47 Step: parseSource
-2017-11-28 at 02:46:47 <b>Good source file!</b>
-2017-11-28 at 02:46:47 Step: loadAssets
-2017-11-28 at 02:46:48 0 new, 101 reused audio files
-2017-11-28 at 02:46:48 Step: multiplyPhotosByFacts
-2017-11-28 at 02:46:48 Step: genJavaManifest
-2017-11-28 at 02:46:48 Step: genJsonManifest
-2017-11-28 at 02:46:48 Step: genGameHtml
-2017-11-28 at 02:46:48 Step: genHtmlAssets
-2017-11-28 at 02:46:48 Step: zipAssets
-2017-11-28 at 02:46:48 Step: compileApp
-2017-11-28 at 02:46:52 Step: copyLinksToGitHub
-2017-11-28 at 02:46:56 Step: copyFilesIntoPositionOnWebServer
+2017-11-29 at 01:13:19 Step: parseSource
+2017-11-29 at 01:13:19 <b>Good source file!</b>
+2017-11-29 at 01:13:19 Step: loadAssets
+2017-11-29 at 01:13:20 0 new, 101 reused audio files
+2017-11-29 at 01:13:20 Step: multiplyPhotosByFacts
+2017-11-29 at 01:13:20 Step: genJavaManifest
+2017-11-29 at 01:13:20 Step: genJsonManifest
+2017-11-29 at 01:13:20 Step: genGameHtml
+2017-11-29 at 01:13:20 Step: genHtmlAssets
+2017-11-29 at 01:13:20 Step: zipAssets
+2017-11-29 at 01:13:20 Step: compileApp
+2017-11-29 at 01:13:23 Step: copyLinksToGitHub
+2017-11-29 at 01:13:27 Step: copyFilesIntoPositionOnWebServer
 --------------------------------------------------------------------------------
 do {
   my $a = bless({
@@ -34,13 +34,13 @@ do {
                        log           => [
                                           "",
                                           "",
-                                          "libpng error: Read Error\nCrunching PNG Files in source dir: /tmp/AppaAppsPhotoApp/build/res/\nTo destination dir: /tmp/AppaAppsPhotoApp/build/bin//tmp/AppaAppsPhotoApp/build/res",
+                                          "Crunching PNG Files in source dir: /tmp/AppaAppsPhotoApp/build/res/\nTo destination dir: /tmp/AppaAppsPhotoApp/build/bin//tmp/AppaAppsPhotoApp/build/res",
                                           "",
                                           "Enter Passphrase for keystore: jar signed.\n\nWarning: \nNo -tsa or -tsacert is provided and this jar is not timestamped. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2044-09-10) or after any future revocation date.",
                                           "",
                                         ],
                        package       => "com.appaapps.photoapp.philiprbrenan100sv100",
-                       parameters    => "1511837208,philiprbrenan,100,sv/100,http://www.appaapps.com/users/philiprbrenan/100/sv/100/zip/philiprbrenan100sv100.zip,100.sv.100 - The Numbers from 0 to 100 in Swedish",
+                       parameters    => "1511918000,philiprbrenan,100,sv/100,http://www.appaapps.com/users/philiprbrenan/100/sv/100/zip/philiprbrenan100sv100.zip,100.sv.100 - The Numbers from 0 to 100 in Swedish",
                        permissions   => ["INTERNET", "ACCESS_NETWORK_STATE", "WRITE_EXTERNAL_STORAGE"],
                        platform      => "/home/phil/Android/sdk/platforms/android-25/",
                        platformTools => "/home/phil/Android/sdk/platform-tools/",
@@ -67,7 +67,7 @@ do {
                                         ],
                        title         => "The Numbers from 0 to 100 in Swedish",
                        verifyApk     => undef,
-                       version       => 20171128,
+                       version       => 20171129,
                      }, "Android::Build"),
     app           => bless({
                        cmd => "app",
@@ -98,20 +98,20 @@ do {
     error         => 0,
     iconFile      => "/home/phil/audioImageCache/images/icon.png",
     log           => [
-                       "\n2017-11-28 at 02:46:43 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/100\n",
-                       "2017-11-28 at 02:46:47 Step: parseSource",
-                       "2017-11-28 at 02:46:47 <b>Good source file!</b>",
-                       "2017-11-28 at 02:46:47 Step: loadAssets",
-                       "2017-11-28 at 02:46:48 0 new, 101 reused audio files",
-                       "2017-11-28 at 02:46:48 Step: multiplyPhotosByFacts",
-                       "2017-11-28 at 02:46:48 Step: genJavaManifest",
-                       "2017-11-28 at 02:46:48 Step: genJsonManifest",
-                       "2017-11-28 at 02:46:48 Step: genGameHtml",
-                       "2017-11-28 at 02:46:48 Step: genHtmlAssets",
-                       "2017-11-28 at 02:46:48 Step: zipAssets",
-                       "2017-11-28 at 02:46:48 Step: compileApp",
-                       "2017-11-28 at 02:46:52 Step: copyLinksToGitHub",
-                       "2017-11-28 at 02:46:56 Step: copyFilesIntoPositionOnWebServer",
+                       "\n2017-11-29 at 01:13:15 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/100\n",
+                       "2017-11-29 at 01:13:19 Step: parseSource",
+                       "2017-11-29 at 01:13:19 <b>Good source file!</b>",
+                       "2017-11-29 at 01:13:19 Step: loadAssets",
+                       "2017-11-29 at 01:13:20 0 new, 101 reused audio files",
+                       "2017-11-29 at 01:13:20 Step: multiplyPhotosByFacts",
+                       "2017-11-29 at 01:13:20 Step: genJavaManifest",
+                       "2017-11-29 at 01:13:20 Step: genJsonManifest",
+                       "2017-11-29 at 01:13:20 Step: genGameHtml",
+                       "2017-11-29 at 01:13:20 Step: genHtmlAssets",
+                       "2017-11-29 at 01:13:20 Step: zipAssets",
+                       "2017-11-29 at 01:13:20 Step: compileApp",
+                       "2017-11-29 at 01:13:23 Step: copyLinksToGitHub",
+                       "2017-11-29 at 01:13:27 Step: copyFilesIntoPositionOnWebServer",
                      ],
     parsedCmds    => [
                        'fix',
