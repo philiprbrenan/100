@@ -1,22 +1,22 @@
 SUCCESS!
 
-2017-11-29 at 01:14:36 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/10x10
+2017-11-29 at 01:59:11 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/10x10
 
-2017-11-29 at 01:14:40 Step: parseSource
-2017-11-29 at 01:14:40 <b>Good source file!</b>
-2017-11-29 at 01:14:40 Step: loadAssets
-2017-11-29 at 01:14:41 0 new, 10 reused audio files
-2017-11-29 at 01:14:41 Step: multiplyPhotosByFacts
-2017-11-29 at 01:14:41 Step: genJavaManifest
-2017-11-29 at 01:14:41 Step: genJsonManifest
-2017-11-29 at 01:14:41 Step: genGameHtml
-2017-11-29 at 01:14:41 Step: genHtmlAssets
-2017-11-29 at 01:14:41 Step: zipAssets
-2017-11-29 at 01:14:41 Zip file is only 78851 bytes which is small?
+2017-11-29 at 01:59:14 Step: parseSource
+2017-11-29 at 01:59:14 <b>Good source file!</b>
+2017-11-29 at 01:59:14 Step: loadAssets
+2017-11-29 at 01:59:15 0 new, 10 reused audio files
+2017-11-29 at 01:59:15 Step: multiplyPhotosByFacts
+2017-11-29 at 01:59:15 Step: genJavaManifest
+2017-11-29 at 01:59:15 Step: genJsonManifest
+2017-11-29 at 01:59:15 Step: genGameHtml
+2017-11-29 at 01:59:15 Step: genHtmlAssets
+2017-11-29 at 01:59:15 Step: zipAssets
+2017-11-29 at 01:59:15 Zip file is only 78857 bytes which is small?
 
-2017-11-29 at 01:14:41 Step: compileApp
-2017-11-29 at 01:14:44 Step: copyLinksToGitHub
-2017-11-29 at 01:14:48 Step: copyFilesIntoPositionOnWebServer
+2017-11-29 at 01:59:15 Step: compileApp
+2017-11-29 at 01:59:19 Step: copyLinksToGitHub
+2017-11-29 at 01:59:26 Step: copyFilesIntoPositionOnWebServer
 --------------------------------------------------------------------------------
 do {
   my $a = bless({
@@ -42,7 +42,7 @@ do {
                                           "",
                                         ],
                        package       => "com.appaapps.photoapp.philiprbrenan100sv10x10",
-                       parameters    => "1511918081,philiprbrenan,100,sv/10x10,http://www.appaapps.com/users/philiprbrenan/100/sv/10x10/zip/philiprbrenan100sv10x10.zip,100.sv.10x10 - The Tens from 10 to 100 in Swedish",
+                       parameters    => "1511920755,philiprbrenan,100,sv/10x10,http://www.appaapps.com/users/philiprbrenan/100/sv/10x10/zip/philiprbrenan100sv10x10.zip,100.sv.10x10 - The Tens from 10 to 100 in Swedish",
                        permissions   => ["INTERNET", "ACCESS_NETWORK_STATE", "WRITE_EXTERNAL_STORAGE"],
                        platform      => "/home/phil/Android/sdk/platforms/android-25/",
                        platformTools => "/home/phil/Android/sdk/platform-tools/",
@@ -100,21 +100,21 @@ do {
     error         => 0,
     iconFile      => "/home/phil/audioImageCache/images/icon.png",
     log           => [
-                       "\n2017-11-29 at 01:14:36 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/10x10\n",
-                       "2017-11-29 at 01:14:40 Step: parseSource",
-                       "2017-11-29 at 01:14:40 <b>Good source file!</b>",
-                       "2017-11-29 at 01:14:40 Step: loadAssets",
-                       "2017-11-29 at 01:14:41 0 new, 10 reused audio files",
-                       "2017-11-29 at 01:14:41 Step: multiplyPhotosByFacts",
-                       "2017-11-29 at 01:14:41 Step: genJavaManifest",
-                       "2017-11-29 at 01:14:41 Step: genJsonManifest",
-                       "2017-11-29 at 01:14:41 Step: genGameHtml",
-                       "2017-11-29 at 01:14:41 Step: genHtmlAssets",
-                       "2017-11-29 at 01:14:41 Step: zipAssets",
-                       "2017-11-29 at 01:14:41 Zip file is only 78851 bytes which is small?\n",
-                       "2017-11-29 at 01:14:41 Step: compileApp",
-                       "2017-11-29 at 01:14:44 Step: copyLinksToGitHub",
-                       "2017-11-29 at 01:14:48 Step: copyFilesIntoPositionOnWebServer",
+                       "\n2017-11-29 at 01:59:11 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/10x10\n",
+                       "2017-11-29 at 01:59:14 Step: parseSource",
+                       "2017-11-29 at 01:59:14 <b>Good source file!</b>",
+                       "2017-11-29 at 01:59:14 Step: loadAssets",
+                       "2017-11-29 at 01:59:15 0 new, 10 reused audio files",
+                       "2017-11-29 at 01:59:15 Step: multiplyPhotosByFacts",
+                       "2017-11-29 at 01:59:15 Step: genJavaManifest",
+                       "2017-11-29 at 01:59:15 Step: genJsonManifest",
+                       "2017-11-29 at 01:59:15 Step: genGameHtml",
+                       "2017-11-29 at 01:59:15 Step: genHtmlAssets",
+                       "2017-11-29 at 01:59:15 Step: zipAssets",
+                       "2017-11-29 at 01:59:15 Zip file is only 78857 bytes which is small?\n",
+                       "2017-11-29 at 01:59:15 Step: compileApp",
+                       "2017-11-29 at 01:59:19 Step: copyLinksToGitHub",
+                       "2017-11-29 at 01:59:26 Step: copyFilesIntoPositionOnWebServer",
                      ],
     parsedCmds    => [
                        'fix',
