@@ -1,310 +1,310 @@
 Failed.
 
-2017-11-30 at 21:50:46 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/en/100
+2017-11-30 at 21:51:44 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/en/100
 
-2017-11-30 at 21:50:48 Step: parseSource
-2017-11-30 at 21:50:48 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 16.
-  level     = 0
+2017-11-30 at 21:51:45 Step: parseSource
+2017-11-30 at 21:51:45 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 16.
+  level     = 1
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 22.
   level     = 1
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 28.
-  level     = 2
+  level     = 1
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 34.
-  level     = 3
+  level     = 1
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 40.
-  level     = 4
+  level     = 1
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 46.
-  level     = 5
+  level     = 1
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 52.
-  level     = 6
+  level     = 1
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 58.
-  level     = 7
+  level     = 1
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 64.
-  level     = 8
+  level     = 1
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 70.
-  level     = 9
+  level     = 1
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 76.
-  level     = 10
+  level     = 2
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 82.
-  level     = 11
+  level     = 2
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 88.
-  level     = 12
+  level     = 2
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 94.
-  level     = 13
+  level     = 2
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 100.
-  level     = 14
+  level     = 2
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 106.
-  level     = 15
+  level     = 2
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 112.
-  level     = 16
+  level     = 2
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 118.
-  level     = 17
+  level     = 2
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 124.
-  level     = 18
+  level     = 2
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 130.
-  level     = 19
+  level     = 2
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 136.
-  level     = 20
+  level     = 3
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 142.
-  level     = 21
+  level     = 5
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 148.
-  level     = 22
+  level     = 4
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 154.
-  level     = 23
+  level     = 5
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 160.
-  level     = 24
+  level     = 5
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 166.
-  level     = 25
+  level     = 5
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 172.
-  level     = 26
+  level     = 5
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 178.
-  level     = 27
+  level     = 5
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 184.
-  level     = 28
+  level     = 5
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 190.
-  level     = 29
+  level     = 5
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 196.
-  level     = 30
+  level     = 3
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 202.
-  level     = 31
+  level     = 6
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 208.
-  level     = 32
+  level     = 6
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 214.
-  level     = 33
+  level     = 4
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 220.
-  level     = 34
+  level     = 6
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 226.
-  level     = 35
+  level     = 6
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 232.
-  level     = 36
+  level     = 6
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 238.
-  level     = 37
+  level     = 6
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 244.
-  level     = 38
+  level     = 6
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 250.
-  level     = 39
+  level     = 6
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 256.
-  level     = 40
+  level     = 3
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 262.
-  level     = 41
+  level     = 7
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 268.
-  level     = 42
+  level     = 7
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 274.
-  level     = 43
+  level     = 7
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 280.
-  level     = 44
+  level     = 4
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 286.
-  level     = 45
+  level     = 7
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 292.
-  level     = 46
+  level     = 7
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 298.
-  level     = 47
+  level     = 7
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 304.
-  level     = 48
+  level     = 7
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 310.
-  level     = 49
+  level     = 7
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 316.
-  level     = 50
+  level     = 3
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 322.
-  level     = 51
+  level     = 8
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 328.
-  level     = 52
+  level     = 8
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 334.
-  level     = 53
+  level     = 8
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 340.
-  level     = 54
+  level     = 8
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 346.
-  level     = 55
+  level     = 4
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 352.
-  level     = 56
+  level     = 8
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 358.
-  level     = 57
+  level     = 8
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 364.
-  level     = 58
+  level     = 8
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 370.
-  level     = 59
+  level     = 8
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 376.
-  level     = 60
+  level     = 3
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 382.
-  level     = 61
+  level     = 9
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 388.
-  level     = 62
+  level     = 9
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 394.
-  level     = 63
+  level     = 9
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 400.
-  level     = 64
+  level     = 9
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 406.
-  level     = 65
+  level     = 9
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 412.
-  level     = 66
+  level     = 4
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 418.
-  level     = 67
+  level     = 9
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 424.
-  level     = 68
+  level     = 9
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 430.
-  level     = 69
+  level     = 9
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 436.
-  level     = 70
+  level     = 3
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 442.
-  level     = 71
+  level     = 9
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 448.
-  level     = 72
+  level     = 9
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 454.
-  level     = 73
+  level     = 9
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 460.
-  level     = 74
+  level     = 9
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 466.
-  level     = 75
+  level     = 9
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 472.
-  level     = 76
+  level     = 9
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 478.
-  level     = 77
+  level     = 4
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 484.
-  level     = 78
+  level     = 9
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 490.
-  level     = 79
+  level     = 9
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 496.
-  level     = 80
+  level     = 3
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 502.
-  level     = 81
+  level     = 10
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 508.
-  level     = 82
+  level     = 10
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 514.
-  level     = 83
+  level     = 10
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 520.
-  level     = 84
+  level     = 10
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 526.
-  level     = 85
+  level     = 10
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 532.
-  level     = 86
+  level     = 10
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 538.
-  level     = 87
+  level     = 10
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 544.
-  level     = 88
+  level     = 4
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 550.
-  level     = 89
+  level     = 10
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 556.
-  level     = 90
+  level     = 3
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 562.
-  level     = 91
+  level     = 10
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 568.
-  level     = 92
+  level     = 10
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 574.
-  level     = 93
+  level     = 10
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 580.
-  level     = 94
+  level     = 10
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 586.
-  level     = 95
+  level     = 10
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 592.
-  level     = 96
+  level     = 10
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 598.
-  level     = 97
+  level     = 10
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 604.
-  level     = 98
+  level     = 10
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 610.
-  level     = 99
+  level     = 4
 Choose one of: <b>afewchars maps name say title url wiki</b>
 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 616.
-  level     = 100
+  level     = 3
 Choose one of: <b>afewchars maps name say title url wiki</b>
 
 --------------------------------------------------------------------------------
@@ -327,16 +327,16 @@ do {
                       ordered     => "finally",
                       rightInARow => 6,
                       title       => "The Numbers from 0 to 100 in English",
-                      version     => "2017-11-30 at 21:50:42",
+                      version     => "2017-11-30 at 21:51:39",
                     }, "ParsedKeys"),
       start      => 1,
       title      => "The Numbers from 0 to 100 in English",
     }, "ParsedCmd"),
     error => 101,
     log => [
-      "\n2017-11-30 at 21:50:46 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/en/100\n",
-      "2017-11-30 at 21:50:48 Step: parseSource",
-      "2017-11-30 at 21:50:48 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 16.\n  level     = 0\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 22.\n  level     = 1\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 28.\n  level     = 2\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 34.\n  level     = 3\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 40.\n  level     = 4\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 46.\n  level     = 5\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 52.\n  level     = 6\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 58.\n  level     = 7\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 64.\n  level     = 8\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 70.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 76.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 82.\n  level     = 11\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 88.\n  level     = 12\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 94.\n  level     = 13\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 100.\n  level     = 14\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 106.\n  level     = 15\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 112.\n  level     = 16\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 118.\n  level     = 17\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 124.\n  level     = 18\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 130.\n  level     = 19\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 136.\n  level     = 20\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 142.\n  level     = 21\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 148.\n  level     = 22\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 154.\n  level     = 23\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 160.\n  level     = 24\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 166.\n  level     = 25\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 172.\n  level     = 26\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 178.\n  level     = 27\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 184.\n  level     = 28\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 190.\n  level     = 29\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 196.\n  level     = 30\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 202.\n  level     = 31\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 208.\n  level     = 32\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 214.\n  level     = 33\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 220.\n  level     = 34\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 226.\n  level     = 35\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 232.\n  level     = 36\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 238.\n  level     = 37\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 244.\n  level     = 38\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 250.\n  level     = 39\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 256.\n  level     = 40\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 262.\n  level     = 41\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 268.\n  level     = 42\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 274.\n  level     = 43\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 280.\n  level     = 44\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 286.\n  level     = 45\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 292.\n  level     = 46\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 298.\n  level     = 47\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 304.\n  level     = 48\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 310.\n  level     = 49\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 316.\n  level     = 50\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 322.\n  level     = 51\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 328.\n  level     = 52\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 334.\n  level     = 53\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 340.\n  level     = 54\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 346.\n  level     = 55\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 352.\n  level     = 56\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 358.\n  level     = 57\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 364.\n  level     = 58\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 370.\n  level     = 59\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 376.\n  level     = 60\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 382.\n  level     = 61\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 388.\n  level     = 62\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 394.\n  level     = 63\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 400.\n  level     = 64\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 406.\n  level     = 65\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 412.\n  level     = 66\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 418.\n  level     = 67\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 424.\n  level     = 68\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 430.\n  level     = 69\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 436.\n  level     = 70\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 442.\n  level     = 71\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 448.\n  level     = 72\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 454.\n  level     = 73\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 460.\n  level     = 74\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 466.\n  level     = 75\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 472.\n  level     = 76\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 478.\n  level     = 77\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 484.\n  level     = 78\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 490.\n  level     = 79\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 496.\n  level     = 80\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 502.\n  level     = 81\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 508.\n  level     = 82\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 514.\n  level     = 83\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 520.\n  level     = 84\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 526.\n  level     = 85\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 532.\n  level     = 86\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 538.\n  level     = 87\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 544.\n  level     = 88\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 550.\n  level     = 89\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 556.\n  level     = 90\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 562.\n  level     = 91\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 568.\n  level     = 92\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 574.\n  level     = 93\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 580.\n  level     = 94\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 586.\n  level     = 95\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 592.\n  level     = 96\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 598.\n  level     = 97\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 604.\n  level     = 98\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 610.\n  level     = 99\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 616.\n  level     = 100\nChoose one of: <b>afewchars maps name say title url wiki</b>\n",
+      "\n2017-11-30 at 21:51:44 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/en/100\n",
+      "2017-11-30 at 21:51:45 Step: parseSource",
+      "2017-11-30 at 21:51:45 Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 16.\n  level     = 1\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 22.\n  level     = 1\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 28.\n  level     = 1\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 34.\n  level     = 1\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 40.\n  level     = 1\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 46.\n  level     = 1\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 52.\n  level     = 1\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 58.\n  level     = 1\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 64.\n  level     = 1\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 70.\n  level     = 1\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 76.\n  level     = 2\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 82.\n  level     = 2\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 88.\n  level     = 2\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 94.\n  level     = 2\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 100.\n  level     = 2\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 106.\n  level     = 2\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 112.\n  level     = 2\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 118.\n  level     = 2\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 124.\n  level     = 2\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 130.\n  level     = 2\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 136.\n  level     = 3\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 142.\n  level     = 5\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 148.\n  level     = 4\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 154.\n  level     = 5\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 160.\n  level     = 5\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 166.\n  level     = 5\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 172.\n  level     = 5\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 178.\n  level     = 5\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 184.\n  level     = 5\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 190.\n  level     = 5\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 196.\n  level     = 3\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 202.\n  level     = 6\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 208.\n  level     = 6\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 214.\n  level     = 4\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 220.\n  level     = 6\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 226.\n  level     = 6\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 232.\n  level     = 6\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 238.\n  level     = 6\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 244.\n  level     = 6\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 250.\n  level     = 6\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 256.\n  level     = 3\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 262.\n  level     = 7\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 268.\n  level     = 7\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 274.\n  level     = 7\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 280.\n  level     = 4\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 286.\n  level     = 7\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 292.\n  level     = 7\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 298.\n  level     = 7\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 304.\n  level     = 7\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 310.\n  level     = 7\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 316.\n  level     = 3\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 322.\n  level     = 8\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 328.\n  level     = 8\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 334.\n  level     = 8\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 340.\n  level     = 8\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 346.\n  level     = 4\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 352.\n  level     = 8\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 358.\n  level     = 8\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 364.\n  level     = 8\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 370.\n  level     = 8\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 376.\n  level     = 3\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 382.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 388.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 394.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 400.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 406.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 412.\n  level     = 4\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 418.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 424.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 430.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 436.\n  level     = 3\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 442.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 448.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 454.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 460.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 466.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 472.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 478.\n  level     = 4\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 484.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 490.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 496.\n  level     = 3\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 502.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 508.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 514.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 520.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 526.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 532.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 538.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 544.\n  level     = 4\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 550.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 556.\n  level     = 3\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 562.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 568.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 574.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 580.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 586.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 592.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 598.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 604.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 610.\n  level     = 4\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 616.\n  level     = 3\nChoose one of: <b>afewchars maps name say title url wiki</b>\n",
     ],
     parsedCmds => [
       'fix',
@@ -1958,8 +1958,8 @@ do {
       }, "ParsedCmd"),
     ],
     project => "philiprbrenan/100/en/100",
-    source => "  app 100.en.100 = The Numbers from 0 to 100 in English\n  description   = Learn to recognize and say the numbers from 0 to 100 in English\n  icon          = icon.png\n  ordered       = finally\n  maxImages     = 12\n  author        = philiprbrenan\n  email         = philiprbrenan\@gmail.com\n  language      = en\n#  prerequisites = philiprbrenan/100/en/9 philiprbrenan/100/en/10x10\n#  enables       = \n  version       = 2017-11-30 at 21:50:42\n\n\nphoto 0 = zero\n  afewchars = 0\n  level     = 0\n  say       = 0\n  wiki      = https://en.wikipedia.org/wiki/0_(number)\n\nphoto 1 = one\n  afewchars = 1\n  level     = 1\n  say       = 1\n  wiki      = https://en.wikipedia.org/wiki/1_(number)\n\nphoto 2 = two\n  afewchars = 2\n  level     = 2\n  say       = 2\n  wiki      = https://en.wikipedia.org/wiki/2_(number)\n\nphoto 3 = three\n  afewchars = 3\n  level     = 3\n  say       = 3\n  wiki      = https://en.wikipedia.org/wiki/3_(number)\n\nphoto 4 = four\n  afewchars = 4\n  level     = 4\n  say       = 4\n  wiki      = https://en.wikipedia.org/wiki/4_(number)\n\nphoto 5 = five\n  afewchars = 5\n  level     = 5\n  say       = 5\n  wiki      = https://en.wikipedia.org/wiki/5_(number)\n\nphoto 6 = six\n  afewchars = 6\n  level     = 6\n  say       = 6\n  wiki      = https://en.wikipedia.org/wiki/6_(number)\n\nphoto 7 = seven\n  afewchars = 7\n  level     = 7\n  say       = 7\n  wiki      = https://en.wikipedia.org/wiki/7_(number)\n\nphoto 8 = eight\n  afewchars = 8\n  level     = 8\n  say       = 8\n  wiki      = https://en.wikipedia.org/wiki/8_(number)\n\nphoto 9 = nine\n  afewchars = 9\n  level     = 9\n  say       = 9\n  wiki      = https://en.wikipedia.org/wiki/9_(number)\n\nphoto 10 = ten\n  afewchars = 10\n  level     = 10\n  say       = 10\n  wiki      = https://en.wikipedia.org/wiki/10_(number)\n\nphoto 11 = eleven\n  afewchars = 11\n  level     = 11\n  say       = 11\n  wiki      = https://en.wikipedia.org/wiki/11_(number)\n\nphoto 12 = twelve\n  afewchars = 12\n  level     = 12\n  say       = 12\n  wiki      = https://en.wikipedia.org/wiki/12_(number)\n\nphoto 13 = thirteen\n  afewchars = 13\n  level     = 13\n  say       = 13\n  wiki      = https://en.wikipedia.org/wiki/13_(number)\n\nphoto 14 = fourteen\n  afewchars = 14\n  level     = 14\n  say       = 14\n  wiki      = https://en.wikipedia.org/wiki/14_(number)\n\nphoto 15 = fifteen\n  afewchars = 15\n  level     = 15\n  say       = 15\n  wiki      = https://en.wikipedia.org/wiki/15_(number)\n\nphoto 16 = sixteen\n  afewchars = 16\n  level     = 16\n  say       = 16\n  wiki      = https://en.wikipedia.org/wiki/16_(number)\n\nphoto 17 = seventeen\n  afewchars = 17\n  level     = 17\n  say       = 17\n  wiki      = https://en.wikipedia.org/wiki/17_(number)\n\nphoto 18 = eighteen\n  afewchars = 18\n  level     = 18\n  say       = 18\n  wiki      = https://en.wikipedia.org/wiki/18_(number)\n\nphoto 19 = nineteen\n  afewchars = 19\n  level     = 19\n  say       = 19\n  wiki      = https://en.wikipedia.org/wiki/19_(number)\n\nphoto 20 = twenty\n  afewchars = 20\n  level     = 20\n  say       = 20\n  wiki      = https://en.wikipedia.org/wiki/20_(number)\n\nphoto 21 = twenty-one\n  afewchars = 21\n  level     = 21\n  say       = 21\n  wiki      = https://en.wikipedia.org/wiki/21_(number)\n\nphoto 22 = twenty-two\n  afewchars = 22\n  level     = 22\n  say       = 22\n  wiki      = https://en.wikipedia.org/wiki/22_(number)\n\nphoto 23 = twenty-three\n  afewchars = 23\n  level     = 23\n  say       = 23\n  wiki      = https://en.wikipedia.org/wiki/23_(number)\n\nphoto 24 = twenty-four\n  afewchars = 24\n  level     = 24\n  say       = 24\n  wiki      = https://en.wikipedia.org/wiki/24_(number)\n\nphoto 25 = twenty-five\n  afewchars = 25\n  level     = 25\n  say       = 25\n  wiki      = https://en.wikipedia.org/wiki/25_(number)\n\nphoto 26 = twenty-six\n  afewchars = 26\n  level     = 26\n  say       = 26\n  wiki      = https://en.wikipedia.org/wiki/26_(number)\n\nphoto 27 = twenty-seven\n  afewchars = 27\n  level     = 27\n  say       = 27\n  wiki      = https://en.wikipedia.org/wiki/27_(number)\n\nphoto 28 = twenty-eight\n  afewchars = 28\n  level     = 28\n  say       = 28\n  wiki      = https://en.wikipedia.org/wiki/28_(number)\n\nphoto 29 = twenty-nine\n  afewchars = 29\n  level     = 29\n  say       = 29\n  wiki      = https://en.wikipedia.org/wiki/29_(number)\n\nphoto 30 = thirty\n  afewchars = 30\n  level     = 30\n  say       = 30\n  wiki      = https://en.wikipedia.org/wiki/30_(number)\n\nphoto 31 = thirty-one\n  afewchars = 31\n  level     = 31\n  say       = 31\n  wiki      = https://en.wikipedia.org/wiki/31_(number)\n\nphoto 32 = thirty-two\n  afewchars = 32\n  level     = 32\n  say       = 32\n  wiki      = https://en.wikipedia.org/wiki/32_(number)\n\nphoto 33 = thirty-three\n  afewchars = 33\n  level     = 33\n  say       = 33\n  wiki      = https://en.wikipedia.org/wiki/33_(number)\n\nphoto 34 = thirty-four\n  afewchars = 34\n  level     = 34\n  say       = 34\n  wiki      = https://en.wikipedia.org/wiki/34_(number)\n\nphoto 35 = thirty-five\n  afewchars = 35\n  level     = 35\n  say       = 35\n  wiki      = https://en.wikipedia.org/wiki/35_(number)\n\nphoto 36 = thirty-six\n  afewchars = 36\n  level     = 36\n  say       = 36\n  wiki      = https://en.wikipedia.org/wiki/36_(number)\n\nphoto 37 = thirty-seven\n  afewchars = 37\n  level     = 37\n  say       = 37\n  wiki      = https://en.wikipedia.org/wiki/37_(number)\n\nphoto 38 = thirty-eight\n  afewchars = 38\n  level     = 38\n  say       = 38\n  wiki      = https://en.wikipedia.org/wiki/38_(number)\n\nphoto 39 = thirty-nine\n  afewchars = 39\n  level     = 39\n  say       = 39\n  wiki      = https://en.wikipedia.org/wiki/39_(number)\n\nphoto 40 = forty\n  afewchars = 40\n  level     = 40\n  say       = 40\n  wiki      = https://en.wikipedia.org/wiki/40_(number)\n\nphoto 41 = forty-one\n  afewchars = 41\n  level     = 41\n  say       = 41\n  wiki      = https://en.wikipedia.org/wiki/41_(number)\n\nphoto 42 = forty-two\n  afewchars = 42\n  level     = 42\n  say       = 42\n  wiki      = https://en.wikipedia.org/wiki/42_(number)\n\nphoto 43 = forty-three\n  afewchars = 43\n  level     = 43\n  say       = 43\n  wiki      = https://en.wikipedia.org/wiki/43_(number)\n\nphoto 44 = forty-four\n  afewchars = 44\n  level     = 44\n  say       = 44\n  wiki      = https://en.wikipedia.org/wiki/44_(number)\n\nphoto 45 = forty-five\n  afewchars = 45\n  level     = 45\n  say       = 45\n  wiki      = https://en.wikipedia.org/wiki/45_(number)\n\nphoto 46 = forty-six\n  afewchars = 46\n  level     = 46\n  say       = 46\n  wiki      = https://en.wikipedia.org/wiki/46_(number)\n\nphoto 47 = forty-seven\n  afewchars = 47\n  level     = 47\n  say       = 47\n  wiki      = https://en.wikipedia.org/wiki/47_(number)\n\nphoto 48 = forty-eight\n  afewchars = 48\n  level     = 48\n  say       = 48\n  wiki      = https://en.wikipedia.org/wiki/48_(number)\n\nphoto 49 = forty-nine\n  afewchars = 49\n  level     = 49\n  say       = 49\n  wiki      = https://en.wikipedia.org/wiki/49_(number)\n\nphoto 50 = fifty\n  afewchars = 50\n  level     = 50\n  say       = 50\n  wiki      = https://en.wikipedia.org/wiki/50_(number)\n\nphoto 51 = fifty-one\n  afewchars = 51\n  level     = 51\n  say       = 51\n  wiki      = https://en.wikipedia.org/wiki/51_(number)\n\nphoto 52 = fifty-two\n  afewchars = 52\n  level     = 52\n  say       = 52\n  wiki      = https://en.wikipedia.org/wiki/52_(number)\n\nphoto 53 = fifty-three\n  afewchars = 53\n  level     = 53\n  say       = 53\n  wiki      = https://en.wikipedia.org/wiki/53_(number)\n\nphoto 54 = fifty-four\n  afewchars = 54\n  level     = 54\n  say       = 54\n  wiki      = https://en.wikipedia.org/wiki/54_(number)\n\nphoto 55 = fifty-five\n  afewchars = 55\n  level     = 55\n  say       = 55\n  wiki      = https://en.wikipedia.org/wiki/55_(number)\n\nphoto 56 = fifty-six\n  afewchars = 56\n  level     = 56\n  say       = 56\n  wiki      = https://en.wikipedia.org/wiki/56_(number)\n\nphoto 57 = fifty-seven\n  afewchars = 57\n  level     = 57\n  say       = 57\n  wiki      = https://en.wikipedia.org/wiki/57_(number)\n\nphoto 58 = fifty-eight\n  afewchars = 58\n  level     = 58\n  say       = 58\n  wiki      = https://en.wikipedia.org/wiki/58_(number)\n\nphoto 59 = fifty-nine\n  afewchars = 59\n  level     = 59\n  say       = 59\n  wiki      = https://en.wikipedia.org/wiki/59_(number)\n\nphoto 60 = sixty\n  afewchars = 60\n  level     = 60\n  say       = 60\n  wiki      = https://en.wikipedia.org/wiki/60_(number)\n\nphoto 61 = sixty-one\n  afewchars = 61\n  level     = 61\n  say       = 61\n  wiki      = https://en.wikipedia.org/wiki/61_(number)\n\nphoto 62 = sixty-two\n  afewchars = 62\n  level     = 62\n  say       = 62\n  wiki      = https://en.wikipedia.org/wiki/62_(number)\n\nphoto 63 = sixty-three\n  afewchars = 63\n  level     = 63\n  say       = 63\n  wiki      = https://en.wikipedia.org/wiki/63_(number)\n\nphoto 64 = sixty-four\n  afewchars = 64\n  level     = 64\n  say       = 64\n  wiki      = https://en.wikipedia.org/wiki/64_(number)\n\nphoto 65 = sixty-five\n  afewchars = 65\n  level     = 65\n  say       = 65\n  wiki      = https://en.wikipedia.org/wiki/65_(number)\n\nphoto 66 = sixty-six\n  afewchars = 66\n  level     = 66\n  say       = 66\n  wiki      = https://en.wikipedia.org/wiki/66_(number)\n\nphoto 67 = sixty-seven\n  afewchars = 67\n  level     = 67\n  say       = 67\n  wiki      = https://en.wikipedia.org/wiki/67_(number)\n\nphoto 68 = sixty-eight\n  afewchars = 68\n  level     = 68\n  say       = 68\n  wiki      = https://en.wikipedia.org/wiki/68_(number)\n\nphoto 69 = sixty-nine\n  afewchars = 69\n  level     = 69\n  say       = 69\n  wiki      = https://en.wikipedia.org/wiki/69_(number)\n\nphoto 70 = seventy\n  afewchars = 70\n  level     = 70\n  say       = 70\n  wiki      = https://en.wikipedia.org/wiki/70_(number)\n\nphoto 71 = seventy-one\n  afewchars = 71\n  level     = 71\n  say       = 71\n  wiki      = https://en.wikipedia.org/wiki/71_(number)\n\nphoto 72 = seventy-two\n  afewchars = 72\n  level     = 72\n  say       = 72\n  wiki      = https://en.wikipedia.org/wiki/72_(number)\n\nphoto 73 = seventy-three\n  afewchars = 73\n  level     = 73\n  say       = 73\n  wiki      = https://en.wikipedia.org/wiki/73_(number)\n\nphoto 74 = seventy-four\n  afewchars = 74\n  level     = 74\n  say       = 74\n  wiki      = https://en.wikipedia.org/wiki/74_(number)\n\nphoto 75 = seventy-five\n  afewchars = 75\n  level     = 75\n  say       = 75\n  wiki      = https://en.wikipedia.org/wiki/75_(number)\n\nphoto 76 = seventy-six\n  afewchars = 76\n  level     = 76\n  say       = 76\n  wiki      = https://en.wikipedia.org/wiki/76_(number)\n\nphoto 77 = seventy-seven\n  afewchars = 77\n  level     = 77\n  say       = 77\n  wiki      = https://en.wikipedia.org/wiki/77_(number)\n\nphoto 78 = seventy-eight\n  afewchars = 78\n  level     = 78\n  say       = 78\n  wiki      = https://en.wikipedia.org/wiki/78_(number)\n\nphoto 79 = seventy-nine\n  afewchars = 79\n  level     = 79\n  say       = 79\n  wiki      = https://en.wikipedia.org/wiki/79_(number)\n\nphoto 80 = eighty\n  afewchars = 80\n  level     = 80\n  say       = 80\n  wiki      = https://en.wikipedia.org/wiki/80_(number)\n\nphoto 81 = eighty-one\n  afewchars = 81\n  level     = 81\n  say       = 81\n  wiki      = https://en.wikipedia.org/wiki/81_(number)\n\nphoto 82 = eighty-two\n  afewchars = 82\n  level     = 82\n  say       = 82\n  wiki      = https://en.wikipedia.org/wiki/82_(number)\n\nphoto 83 = eighty-three\n  afewchars = 83\n  level     = 83\n  say       = 83\n  wiki      = https://en.wikipedia.org/wiki/83_(number)\n\nphoto 84 = eighty-four\n  afewchars = 84\n  level     = 84\n  say       = 84\n  wiki      = https://en.wikipedia.org/wiki/84_(number)\n\nphoto 85 = eighty-five\n  afewchars = 85\n  level     = 85\n  say       = 85\n  wiki      = https://en.wikipedia.org/wiki/85_(number)\n\nphoto 86 = eighty-six\n  afewchars = 86\n  level     = 86\n  say       = 86\n  wiki      = https://en.wikipedia.org/wiki/86_(number)\n\nphoto 87 = eighty-seven\n  afewchars = 87\n  level     = 87\n  say       = 87\n  wiki      = https://en.wikipedia.org/wiki/87_(number)\n\nphoto 88 = eighty-eight\n  afewchars = 88\n  level     = 88\n  say       = 88\n  wiki      = https://en.wikipedia.org/wiki/88_(number)\n\nphoto 89 = eighty-nine\n  afewchars = 89\n  level     = 89\n  say       = 89\n  wiki      = https://en.wikipedia.org/wiki/89_(number)\n\nphoto 90 = ninety\n  afewchars = 90\n  level     = 90\n  say       = 90\n  wiki      = https://en.wikipedia.org/wiki/90_(number)\n\nphoto 91 = ninety-one\n  afewchars = 91\n  level     = 91\n  say       = 91\n  wiki      = https://en.wikipedia.org/wiki/91_(number)\n\nphoto 92 = ninety-two\n  afewchars = 92\n  level     = 92\n  say       = 92\n  wiki      = https://en.wikipedia.org/wiki/92_(number)\n\nphoto 93 = ninety-three\n  afewchars = 93\n  level     = 93\n  say       = 93\n  wiki      = https://en.wikipedia.org/wiki/93_(number)\n\nphoto 94 = ninety-four\n  afewchars = 94\n  level     = 94\n  say       = 94\n  wiki      = https://en.wikipedia.org/wiki/94_(number)\n\nphoto 95 = ninety-five\n  afewchars = 95\n  level     = 95\n  say       = 95\n  wiki      = https://en.wikipedia.org/wiki/95_(number)\n\nphoto 96 = ninety-six\n  afewchars = 96\n  level     = 96\n  say       = 96\n  wiki      = https://en.wikipedia.org/wiki/96_(number)\n\nphoto 97 = ninety-seven\n  afewchars = 97\n  level     = 97\n  say       = 97\n  wiki      = https://en.wikipedia.org/wiki/97_(number)\n\nphoto 98 = ninety-eight\n  afewchars = 98\n  level     = 98\n  say       = 98\n  wiki      = https://en.wikipedia.org/wiki/98_(number)\n\nphoto 99 = ninety-nine\n  afewchars = 99\n  level     = 99\n  say       = 99\n  wiki      = https://en.wikipedia.org/wiki/99_(number)\n\nphoto 100 = one hundred\n  afewchars = 100\n  level     = 100\n  say       = 100\n  wiki      = https://en.wikipedia.org/wiki/100_(number)\n",
-    sourceFileSha => "d269402ccaa546ed118790f0c2f8eb457d2d0510",
+    source => "  app 100.en.100 = The Numbers from 0 to 100 in English\n  description   = Learn to recognize and say the numbers from 0 to 100 in English\n  icon          = icon.png\n  ordered       = finally\n  maxImages     = 12\n  author        = philiprbrenan\n  email         = philiprbrenan\@gmail.com\n  language      = en\n#  prerequisites = philiprbrenan/100/en/9 philiprbrenan/100/en/10x10\n#  enables       = \n  version       = 2017-11-30 at 21:51:39\n\n\nphoto 0 = zero\n  afewchars = 0\n  level     = 1\n  say       = 0\n  wiki      = https://en.wikipedia.org/wiki/0_(number)\n\nphoto 1 = one\n  afewchars = 1\n  level     = 1\n  say       = 1\n  wiki      = https://en.wikipedia.org/wiki/1_(number)\n\nphoto 2 = two\n  afewchars = 2\n  level     = 1\n  say       = 2\n  wiki      = https://en.wikipedia.org/wiki/2_(number)\n\nphoto 3 = three\n  afewchars = 3\n  level     = 1\n  say       = 3\n  wiki      = https://en.wikipedia.org/wiki/3_(number)\n\nphoto 4 = four\n  afewchars = 4\n  level     = 1\n  say       = 4\n  wiki      = https://en.wikipedia.org/wiki/4_(number)\n\nphoto 5 = five\n  afewchars = 5\n  level     = 1\n  say       = 5\n  wiki      = https://en.wikipedia.org/wiki/5_(number)\n\nphoto 6 = six\n  afewchars = 6\n  level     = 1\n  say       = 6\n  wiki      = https://en.wikipedia.org/wiki/6_(number)\n\nphoto 7 = seven\n  afewchars = 7\n  level     = 1\n  say       = 7\n  wiki      = https://en.wikipedia.org/wiki/7_(number)\n\nphoto 8 = eight\n  afewchars = 8\n  level     = 1\n  say       = 8\n  wiki      = https://en.wikipedia.org/wiki/8_(number)\n\nphoto 9 = nine\n  afewchars = 9\n  level     = 1\n  say       = 9\n  wiki      = https://en.wikipedia.org/wiki/9_(number)\n\nphoto 10 = ten\n  afewchars = 10\n  level     = 2\n  say       = 10\n  wiki      = https://en.wikipedia.org/wiki/10_(number)\n\nphoto 11 = eleven\n  afewchars = 11\n  level     = 2\n  say       = 11\n  wiki      = https://en.wikipedia.org/wiki/11_(number)\n\nphoto 12 = twelve\n  afewchars = 12\n  level     = 2\n  say       = 12\n  wiki      = https://en.wikipedia.org/wiki/12_(number)\n\nphoto 13 = thirteen\n  afewchars = 13\n  level     = 2\n  say       = 13\n  wiki      = https://en.wikipedia.org/wiki/13_(number)\n\nphoto 14 = fourteen\n  afewchars = 14\n  level     = 2\n  say       = 14\n  wiki      = https://en.wikipedia.org/wiki/14_(number)\n\nphoto 15 = fifteen\n  afewchars = 15\n  level     = 2\n  say       = 15\n  wiki      = https://en.wikipedia.org/wiki/15_(number)\n\nphoto 16 = sixteen\n  afewchars = 16\n  level     = 2\n  say       = 16\n  wiki      = https://en.wikipedia.org/wiki/16_(number)\n\nphoto 17 = seventeen\n  afewchars = 17\n  level     = 2\n  say       = 17\n  wiki      = https://en.wikipedia.org/wiki/17_(number)\n\nphoto 18 = eighteen\n  afewchars = 18\n  level     = 2\n  say       = 18\n  wiki      = https://en.wikipedia.org/wiki/18_(number)\n\nphoto 19 = nineteen\n  afewchars = 19\n  level     = 2\n  say       = 19\n  wiki      = https://en.wikipedia.org/wiki/19_(number)\n\nphoto 20 = twenty\n  afewchars = 20\n  level     = 3\n  say       = 20\n  wiki      = https://en.wikipedia.org/wiki/20_(number)\n\nphoto 21 = twenty-one\n  afewchars = 21\n  level     = 5\n  say       = 21\n  wiki      = https://en.wikipedia.org/wiki/21_(number)\n\nphoto 22 = twenty-two\n  afewchars = 22\n  level     = 4\n  say       = 22\n  wiki      = https://en.wikipedia.org/wiki/22_(number)\n\nphoto 23 = twenty-three\n  afewchars = 23\n  level     = 5\n  say       = 23\n  wiki      = https://en.wikipedia.org/wiki/23_(number)\n\nphoto 24 = twenty-four\n  afewchars = 24\n  level     = 5\n  say       = 24\n  wiki      = https://en.wikipedia.org/wiki/24_(number)\n\nphoto 25 = twenty-five\n  afewchars = 25\n  level     = 5\n  say       = 25\n  wiki      = https://en.wikipedia.org/wiki/25_(number)\n\nphoto 26 = twenty-six\n  afewchars = 26\n  level     = 5\n  say       = 26\n  wiki      = https://en.wikipedia.org/wiki/26_(number)\n\nphoto 27 = twenty-seven\n  afewchars = 27\n  level     = 5\n  say       = 27\n  wiki      = https://en.wikipedia.org/wiki/27_(number)\n\nphoto 28 = twenty-eight\n  afewchars = 28\n  level     = 5\n  say       = 28\n  wiki      = https://en.wikipedia.org/wiki/28_(number)\n\nphoto 29 = twenty-nine\n  afewchars = 29\n  level     = 5\n  say       = 29\n  wiki      = https://en.wikipedia.org/wiki/29_(number)\n\nphoto 30 = thirty\n  afewchars = 30\n  level     = 3\n  say       = 30\n  wiki      = https://en.wikipedia.org/wiki/30_(number)\n\nphoto 31 = thirty-one\n  afewchars = 31\n  level     = 6\n  say       = 31\n  wiki      = https://en.wikipedia.org/wiki/31_(number)\n\nphoto 32 = thirty-two\n  afewchars = 32\n  level     = 6\n  say       = 32\n  wiki      = https://en.wikipedia.org/wiki/32_(number)\n\nphoto 33 = thirty-three\n  afewchars = 33\n  level     = 4\n  say       = 33\n  wiki      = https://en.wikipedia.org/wiki/33_(number)\n\nphoto 34 = thirty-four\n  afewchars = 34\n  level     = 6\n  say       = 34\n  wiki      = https://en.wikipedia.org/wiki/34_(number)\n\nphoto 35 = thirty-five\n  afewchars = 35\n  level     = 6\n  say       = 35\n  wiki      = https://en.wikipedia.org/wiki/35_(number)\n\nphoto 36 = thirty-six\n  afewchars = 36\n  level     = 6\n  say       = 36\n  wiki      = https://en.wikipedia.org/wiki/36_(number)\n\nphoto 37 = thirty-seven\n  afewchars = 37\n  level     = 6\n  say       = 37\n  wiki      = https://en.wikipedia.org/wiki/37_(number)\n\nphoto 38 = thirty-eight\n  afewchars = 38\n  level     = 6\n  say       = 38\n  wiki      = https://en.wikipedia.org/wiki/38_(number)\n\nphoto 39 = thirty-nine\n  afewchars = 39\n  level     = 6\n  say       = 39\n  wiki      = https://en.wikipedia.org/wiki/39_(number)\n\nphoto 40 = forty\n  afewchars = 40\n  level     = 3\n  say       = 40\n  wiki      = https://en.wikipedia.org/wiki/40_(number)\n\nphoto 41 = forty-one\n  afewchars = 41\n  level     = 7\n  say       = 41\n  wiki      = https://en.wikipedia.org/wiki/41_(number)\n\nphoto 42 = forty-two\n  afewchars = 42\n  level     = 7\n  say       = 42\n  wiki      = https://en.wikipedia.org/wiki/42_(number)\n\nphoto 43 = forty-three\n  afewchars = 43\n  level     = 7\n  say       = 43\n  wiki      = https://en.wikipedia.org/wiki/43_(number)\n\nphoto 44 = forty-four\n  afewchars = 44\n  level     = 4\n  say       = 44\n  wiki      = https://en.wikipedia.org/wiki/44_(number)\n\nphoto 45 = forty-five\n  afewchars = 45\n  level     = 7\n  say       = 45\n  wiki      = https://en.wikipedia.org/wiki/45_(number)\n\nphoto 46 = forty-six\n  afewchars = 46\n  level     = 7\n  say       = 46\n  wiki      = https://en.wikipedia.org/wiki/46_(number)\n\nphoto 47 = forty-seven\n  afewchars = 47\n  level     = 7\n  say       = 47\n  wiki      = https://en.wikipedia.org/wiki/47_(number)\n\nphoto 48 = forty-eight\n  afewchars = 48\n  level     = 7\n  say       = 48\n  wiki      = https://en.wikipedia.org/wiki/48_(number)\n\nphoto 49 = forty-nine\n  afewchars = 49\n  level     = 7\n  say       = 49\n  wiki      = https://en.wikipedia.org/wiki/49_(number)\n\nphoto 50 = fifty\n  afewchars = 50\n  level     = 3\n  say       = 50\n  wiki      = https://en.wikipedia.org/wiki/50_(number)\n\nphoto 51 = fifty-one\n  afewchars = 51\n  level     = 8\n  say       = 51\n  wiki      = https://en.wikipedia.org/wiki/51_(number)\n\nphoto 52 = fifty-two\n  afewchars = 52\n  level     = 8\n  say       = 52\n  wiki      = https://en.wikipedia.org/wiki/52_(number)\n\nphoto 53 = fifty-three\n  afewchars = 53\n  level     = 8\n  say       = 53\n  wiki      = https://en.wikipedia.org/wiki/53_(number)\n\nphoto 54 = fifty-four\n  afewchars = 54\n  level     = 8\n  say       = 54\n  wiki      = https://en.wikipedia.org/wiki/54_(number)\n\nphoto 55 = fifty-five\n  afewchars = 55\n  level     = 4\n  say       = 55\n  wiki      = https://en.wikipedia.org/wiki/55_(number)\n\nphoto 56 = fifty-six\n  afewchars = 56\n  level     = 8\n  say       = 56\n  wiki      = https://en.wikipedia.org/wiki/56_(number)\n\nphoto 57 = fifty-seven\n  afewchars = 57\n  level     = 8\n  say       = 57\n  wiki      = https://en.wikipedia.org/wiki/57_(number)\n\nphoto 58 = fifty-eight\n  afewchars = 58\n  level     = 8\n  say       = 58\n  wiki      = https://en.wikipedia.org/wiki/58_(number)\n\nphoto 59 = fifty-nine\n  afewchars = 59\n  level     = 8\n  say       = 59\n  wiki      = https://en.wikipedia.org/wiki/59_(number)\n\nphoto 60 = sixty\n  afewchars = 60\n  level     = 3\n  say       = 60\n  wiki      = https://en.wikipedia.org/wiki/60_(number)\n\nphoto 61 = sixty-one\n  afewchars = 61\n  level     = 9\n  say       = 61\n  wiki      = https://en.wikipedia.org/wiki/61_(number)\n\nphoto 62 = sixty-two\n  afewchars = 62\n  level     = 9\n  say       = 62\n  wiki      = https://en.wikipedia.org/wiki/62_(number)\n\nphoto 63 = sixty-three\n  afewchars = 63\n  level     = 9\n  say       = 63\n  wiki      = https://en.wikipedia.org/wiki/63_(number)\n\nphoto 64 = sixty-four\n  afewchars = 64\n  level     = 9\n  say       = 64\n  wiki      = https://en.wikipedia.org/wiki/64_(number)\n\nphoto 65 = sixty-five\n  afewchars = 65\n  level     = 9\n  say       = 65\n  wiki      = https://en.wikipedia.org/wiki/65_(number)\n\nphoto 66 = sixty-six\n  afewchars = 66\n  level     = 4\n  say       = 66\n  wiki      = https://en.wikipedia.org/wiki/66_(number)\n\nphoto 67 = sixty-seven\n  afewchars = 67\n  level     = 9\n  say       = 67\n  wiki      = https://en.wikipedia.org/wiki/67_(number)\n\nphoto 68 = sixty-eight\n  afewchars = 68\n  level     = 9\n  say       = 68\n  wiki      = https://en.wikipedia.org/wiki/68_(number)\n\nphoto 69 = sixty-nine\n  afewchars = 69\n  level     = 9\n  say       = 69\n  wiki      = https://en.wikipedia.org/wiki/69_(number)\n\nphoto 70 = seventy\n  afewchars = 70\n  level     = 3\n  say       = 70\n  wiki      = https://en.wikipedia.org/wiki/70_(number)\n\nphoto 71 = seventy-one\n  afewchars = 71\n  level     = 9\n  say       = 71\n  wiki      = https://en.wikipedia.org/wiki/71_(number)\n\nphoto 72 = seventy-two\n  afewchars = 72\n  level     = 9\n  say       = 72\n  wiki      = https://en.wikipedia.org/wiki/72_(number)\n\nphoto 73 = seventy-three\n  afewchars = 73\n  level     = 9\n  say       = 73\n  wiki      = https://en.wikipedia.org/wiki/73_(number)\n\nphoto 74 = seventy-four\n  afewchars = 74\n  level     = 9\n  say       = 74\n  wiki      = https://en.wikipedia.org/wiki/74_(number)\n\nphoto 75 = seventy-five\n  afewchars = 75\n  level     = 9\n  say       = 75\n  wiki      = https://en.wikipedia.org/wiki/75_(number)\n\nphoto 76 = seventy-six\n  afewchars = 76\n  level     = 9\n  say       = 76\n  wiki      = https://en.wikipedia.org/wiki/76_(number)\n\nphoto 77 = seventy-seven\n  afewchars = 77\n  level     = 4\n  say       = 77\n  wiki      = https://en.wikipedia.org/wiki/77_(number)\n\nphoto 78 = seventy-eight\n  afewchars = 78\n  level     = 9\n  say       = 78\n  wiki      = https://en.wikipedia.org/wiki/78_(number)\n\nphoto 79 = seventy-nine\n  afewchars = 79\n  level     = 9\n  say       = 79\n  wiki      = https://en.wikipedia.org/wiki/79_(number)\n\nphoto 80 = eighty\n  afewchars = 80\n  level     = 3\n  say       = 80\n  wiki      = https://en.wikipedia.org/wiki/80_(number)\n\nphoto 81 = eighty-one\n  afewchars = 81\n  level     = 10\n  say       = 81\n  wiki      = https://en.wikipedia.org/wiki/81_(number)\n\nphoto 82 = eighty-two\n  afewchars = 82\n  level     = 10\n  say       = 82\n  wiki      = https://en.wikipedia.org/wiki/82_(number)\n\nphoto 83 = eighty-three\n  afewchars = 83\n  level     = 10\n  say       = 83\n  wiki      = https://en.wikipedia.org/wiki/83_(number)\n\nphoto 84 = eighty-four\n  afewchars = 84\n  level     = 10\n  say       = 84\n  wiki      = https://en.wikipedia.org/wiki/84_(number)\n\nphoto 85 = eighty-five\n  afewchars = 85\n  level     = 10\n  say       = 85\n  wiki      = https://en.wikipedia.org/wiki/85_(number)\n\nphoto 86 = eighty-six\n  afewchars = 86\n  level     = 10\n  say       = 86\n  wiki      = https://en.wikipedia.org/wiki/86_(number)\n\nphoto 87 = eighty-seven\n  afewchars = 87\n  level     = 10\n  say       = 87\n  wiki      = https://en.wikipedia.org/wiki/87_(number)\n\nphoto 88 = eighty-eight\n  afewchars = 88\n  level     = 4\n  say       = 88\n  wiki      = https://en.wikipedia.org/wiki/88_(number)\n\nphoto 89 = eighty-nine\n  afewchars = 89\n  level     = 10\n  say       = 89\n  wiki      = https://en.wikipedia.org/wiki/89_(number)\n\nphoto 90 = ninety\n  afewchars = 90\n  level     = 3\n  say       = 90\n  wiki      = https://en.wikipedia.org/wiki/90_(number)\n\nphoto 91 = ninety-one\n  afewchars = 91\n  level     = 10\n  say       = 91\n  wiki      = https://en.wikipedia.org/wiki/91_(number)\n\nphoto 92 = ninety-two\n  afewchars = 92\n  level     = 10\n  say       = 92\n  wiki      = https://en.wikipedia.org/wiki/92_(number)\n\nphoto 93 = ninety-three\n  afewchars = 93\n  level     = 10\n  say       = 93\n  wiki      = https://en.wikipedia.org/wiki/93_(number)\n\nphoto 94 = ninety-four\n  afewchars = 94\n  level     = 10\n  say       = 94\n  wiki      = https://en.wikipedia.org/wiki/94_(number)\n\nphoto 95 = ninety-five\n  afewchars = 95\n  level     = 10\n  say       = 95\n  wiki      = https://en.wikipedia.org/wiki/95_(number)\n\nphoto 96 = ninety-six\n  afewchars = 96\n  level     = 10\n  say       = 96\n  wiki      = https://en.wikipedia.org/wiki/96_(number)\n\nphoto 97 = ninety-seven\n  afewchars = 97\n  level     = 10\n  say       = 97\n  wiki      = https://en.wikipedia.org/wiki/97_(number)\n\nphoto 98 = ninety-eight\n  afewchars = 98\n  level     = 10\n  say       = 98\n  wiki      = https://en.wikipedia.org/wiki/98_(number)\n\nphoto 99 = ninety-nine\n  afewchars = 99\n  level     = 4\n  say       = 99\n  wiki      = https://en.wikipedia.org/wiki/99_(number)\n\nphoto 100 = one hundred\n  afewchars = 100\n  level     = 3\n  say       = 100\n  wiki      = https://en.wikipedia.org/wiki/100_(number)\n",
+    sourceFileSha => "49e1f54a3b1803fe6d1060c1ddc360ff0e2daabc",
     step => "parseSource",
   }, "Manifest");
   $a->{parsedCmds}[0] = $a->{app};
