@@ -1,22 +1,20 @@
 SUCCESS!
 
-2017-11-29 at 01:12:03 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/9
+2017-12-01 at 23:03:07 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/9
 
-2017-11-29 at 01:12:07 Step: parseSource
-2017-11-29 at 01:12:07 <b>Good source file!</b>
-2017-11-29 at 01:12:07 Step: loadAssets
-2017-11-29 at 01:12:07 0 new, 10 reused audio files
-2017-11-29 at 01:12:07 Step: multiplyPhotosByFacts
-2017-11-29 at 01:12:07 Step: genJavaManifest
-2017-11-29 at 01:12:07 Step: genJsonManifest
-2017-11-29 at 01:12:07 Step: genGameHtml
-2017-11-29 at 01:12:07 Step: genHtmlAssets
-2017-11-29 at 01:12:07 Step: zipAssets
-2017-11-29 at 01:12:07 Zip file is only 61551 bytes which is small?
-
-2017-11-29 at 01:12:07 Step: compileApp
-2017-11-29 at 01:12:11 Step: copyLinksToGitHub
-2017-11-29 at 01:12:14 Step: copyFilesIntoPositionOnWebServer
+2017-12-01 at 23:03:11 Step: parseSource
+2017-12-01 at 23:03:11 <b>Good source file!</b>
+2017-12-01 at 23:03:11 Step: loadAssets
+2017-12-01 at 23:03:25 20 new, 0 reused audio files
+2017-12-01 at 23:03:25 Step: multiplyPhotosByFacts
+2017-12-01 at 23:03:25 Step: genJavaManifest
+2017-12-01 at 23:03:25 Step: genJsonManifest
+2017-12-01 at 23:03:25 Step: genGameHtml
+2017-12-01 at 23:03:25 Step: genHtmlAssets
+2017-12-01 at 23:03:25 Step: zipAssets
+2017-12-01 at 23:03:25 Step: compileApp
+2017-12-01 at 23:03:29 Step: copyLinksToGitHub
+2017-12-01 at 23:03:34 Step: copyFilesIntoPositionOnWebServer
 --------------------------------------------------------------------------------
 do {
   my $a = bless({
@@ -42,7 +40,7 @@ do {
                                           "",
                                         ],
                        package       => "com.appaapps.photoapp.philiprbrenan100sv9",
-                       parameters    => "1511917927,philiprbrenan,100,sv/9,http://www.appaapps.com/users/philiprbrenan/100/sv/9/zip/philiprbrenan100sv9.zip,100.sv.9 - The Digits 0 to 9 in Swedish",
+                       parameters    => "1512169405,philiprbrenan,100,sv/9,http://www.appaapps.com/users/philiprbrenan/100/sv/9/zip/philiprbrenan100sv9.zip,The Digits 0 to 9 in Swedish",
                        permissions   => ["INTERNET", "ACCESS_NETWORK_STATE", "WRITE_EXTERNAL_STORAGE"],
                        platform      => "/home/phil/Android/sdk/platforms/android-25/",
                        platformTools => "/home/phil/Android/sdk/platform-tools/",
@@ -69,7 +67,7 @@ do {
                                         ],
                        title         => "The Digits 0 to 9 in Swedish",
                        verifyApk     => undef,
-                       version       => 20171129,
+                       version       => 20171201,
                      }, "Android::Build"),
     app           => bless({
                        cmd => "app",
@@ -88,7 +86,7 @@ do {
                          name          => "100.sv.9",
                          ordered       => "finally",
                          prerequisites => "",
-                         rightInARow   => 6,
+                         rightInARow   => 7,
                          speakers      => "Astrid",
                          title         => "The Digits 0 to 9 in Swedish",
                          version       => "2017-11-28 at 01:14:16",
@@ -100,21 +98,20 @@ do {
     error         => 0,
     iconFile      => "/home/phil/audioImageCache/images/icon.png",
     log           => [
-                       "\n2017-11-29 at 01:12:03 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/9\n",
-                       "2017-11-29 at 01:12:07 Step: parseSource",
-                       "2017-11-29 at 01:12:07 <b>Good source file!</b>",
-                       "2017-11-29 at 01:12:07 Step: loadAssets",
-                       "2017-11-29 at 01:12:07 0 new, 10 reused audio files",
-                       "2017-11-29 at 01:12:07 Step: multiplyPhotosByFacts",
-                       "2017-11-29 at 01:12:07 Step: genJavaManifest",
-                       "2017-11-29 at 01:12:07 Step: genJsonManifest",
-                       "2017-11-29 at 01:12:07 Step: genGameHtml",
-                       "2017-11-29 at 01:12:07 Step: genHtmlAssets",
-                       "2017-11-29 at 01:12:07 Step: zipAssets",
-                       "2017-11-29 at 01:12:07 Zip file is only 61551 bytes which is small?\n",
-                       "2017-11-29 at 01:12:07 Step: compileApp",
-                       "2017-11-29 at 01:12:11 Step: copyLinksToGitHub",
-                       "2017-11-29 at 01:12:14 Step: copyFilesIntoPositionOnWebServer",
+                       "\n2017-12-01 at 23:03:07 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/9\n",
+                       "2017-12-01 at 23:03:11 Step: parseSource",
+                       "2017-12-01 at 23:03:11 <b>Good source file!</b>",
+                       "2017-12-01 at 23:03:11 Step: loadAssets",
+                       "2017-12-01 at 23:03:25 20 new, 0 reused audio files",
+                       "2017-12-01 at 23:03:25 Step: multiplyPhotosByFacts",
+                       "2017-12-01 at 23:03:25 Step: genJavaManifest",
+                       "2017-12-01 at 23:03:25 Step: genJsonManifest",
+                       "2017-12-01 at 23:03:25 Step: genGameHtml",
+                       "2017-12-01 at 23:03:25 Step: genHtmlAssets",
+                       "2017-12-01 at 23:03:25 Step: zipAssets",
+                       "2017-12-01 at 23:03:25 Step: compileApp",
+                       "2017-12-01 at 23:03:29 Step: copyLinksToGitHub",
+                       "2017-12-01 at 23:03:34 Step: copyFilesIntoPositionOnWebServer",
                      ],
     parsedCmds    => [
                        'fix',
@@ -126,6 +123,7 @@ do {
                          parsedKeys => bless({
                            afewchars => 0,
                            cmd => "photo",
+                           level => 1,
                            name => 0,
                            say => 0,
                            title => "noll",
@@ -145,6 +143,7 @@ do {
                          parsedKeys => bless({
                            afewchars => 1,
                            cmd => "photo",
+                           level => 1,
                            name => 1,
                            say => 1,
                            title => "en",
@@ -164,6 +163,7 @@ do {
                          parsedKeys => bless({
                            afewchars => 2,
                            cmd => "photo",
+                           level => 1,
                            name => 2,
                            say => 2,
                            title => "tv\xE5",
@@ -183,6 +183,7 @@ do {
                          parsedKeys => bless({
                            afewchars => 3,
                            cmd => "photo",
+                           level => 1,
                            name => 3,
                            say => 3,
                            title => "tre",
@@ -202,6 +203,7 @@ do {
                          parsedKeys => bless({
                            afewchars => 4,
                            cmd => "photo",
+                           level => 1,
                            name => 4,
                            say => 4,
                            title => "fyra",
@@ -221,6 +223,7 @@ do {
                          parsedKeys => bless({
                            afewchars => 5,
                            cmd => "photo",
+                           level => 1,
                            name => 5,
                            say => 5,
                            title => "fem",
@@ -240,6 +243,7 @@ do {
                          parsedKeys => bless({
                            afewchars => 6,
                            cmd => "photo",
+                           level => 1,
                            name => 6,
                            say => 6,
                            title => "sex",
@@ -259,6 +263,7 @@ do {
                          parsedKeys => bless({
                            afewchars => 7,
                            cmd => "photo",
+                           level => 1,
                            name => 7,
                            say => 7,
                            title => "sju",
@@ -278,6 +283,7 @@ do {
                          parsedKeys => bless({
                            afewchars => 8,
                            cmd => "photo",
+                           level => 1,
                            name => 8,
                            say => 8,
                            title => "\xE5tta",
@@ -297,6 +303,7 @@ do {
                          parsedKeys => bless({
                            afewchars => 9,
                            cmd => "photo",
+                           level => 1,
                            name => 9,
                            say => 9,
                            title => "nio",
