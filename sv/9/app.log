@@ -1,22 +1,22 @@
 SUCCESS!
 
-2017-12-02 at 22:46:46 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/9
+2017-12-02 at 22:51:38 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/9
 
-2017-12-02 at 22:46:50 Step: parseSource
-2017-12-02 at 22:46:50 <b>Good source file!</b>
-2017-12-02 at 22:46:50 Step: loadAssets
-2017-12-02 at 22:46:51 0 new, 20 reused audio files
-2017-12-02 at 22:46:51 Step: multiplyPhotosByFacts
-2017-12-02 at 22:46:51 Step: genJavaManifest
-2017-12-02 at 22:46:51 Step: genJsonManifest
-2017-12-02 at 22:46:51 Step: genGameHtml
-2017-12-02 at 22:46:51 Step: genHtmlAssets
-2017-12-02 at 22:46:51 Step: zipAssets
-2017-12-02 at 22:46:51 Zip file is only 99931 bytes which is small?
+2017-12-02 at 22:51:42 Step: parseSource
+2017-12-02 at 22:51:42 <b>Good source file!</b>
+2017-12-02 at 22:51:42 Step: loadAssets
+2017-12-02 at 22:51:43 0 new, 20 reused audio files
+2017-12-02 at 22:51:43 Step: multiplyPhotosByFacts
+2017-12-02 at 22:51:43 Step: genJavaManifest
+2017-12-02 at 22:51:43 Step: genJsonManifest
+2017-12-02 at 22:51:43 Step: genGameHtml
+2017-12-02 at 22:51:43 Step: genHtmlAssets
+2017-12-02 at 22:51:43 Step: zipAssets
+2017-12-02 at 22:51:43 Zip file is only 99938 bytes which is small?
 
-2017-12-02 at 22:46:51 Step: compileApp
-2017-12-02 at 22:46:55 Step: copyLinksToGitHub
-2017-12-02 at 22:46:59 Step: copyFilesIntoPositionOnWebServer
+2017-12-02 at 22:51:43 Step: compileApp
+2017-12-02 at 22:51:50 Step: copyLinksToGitHub
+2017-12-02 at 22:51:55 Step: copyFilesIntoPositionOnWebServer
 --------------------------------------------------------------------------------
 do {
   my $a = bless({
@@ -41,8 +41,8 @@ do {
                                           "Enter Passphrase for keystore: jar signed.\n\nWarning: \nNo -tsa or -tsacert is provided and this jar is not timestamped. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2044-09-10) or after any future revocation date.",
                                           "",
                                         ],
-                       package       => "com.appaapps.photoapp.philiprbrenan100sv9",
-                       parameters    => "1512254811,philiprbrenan,100,sv/9,http://www.appaapps.com/users/philiprbrenan/100/sv/9/zip/philiprbrenan100sv9.zip,The Digits 0 to 9 in Swedish",
+                       package       => "com.appaapps.photoapp.sv9aaaaa",
+                       parameters    => "1512255103,philiprbrenan,100,sv/9,http://www.appaapps.com/users/philiprbrenan/100/sv/9/zip/philiprbrenan100sv9.zip,The Digits 0 to 9 in Swedish",
                        permissions   => ["INTERNET", "ACCESS_NETWORK_STATE", "WRITE_EXTERNAL_STORAGE"],
                        platform      => "/home/phil/Android/sdk/platforms/android-25/",
                        platformTools => "/home/phil/Android/sdk/platform-tools/",
@@ -101,21 +101,21 @@ do {
     error         => 0,
     iconFile      => "/home/phil/audioImageCache/images/icon.png",
     log           => [
-                       "\n2017-12-02 at 22:46:46 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/9\n",
-                       "2017-12-02 at 22:46:50 Step: parseSource",
-                       "2017-12-02 at 22:46:50 <b>Good source file!</b>",
-                       "2017-12-02 at 22:46:50 Step: loadAssets",
-                       "2017-12-02 at 22:46:51 0 new, 20 reused audio files",
-                       "2017-12-02 at 22:46:51 Step: multiplyPhotosByFacts",
-                       "2017-12-02 at 22:46:51 Step: genJavaManifest",
-                       "2017-12-02 at 22:46:51 Step: genJsonManifest",
-                       "2017-12-02 at 22:46:51 Step: genGameHtml",
-                       "2017-12-02 at 22:46:51 Step: genHtmlAssets",
-                       "2017-12-02 at 22:46:51 Step: zipAssets",
-                       "2017-12-02 at 22:46:51 Zip file is only 99931 bytes which is small?\n",
-                       "2017-12-02 at 22:46:51 Step: compileApp",
-                       "2017-12-02 at 22:46:55 Step: copyLinksToGitHub",
-                       "2017-12-02 at 22:46:59 Step: copyFilesIntoPositionOnWebServer",
+                       "\n2017-12-02 at 22:51:38 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/9\n",
+                       "2017-12-02 at 22:51:42 Step: parseSource",
+                       "2017-12-02 at 22:51:42 <b>Good source file!</b>",
+                       "2017-12-02 at 22:51:42 Step: loadAssets",
+                       "2017-12-02 at 22:51:43 0 new, 20 reused audio files",
+                       "2017-12-02 at 22:51:43 Step: multiplyPhotosByFacts",
+                       "2017-12-02 at 22:51:43 Step: genJavaManifest",
+                       "2017-12-02 at 22:51:43 Step: genJsonManifest",
+                       "2017-12-02 at 22:51:43 Step: genGameHtml",
+                       "2017-12-02 at 22:51:43 Step: genHtmlAssets",
+                       "2017-12-02 at 22:51:43 Step: zipAssets",
+                       "2017-12-02 at 22:51:43 Zip file is only 99938 bytes which is small?\n",
+                       "2017-12-02 at 22:51:43 Step: compileApp",
+                       "2017-12-02 at 22:51:50 Step: copyLinksToGitHub",
+                       "2017-12-02 at 22:51:55 Step: copyFilesIntoPositionOnWebServer",
                      ],
     parsedCmds    => [
                        'fix',
