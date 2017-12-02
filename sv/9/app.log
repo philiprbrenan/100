@@ -1,9 +1,9 @@
 Failed.
 
-2017-12-02 at 22:39:14 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/9
+2017-12-02 at 22:39:54 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/9
 
-2017-12-02 at 22:39:18 Step: parseSource
-2017-12-02 at 22:39:18 Ignored invalid keyword <b>fullNameOnGooglePlay</b> for command <b>app</b> on line 11.
+2017-12-02 at 22:39:58 Step: parseSource
+2017-12-02 at 22:39:58 Ignored invalid keyword <b>fullNameOnGooglePlay</b> for command <b>app</b> on line 11.
   fullNameOnGooglePlay = com.appaapps.photoapp.sv9aaaaa
 Choose one of: <b>author description email enables fullNameOnGooglePlay icon language maximages name ordered prerequisites rightInARow title version</b>
 
@@ -36,9 +36,9 @@ do {
     }, "ParsedCmd"),
     error => 1,
     log => [
-      "\n2017-12-02 at 22:39:14 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/9\n",
-      "2017-12-02 at 22:39:18 Step: parseSource",
-      "2017-12-02 at 22:39:18 Ignored invalid keyword <b>fullNameOnGooglePlay</b> for command <b>app</b> on line 11.\n  fullNameOnGooglePlay = com.appaapps.photoapp.sv9aaaaa\nChoose one of: <b>author description email enables fullNameOnGooglePlay icon language maximages name ordered prerequisites rightInARow title version</b>\n",
+      "\n2017-12-02 at 22:39:54 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/9\n",
+      "2017-12-02 at 22:39:58 Step: parseSource",
+      "2017-12-02 at 22:39:58 Ignored invalid keyword <b>fullNameOnGooglePlay</b> for command <b>app</b> on line 11.\n  fullNameOnGooglePlay = com.appaapps.photoapp.sv9aaaaa\nChoose one of: <b>author description email enables fullNameOnGooglePlay icon language maximages name ordered prerequisites rightInARow title version</b>\n",
     ],
     parsedCmds => [
       'fix',
