@@ -1,38 +1,62 @@
 Failed.
 
-2017-12-02 at 22:24:59 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/9
+2017-12-02 at 22:33:44 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/9
 
-2017-12-02 at 22:25:03 Step: parseSource
-2017-12-02 at 22:25:03 Expected one of these commands: <b>app fact photo</b>, at the start of line <b>1</b> followed by <b>keyword=value</b>, but found:
-  app 100.sv.9 = The Digits 0 to 9 in SwedishThe first command in the app definition file must be an <b>app</b> command not a <b>photo</b> command
+2017-12-02 at 22:33:48 Step: parseSource
+2017-12-02 at 22:33:48 The app command name keyword is <b>100.sv.9 </b> but it should be <b>100.sv.9</b>
+ on line(s) 1-11
 --------------------------------------------------------------------------------
 do {
   my $a = bless({
     app => bless({
-      cmd        => "photo",
-      end        => 17,
+      cmd        => "app",
+      end        => 11,
       index      => 0,
-      name       => "0 ",
+      name       => "100.sv.9 ",
       parsedKeys => bless({
-                      afewchars => 0,
-                      cmd       => "photo",
-                      level     => 1,
-                      name      => "0 ",
-                      say       => 0,
-                      title     => "noll",
-                      wiki      => "https://en.wikipedia.org/wiki/0_(number)",
+                      author        => "philiprbrenan",
+                      cmd           => "app",
+                      description   => "Learn to recognize and say the digits 0 to 9 in Swedish",
+                      email         => "philiprbrenan\@gmail.com",
+                      enables       => "philiprbrenan/100/sv/100 philiprbrenan/100/sv/10x10",
+                      icon          => "icon.png",
+                      language      => "sv",
+                      maximages     => 12,
+                      name          => "100.sv.9 ",
+                      ordered       => "finally",
+                      prerequisites => "",
+                      rightInARow   => 7,
+                      title         => "The Digits 0 to 9 in Swedish",
+                      version       => "2017-11-28 at 01:14:16",
                     }, "ParsedKeys"),
-      start      => 14,
-      title      => "noll",
+      start      => 1,
+      title      => "The Digits 0 to 9 in Swedish",
     }, "ParsedCmd"),
-    error => 2,
+    error => 1,
     log => [
-      "\n2017-12-02 at 22:24:59 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/9\n",
-      "2017-12-02 at 22:25:03 Step: parseSource",
-      "2017-12-02 at 22:25:03 Expected one of these commands: <b>app fact photo</b>, at the start of line <b>1</b> followed by <b>keyword=value</b>, but found:\n  app 100.sv.9 = The Digits 0 to 9 in SwedishThe first command in the app definition file must be an <b>app</b> command not a <b>photo</b> command",
+      "\n2017-12-02 at 22:33:44 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/9\n",
+      "2017-12-02 at 22:33:48 Step: parseSource",
+      "2017-12-02 at 22:33:48 The app command name keyword is <b>100.sv.9 </b> but it should be <b>100.sv.9</b>\n on line(s) 1-11",
     ],
     parsedCmds => [
       'fix',
+      bless({
+        cmd        => "photo",
+        end        => 17,
+        index      => 0,
+        name       => "0 ",
+        parsedKeys => bless({
+                        afewchars => 0,
+                        cmd       => "photo",
+                        level     => 1,
+                        name      => "0 ",
+                        say       => 0,
+                        title     => "noll",
+                        wiki      => "https://en.wikipedia.org/wiki/0_(number)",
+                      }, "ParsedKeys"),
+        start      => 14,
+        title      => "noll",
+      }, "ParsedCmd"),
       bless({
         cmd        => "photo",
         end        => 22,
