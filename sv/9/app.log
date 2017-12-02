@@ -1,9 +1,9 @@
 Failed.
 
-2017-12-02 at 22:23:53 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/9
+2017-12-02 at 22:24:59 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/9
 
-2017-12-02 at 22:23:57 Step: parseSource
-2017-12-02 at 22:23:57 Expected one of these commands: <b>app fact photo</b>, at the start of line <b>1</b> followed by <b>keyword=value</b>, but found:
+2017-12-02 at 22:25:03 Step: parseSource
+2017-12-02 at 22:25:03 Expected one of these commands: <b>app fact photo</b>, at the start of line <b>1</b> followed by <b>keyword=value</b>, but found:
   app 100.sv.9 = The Digits 0 to 9 in SwedishThe first command in the app definition file must be an <b>app</b> command not a <b>photo</b> command
 --------------------------------------------------------------------------------
 do {
@@ -12,12 +12,12 @@ do {
       cmd        => "photo",
       end        => 17,
       index      => 0,
-      name       => 0,
+      name       => "0 ",
       parsedKeys => bless({
                       afewchars => 0,
                       cmd       => "photo",
                       level     => 1,
-                      name      => 0,
+                      name      => "0 ",
                       say       => 0,
                       title     => "noll",
                       wiki      => "https://en.wikipedia.org/wiki/0_(number)",
@@ -27,9 +27,9 @@ do {
     }, "ParsedCmd"),
     error => 2,
     log => [
-      "\n2017-12-02 at 22:23:53 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/9\n",
-      "2017-12-02 at 22:23:57 Step: parseSource",
-      "2017-12-02 at 22:23:57 Expected one of these commands: <b>app fact photo</b>, at the start of line <b>1</b> followed by <b>keyword=value</b>, but found:\n  app 100.sv.9 = The Digits 0 to 9 in SwedishThe first command in the app definition file must be an <b>app</b> command not a <b>photo</b> command",
+      "\n2017-12-02 at 22:24:59 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/9\n",
+      "2017-12-02 at 22:25:03 Step: parseSource",
+      "2017-12-02 at 22:25:03 Expected one of these commands: <b>app fact photo</b>, at the start of line <b>1</b> followed by <b>keyword=value</b>, but found:\n  app 100.sv.9 = The Digits 0 to 9 in SwedishThe first command in the app definition file must be an <b>app</b> command not a <b>photo</b> command",
     ],
     parsedCmds => [
       'fix',
@@ -37,12 +37,12 @@ do {
         cmd        => "photo",
         end        => 22,
         index      => 1,
-        name       => 1,
+        name       => "1 ",
         parsedKeys => bless({
                         afewchars => 1,
                         cmd       => "photo",
                         level     => 1,
-                        name      => 1,
+                        name      => "1 ",
                         say       => 1,
                         title     => "en",
                         wiki      => "https://en.wikipedia.org/wiki/1_(number)",
@@ -54,12 +54,12 @@ do {
         cmd        => "photo",
         end        => 27,
         index      => 2,
-        name       => 2,
+        name       => "2 ",
         parsedKeys => bless({
                         afewchars => 2,
                         cmd       => "photo",
                         level     => 1,
-                        name      => 2,
+                        name      => "2 ",
                         say       => 2,
                         title     => "tv\xE5",
                         wiki      => "https://en.wikipedia.org/wiki/2_(number)",
@@ -71,12 +71,12 @@ do {
         cmd        => "photo",
         end        => 32,
         index      => 3,
-        name       => 3,
+        name       => "3 ",
         parsedKeys => bless({
                         afewchars => 3,
                         cmd       => "photo",
                         level     => 1,
-                        name      => 3,
+                        name      => "3 ",
                         say       => 3,
                         title     => "tre",
                         wiki      => "https://en.wikipedia.org/wiki/3_(number)",
@@ -88,12 +88,12 @@ do {
         cmd        => "photo",
         end        => 37,
         index      => 4,
-        name       => 4,
+        name       => "4 ",
         parsedKeys => bless({
                         afewchars => 4,
                         cmd       => "photo",
                         level     => 1,
-                        name      => 4,
+                        name      => "4 ",
                         say       => 4,
                         title     => "fyra",
                         wiki      => "https://en.wikipedia.org/wiki/4_(number)",
@@ -105,12 +105,12 @@ do {
         cmd        => "photo",
         end        => 42,
         index      => 5,
-        name       => 5,
+        name       => "5 ",
         parsedKeys => bless({
                         afewchars => 5,
                         cmd       => "photo",
                         level     => 1,
-                        name      => 5,
+                        name      => "5 ",
                         say       => 5,
                         title     => "fem",
                         wiki      => "https://en.wikipedia.org/wiki/5_(number)",
@@ -122,12 +122,12 @@ do {
         cmd        => "photo",
         end        => 47,
         index      => 6,
-        name       => 6,
+        name       => "6 ",
         parsedKeys => bless({
                         afewchars => 6,
                         cmd       => "photo",
                         level     => 1,
-                        name      => 6,
+                        name      => "6 ",
                         say       => 6,
                         title     => "sex",
                         wiki      => "https://en.wikipedia.org/wiki/6_(number)",
@@ -139,12 +139,12 @@ do {
         cmd        => "photo",
         end        => 52,
         index      => 7,
-        name       => 7,
+        name       => "7 ",
         parsedKeys => bless({
                         afewchars => 7,
                         cmd       => "photo",
                         level     => 1,
-                        name      => 7,
+                        name      => "7 ",
                         say       => 7,
                         title     => "sju",
                         wiki      => "https://en.wikipedia.org/wiki/7_(number)",
@@ -156,12 +156,12 @@ do {
         cmd        => "photo",
         end        => 57,
         index      => 8,
-        name       => 8,
+        name       => "8 ",
         parsedKeys => bless({
                         afewchars => 8,
                         cmd       => "photo",
                         level     => 1,
-                        name      => 8,
+                        name      => "8 ",
                         say       => 8,
                         title     => "\xE5tta",
                         wiki      => "https://en.wikipedia.org/wiki/8_(number)",
@@ -173,12 +173,12 @@ do {
         cmd        => "photo",
         end        => 62,
         index      => 9,
-        name       => 9,
+        name       => "9 ",
         parsedKeys => bless({
                         afewchars => 9,
                         cmd       => "photo",
                         level     => 1,
-                        name      => 9,
+                        name      => "9 ",
                         say       => 9,
                         title     => "nio",
                         wiki      => "https://en.wikipedia.org/wiki/9_(number)",
