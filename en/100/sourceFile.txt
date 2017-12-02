@@ -6,9 +6,7 @@
   author        = philiprbrenan
   email         = philiprbrenan@gmail.com
   language      = en
-#  prerequisites = philiprbrenan/100/en/9 philiprbrenan/100/en/10x10
-#  enables       = 
-  full name on google play = com.appaapps.photoapp.en100                    # The original names of these apps when they were all inspearate repositories on Github instead of just one as they are now
+  full name on google play = com.appaapps.photoapp.en100                  
   version       = 2017-12-02 at 23:35:25
 
 
