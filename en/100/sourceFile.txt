@@ -8,7 +8,8 @@
   language      = en
 #  prerequisites = philiprbrenan/100/en/9 philiprbrenan/100/en/10x10
 #  enables       = 
-  version       = 2017-11-30 at 21:54:22
+  full name on google play = com.appaapps.photoapp.en100                    # The original names of these apps when they were all inspearate repositories on Github instead of just one as they are now
+  version       = 2017-12-02 at 23:35:25
 
 
 photo 0 = zero
