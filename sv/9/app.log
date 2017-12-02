@@ -1,22 +1,22 @@
 SUCCESS!
 
-2017-12-02 at 03:24:42 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/9
+2017-12-02 at 20:46:50 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/9
 
-2017-12-02 at 03:24:46 Step: parseSource
-2017-12-02 at 03:24:46 <b>Good source file!</b>
-2017-12-02 at 03:24:46 Step: loadAssets
-2017-12-02 at 03:24:47 0 new, 20 reused audio files
-2017-12-02 at 03:24:47 Step: multiplyPhotosByFacts
-2017-12-02 at 03:24:47 Step: genJavaManifest
-2017-12-02 at 03:24:47 Step: genJsonManifest
-2017-12-02 at 03:24:47 Step: genGameHtml
-2017-12-02 at 03:24:47 Step: genHtmlAssets
-2017-12-02 at 03:24:47 Step: zipAssets
-2017-12-02 at 03:24:47 Zip file is only 99918 bytes which is small?
+2017-12-02 at 20:46:54 Step: parseSource
+2017-12-02 at 20:46:54 <b>Good source file!</b>
+2017-12-02 at 20:46:54 Step: loadAssets
+2017-12-02 at 20:46:55 0 new, 20 reused audio files
+2017-12-02 at 20:46:55 Step: multiplyPhotosByFacts
+2017-12-02 at 20:46:55 Step: genJavaManifest
+2017-12-02 at 20:46:55 Step: genJsonManifest
+2017-12-02 at 20:46:55 Step: genGameHtml
+2017-12-02 at 20:46:55 Step: genHtmlAssets
+2017-12-02 at 20:46:55 Step: zipAssets
+2017-12-02 at 20:46:55 Zip file is only 99933 bytes which is small?
 
-2017-12-02 at 03:24:47 Step: compileApp
-2017-12-02 at 03:24:52 Step: copyLinksToGitHub
-2017-12-02 at 03:24:56 Step: copyFilesIntoPositionOnWebServer
+2017-12-02 at 20:46:55 Step: compileApp
+2017-12-02 at 20:47:00 Step: copyLinksToGitHub
+2017-12-02 at 20:47:04 Step: copyFilesIntoPositionOnWebServer
 --------------------------------------------------------------------------------
 do {
   my $a = bless({
@@ -42,7 +42,7 @@ do {
                                           "",
                                         ],
                        package       => "com.appaapps.photoapp.philiprbrenan100sv9",
-                       parameters    => "1512185087,philiprbrenan,100,sv/9,http://www.appaapps.com/users/philiprbrenan/100/sv/9/zip/philiprbrenan100sv9.zip,The Digits 0 to 9 in Swedish",
+                       parameters    => "1512247615,philiprbrenan,100,sv/9,http://www.appaapps.com/users/philiprbrenan/100/sv/9/zip/philiprbrenan100sv9.zip,The Digits 0 to 9 in Swedish",
                        permissions   => ["INTERNET", "ACCESS_NETWORK_STATE", "WRITE_EXTERNAL_STORAGE"],
                        platform      => "/home/phil/Android/sdk/platforms/android-25/",
                        platformTools => "/home/phil/Android/sdk/platform-tools/",
@@ -88,33 +88,33 @@ do {
                          name          => "100.sv.9",
                          ordered       => "finally",
                          prerequisites => "",
-                         rightInARow   => 7,
+                         rightinarow   => 7,
                          speakers      => "Astrid",
                          title         => "The Digits 0 to 9 in Swedish",
                          version       => "2017-11-28 at 01:14:16",
                        }, "ParsedKeys"),
                        start => 1,
                        title => "The Digits 0 to 9 in Swedish",
-                       titleFile => undef,
+                       titlefile => undef,
                      }, "ParsedCmd"),
     error         => 0,
     iconFile      => "/home/phil/audioImageCache/images/icon.png",
     log           => [
-                       "\n2017-12-02 at 03:24:42 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/9\n",
-                       "2017-12-02 at 03:24:46 Step: parseSource",
-                       "2017-12-02 at 03:24:46 <b>Good source file!</b>",
-                       "2017-12-02 at 03:24:46 Step: loadAssets",
-                       "2017-12-02 at 03:24:47 0 new, 20 reused audio files",
-                       "2017-12-02 at 03:24:47 Step: multiplyPhotosByFacts",
-                       "2017-12-02 at 03:24:47 Step: genJavaManifest",
-                       "2017-12-02 at 03:24:47 Step: genJsonManifest",
-                       "2017-12-02 at 03:24:47 Step: genGameHtml",
-                       "2017-12-02 at 03:24:47 Step: genHtmlAssets",
-                       "2017-12-02 at 03:24:47 Step: zipAssets",
-                       "2017-12-02 at 03:24:47 Zip file is only 99918 bytes which is small?\n",
-                       "2017-12-02 at 03:24:47 Step: compileApp",
-                       "2017-12-02 at 03:24:52 Step: copyLinksToGitHub",
-                       "2017-12-02 at 03:24:56 Step: copyFilesIntoPositionOnWebServer",
+                       "\n2017-12-02 at 20:46:50 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/sv/9\n",
+                       "2017-12-02 at 20:46:54 Step: parseSource",
+                       "2017-12-02 at 20:46:54 <b>Good source file!</b>",
+                       "2017-12-02 at 20:46:54 Step: loadAssets",
+                       "2017-12-02 at 20:46:55 0 new, 20 reused audio files",
+                       "2017-12-02 at 20:46:55 Step: multiplyPhotosByFacts",
+                       "2017-12-02 at 20:46:55 Step: genJavaManifest",
+                       "2017-12-02 at 20:46:55 Step: genJsonManifest",
+                       "2017-12-02 at 20:46:55 Step: genGameHtml",
+                       "2017-12-02 at 20:46:55 Step: genHtmlAssets",
+                       "2017-12-02 at 20:46:55 Step: zipAssets",
+                       "2017-12-02 at 20:46:55 Zip file is only 99933 bytes which is small?\n",
+                       "2017-12-02 at 20:46:55 Step: compileApp",
+                       "2017-12-02 at 20:47:00 Step: copyLinksToGitHub",
+                       "2017-12-02 at 20:47:04 Step: copyFilesIntoPositionOnWebServer",
                      ],
     parsedCmds    => [
                        'fix',
@@ -130,13 +130,13 @@ do {
                            name => 0,
                            say => 0,
                            title => "noll",
-                           titleFile => "noll",
+                           titlefile => "noll",
                            wiki => "https://en.wikipedia.org/wiki/0_(number)",
                          }, "ParsedKeys"),
                          say => 0,
                          start => 14,
                          title => "noll",
-                         titleFile => "noll",
+                         titlefile => "noll",
                        }, "ParsedCmd"),
                        bless({
                          cmd => "photo",
@@ -150,13 +150,13 @@ do {
                            name => 1,
                            say => 1,
                            title => "en",
-                           titleFile => "en",
+                           titlefile => "en",
                            wiki => "https://en.wikipedia.org/wiki/1_(number)",
                          }, "ParsedKeys"),
                          say => 1,
                          start => 19,
                          title => "en",
-                         titleFile => "en",
+                         titlefile => "en",
                        }, "ParsedCmd"),
                        bless({
                          cmd => "photo",
@@ -170,13 +170,13 @@ do {
                            name => 2,
                            say => 2,
                            title => "tv\xE5",
-                           titleFile => "tv\xE5",
+                           titlefile => "tv\xE5",
                            wiki => "https://en.wikipedia.org/wiki/2_(number)",
                          }, "ParsedKeys"),
                          say => 2,
                          start => 24,
                          title => "tv\xE5",
-                         titleFile => "tv\xE5",
+                         titlefile => "tv\xE5",
                        }, "ParsedCmd"),
                        bless({
                          cmd => "photo",
@@ -190,13 +190,13 @@ do {
                            name => 3,
                            say => 3,
                            title => "tre",
-                           titleFile => "tre",
+                           titlefile => "tre",
                            wiki => "https://en.wikipedia.org/wiki/3_(number)",
                          }, "ParsedKeys"),
                          say => 3,
                          start => 29,
                          title => "tre",
-                         titleFile => "tre",
+                         titlefile => "tre",
                        }, "ParsedCmd"),
                        bless({
                          cmd => "photo",
@@ -210,13 +210,13 @@ do {
                            name => 4,
                            say => 4,
                            title => "fyra",
-                           titleFile => "fyra",
+                           titlefile => "fyra",
                            wiki => "https://en.wikipedia.org/wiki/4_(number)",
                          }, "ParsedKeys"),
                          say => 4,
                          start => 34,
                          title => "fyra",
-                         titleFile => "fyra",
+                         titlefile => "fyra",
                        }, "ParsedCmd"),
                        bless({
                          cmd => "photo",
@@ -230,13 +230,13 @@ do {
                            name => 5,
                            say => 5,
                            title => "fem",
-                           titleFile => "fem",
+                           titlefile => "fem",
                            wiki => "https://en.wikipedia.org/wiki/5_(number)",
                          }, "ParsedKeys"),
                          say => 5,
                          start => 39,
                          title => "fem",
-                         titleFile => "fem",
+                         titlefile => "fem",
                        }, "ParsedCmd"),
                        bless({
                          cmd => "photo",
@@ -250,13 +250,13 @@ do {
                            name => 6,
                            say => 6,
                            title => "sex",
-                           titleFile => "sex",
+                           titlefile => "sex",
                            wiki => "https://en.wikipedia.org/wiki/6_(number)",
                          }, "ParsedKeys"),
                          say => 6,
                          start => 44,
                          title => "sex",
-                         titleFile => "sex",
+                         titlefile => "sex",
                        }, "ParsedCmd"),
                        bless({
                          cmd => "photo",
@@ -270,13 +270,13 @@ do {
                            name => 7,
                            say => 7,
                            title => "sju",
-                           titleFile => "sju",
+                           titlefile => "sju",
                            wiki => "https://en.wikipedia.org/wiki/7_(number)",
                          }, "ParsedKeys"),
                          say => 7,
                          start => 49,
                          title => "sju",
-                         titleFile => "sju",
+                         titlefile => "sju",
                        }, "ParsedCmd"),
                        bless({
                          cmd => "photo",
@@ -290,13 +290,13 @@ do {
                            name => 8,
                            say => 8,
                            title => "\xE5tta",
-                           titleFile => "\xE5tta",
+                           titlefile => "\xE5tta",
                            wiki => "https://en.wikipedia.org/wiki/8_(number)",
                          }, "ParsedKeys"),
                          say => 8,
                          start => 54,
                          title => "\xE5tta",
-                         titleFile => "\xE5tta",
+                         titlefile => "\xE5tta",
                        }, "ParsedCmd"),
                        bless({
                          cmd => "photo",
@@ -310,13 +310,13 @@ do {
                            name => 9,
                            say => 9,
                            title => "nio",
-                           titleFile => "nio",
+                           titlefile => "nio",
                            wiki => "https://en.wikipedia.org/wiki/9_(number)",
                          }, "ParsedKeys"),
                          say => 9,
                          start => 59,
                          title => "nio",
-                         titleFile => "nio",
+                         titlefile => "nio",
                        }, "ParsedCmd"),
                      ],
     project       => "philiprbrenan/100/sv/9",
