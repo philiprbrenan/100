@@ -1,310 +1,310 @@
 Failed.
 
-2017-12-02 at 23:35:29 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/en/100
+2017-12-02 at 23:58:31 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/en/100
 
-2017-12-02 at 23:35:31 Step: parseSource
-2017-12-02 at 23:35:31 Expected one of these commands: <b>app fact photo</b>, at the start of line <b>11</b> followed by <b>keyword=value</b>, but found:
-  full name on google play = com.appaapps.photoapp.en100                    Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 17.
+2017-12-02 at 23:58:32 Step: parseSource
+2017-12-02 at 23:58:32 Expected one of these commands: <b>app fact photo</b>, at the start of line <b>9</b> followed by <b>keyword=value</b>, but found:
+  full name on google play = com.appaapps.photoapp.en100                  Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 15.
   level     = 1
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 23.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 21.
   level     = 1
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 29.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 27.
   level     = 1
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 35.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 33.
   level     = 1
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 41.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 39.
   level     = 1
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 47.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 45.
   level     = 1
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 53.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 51.
   level     = 1
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 59.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 57.
   level     = 1
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 65.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 63.
   level     = 1
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 71.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 69.
   level     = 1
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 77.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 75.
   level     = 2
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 83.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 81.
   level     = 2
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 89.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 87.
   level     = 2
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 95.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 93.
   level     = 2
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 101.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 99.
   level     = 2
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 107.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 105.
   level     = 2
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 113.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 111.
   level     = 2
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 119.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 117.
   level     = 2
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 125.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 123.
   level     = 2
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 131.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 129.
   level     = 2
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 137.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 135.
   level     = 3
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 143.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 141.
   level     = 5
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 149.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 147.
   level     = 4
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 155.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 153.
   level     = 5
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 161.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 159.
   level     = 5
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 167.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 165.
   level     = 5
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 173.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 171.
   level     = 5
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 179.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 177.
   level     = 5
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 185.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 183.
   level     = 5
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 191.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 189.
   level     = 5
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 197.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 195.
   level     = 3
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 203.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 201.
   level     = 6
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 209.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 207.
   level     = 6
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 215.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 213.
   level     = 4
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 221.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 219.
   level     = 6
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 227.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 225.
   level     = 6
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 233.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 231.
   level     = 6
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 239.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 237.
   level     = 6
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 245.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 243.
   level     = 6
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 251.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 249.
   level     = 6
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 257.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 255.
   level     = 3
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 263.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 261.
   level     = 7
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 269.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 267.
   level     = 7
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 275.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 273.
   level     = 7
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 281.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 279.
   level     = 4
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 287.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 285.
   level     = 7
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 293.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 291.
   level     = 7
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 299.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 297.
   level     = 7
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 305.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 303.
   level     = 7
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 311.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 309.
   level     = 7
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 317.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 315.
   level     = 3
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 323.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 321.
   level     = 8
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 329.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 327.
   level     = 8
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 335.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 333.
   level     = 8
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 341.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 339.
   level     = 8
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 347.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 345.
   level     = 4
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 353.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 351.
   level     = 8
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 359.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 357.
   level     = 8
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 365.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 363.
   level     = 8
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 371.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 369.
   level     = 8
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 377.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 375.
   level     = 3
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 383.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 381.
   level     = 9
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 389.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 387.
   level     = 9
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 395.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 393.
   level     = 9
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 401.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 399.
   level     = 9
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 407.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 405.
   level     = 9
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 413.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 411.
   level     = 4
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 419.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 417.
   level     = 9
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 425.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 423.
   level     = 9
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 431.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 429.
   level     = 9
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 437.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 435.
   level     = 3
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 443.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 441.
   level     = 9
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 449.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 447.
   level     = 9
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 455.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 453.
   level     = 9
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 461.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 459.
   level     = 9
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 467.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 465.
   level     = 9
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 473.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 471.
   level     = 9
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 479.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 477.
   level     = 4
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 485.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 483.
   level     = 9
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 491.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 489.
   level     = 9
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 497.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 495.
   level     = 3
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 503.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 501.
   level     = 10
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 509.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 507.
   level     = 10
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 515.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 513.
   level     = 10
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 521.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 519.
   level     = 10
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 527.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 525.
   level     = 10
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 533.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 531.
   level     = 10
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 539.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 537.
   level     = 10
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 545.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 543.
   level     = 4
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 551.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 549.
   level     = 10
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 557.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 555.
   level     = 3
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 563.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 561.
   level     = 10
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 569.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 567.
   level     = 10
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 575.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 573.
   level     = 10
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 581.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 579.
   level     = 10
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 587.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 585.
   level     = 10
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 593.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 591.
   level     = 10
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 599.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 597.
   level     = 10
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 605.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 603.
   level     = 10
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 611.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 609.
   level     = 4
 Choose one of: <b>afewchars maps name say title url wiki</b>
-Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 617.
+Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 615.
   level     = 3
 Choose one of: <b>afewchars maps name say title url wiki</b>
 
@@ -328,22 +328,22 @@ do {
                       ordered     => "finally",
                       rightInARow => 6,
                       title       => "The Numbers from 0 to 100 in English",
-                      version     => "2017-12-02 at 23:35:31",
+                      version     => "2017-12-02 at 23:58:32",
                     }, "ParsedKeys"),
       start      => 1,
       title      => "The Numbers from 0 to 100 in English",
     }, "ParsedCmd"),
     error => 102,
     log => [
-      "\n2017-12-02 at 23:35:29 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/en/100\n",
-      "2017-12-02 at 23:35:31 Step: parseSource",
-      "2017-12-02 at 23:35:31 Expected one of these commands: <b>app fact photo</b>, at the start of line <b>11</b> followed by <b>keyword=value</b>, but found:\n  full name on google play = com.appaapps.photoapp.en100                    Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 17.\n  level     = 1\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 23.\n  level     = 1\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 29.\n  level     = 1\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 35.\n  level     = 1\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 41.\n  level     = 1\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 47.\n  level     = 1\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 53.\n  level     = 1\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 59.\n  level     = 1\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 65.\n  level     = 1\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 71.\n  level     = 1\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 77.\n  level     = 2\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 83.\n  level     = 2\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 89.\n  level     = 2\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 95.\n  level     = 2\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 101.\n  level     = 2\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 107.\n  level     = 2\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 113.\n  level     = 2\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 119.\n  level     = 2\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 125.\n  level     = 2\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 131.\n  level     = 2\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 137.\n  level     = 3\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 143.\n  level     = 5\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 149.\n  level     = 4\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 155.\n  level     = 5\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 161.\n  level     = 5\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 167.\n  level     = 5\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 173.\n  level     = 5\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 179.\n  level     = 5\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 185.\n  level     = 5\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 191.\n  level     = 5\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 197.\n  level     = 3\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 203.\n  level     = 6\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 209.\n  level     = 6\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 215.\n  level     = 4\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 221.\n  level     = 6\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 227.\n  level     = 6\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 233.\n  level     = 6\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 239.\n  level     = 6\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 245.\n  level     = 6\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 251.\n  level     = 6\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 257.\n  level     = 3\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 263.\n  level     = 7\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 269.\n  level     = 7\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 275.\n  level     = 7\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 281.\n  level     = 4\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 287.\n  level     = 7\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 293.\n  level     = 7\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 299.\n  level     = 7\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 305.\n  level     = 7\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 311.\n  level     = 7\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 317.\n  level     = 3\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 323.\n  level     = 8\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 329.\n  level     = 8\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 335.\n  level     = 8\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 341.\n  level     = 8\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 347.\n  level     = 4\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 353.\n  level     = 8\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 359.\n  level     = 8\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 365.\n  level     = 8\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 371.\n  level     = 8\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 377.\n  level     = 3\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 383.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 389.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 395.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 401.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 407.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 413.\n  level     = 4\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 419.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 425.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 431.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 437.\n  level     = 3\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 443.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 449.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 455.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 461.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 467.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 473.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 479.\n  level     = 4\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 485.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 491.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 497.\n  level     = 3\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 503.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 509.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 515.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 521.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 527.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 533.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 539.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 545.\n  level     = 4\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 551.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 557.\n  level     = 3\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 563.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 569.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 575.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 581.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 587.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 593.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 599.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 605.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 611.\n  level     = 4\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 617.\n  level     = 3\nChoose one of: <b>afewchars maps name say title url wiki</b>\n",
+      "\n2017-12-02 at 23:58:31 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/en/100\n",
+      "2017-12-02 at 23:58:32 Step: parseSource",
+      "2017-12-02 at 23:58:32 Expected one of these commands: <b>app fact photo</b>, at the start of line <b>9</b> followed by <b>keyword=value</b>, but found:\n  full name on google play = com.appaapps.photoapp.en100                  Ignored invalid keyword <b>level</b> for command <b>photo</b> on line 15.\n  level     = 1\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 21.\n  level     = 1\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 27.\n  level     = 1\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 33.\n  level     = 1\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 39.\n  level     = 1\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 45.\n  level     = 1\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 51.\n  level     = 1\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 57.\n  level     = 1\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 63.\n  level     = 1\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 69.\n  level     = 1\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 75.\n  level     = 2\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 81.\n  level     = 2\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 87.\n  level     = 2\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 93.\n  level     = 2\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 99.\n  level     = 2\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 105.\n  level     = 2\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 111.\n  level     = 2\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 117.\n  level     = 2\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 123.\n  level     = 2\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 129.\n  level     = 2\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 135.\n  level     = 3\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 141.\n  level     = 5\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 147.\n  level     = 4\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 153.\n  level     = 5\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 159.\n  level     = 5\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 165.\n  level     = 5\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 171.\n  level     = 5\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 177.\n  level     = 5\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 183.\n  level     = 5\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 189.\n  level     = 5\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 195.\n  level     = 3\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 201.\n  level     = 6\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 207.\n  level     = 6\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 213.\n  level     = 4\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 219.\n  level     = 6\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 225.\n  level     = 6\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 231.\n  level     = 6\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 237.\n  level     = 6\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 243.\n  level     = 6\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 249.\n  level     = 6\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 255.\n  level     = 3\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 261.\n  level     = 7\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 267.\n  level     = 7\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 273.\n  level     = 7\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 279.\n  level     = 4\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 285.\n  level     = 7\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 291.\n  level     = 7\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 297.\n  level     = 7\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 303.\n  level     = 7\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 309.\n  level     = 7\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 315.\n  level     = 3\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 321.\n  level     = 8\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 327.\n  level     = 8\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 333.\n  level     = 8\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 339.\n  level     = 8\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 345.\n  level     = 4\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 351.\n  level     = 8\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 357.\n  level     = 8\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 363.\n  level     = 8\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 369.\n  level     = 8\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 375.\n  level     = 3\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 381.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 387.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 393.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 399.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 405.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 411.\n  level     = 4\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 417.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 423.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 429.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 435.\n  level     = 3\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 441.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 447.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 453.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 459.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 465.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 471.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 477.\n  level     = 4\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 483.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 489.\n  level     = 9\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 495.\n  level     = 3\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 501.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 507.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 513.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 519.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 525.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 531.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 537.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 543.\n  level     = 4\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 549.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 555.\n  level     = 3\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 561.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 567.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 573.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 579.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 585.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 591.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 597.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 603.\n  level     = 10\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 609.\n  level     = 4\nChoose one of: <b>afewchars maps name say title url wiki</b>\nIgnored invalid keyword <b>level</b> for command <b>photo</b> on line 615.\n  level     = 3\nChoose one of: <b>afewchars maps name say title url wiki</b>\n",
     ],
     parsedCmds => [
       'fix',
       bless({
         cmd        => "photo",
-        end        => 19,
+        end        => 17,
         index      => 0,
         name       => 0,
         parsedKeys => bless({
@@ -354,12 +354,12 @@ do {
                         title => "zero",
                         wiki => "https://en.wikipedia.org/wiki/0_(number)",
                       }, "ParsedKeys"),
-        start      => 15,
+        start      => 13,
         title      => "zero",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 25,
+        end        => 23,
         index      => 1,
         name       => 1,
         parsedKeys => bless({
@@ -370,12 +370,12 @@ do {
                         title => "one",
                         wiki => "https://en.wikipedia.org/wiki/1_(number)",
                       }, "ParsedKeys"),
-        start      => 21,
+        start      => 19,
         title      => "one",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 31,
+        end        => 29,
         index      => 2,
         name       => 2,
         parsedKeys => bless({
@@ -386,12 +386,12 @@ do {
                         title => "two",
                         wiki => "https://en.wikipedia.org/wiki/2_(number)",
                       }, "ParsedKeys"),
-        start      => 27,
+        start      => 25,
         title      => "two",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 37,
+        end        => 35,
         index      => 3,
         name       => 3,
         parsedKeys => bless({
@@ -402,12 +402,12 @@ do {
                         title => "three",
                         wiki => "https://en.wikipedia.org/wiki/3_(number)",
                       }, "ParsedKeys"),
-        start      => 33,
+        start      => 31,
         title      => "three",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 43,
+        end        => 41,
         index      => 4,
         name       => 4,
         parsedKeys => bless({
@@ -418,12 +418,12 @@ do {
                         title => "four",
                         wiki => "https://en.wikipedia.org/wiki/4_(number)",
                       }, "ParsedKeys"),
-        start      => 39,
+        start      => 37,
         title      => "four",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 49,
+        end        => 47,
         index      => 5,
         name       => 5,
         parsedKeys => bless({
@@ -434,12 +434,12 @@ do {
                         title => "five",
                         wiki => "https://en.wikipedia.org/wiki/5_(number)",
                       }, "ParsedKeys"),
-        start      => 45,
+        start      => 43,
         title      => "five",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 55,
+        end        => 53,
         index      => 6,
         name       => 6,
         parsedKeys => bless({
@@ -450,12 +450,12 @@ do {
                         title => "six",
                         wiki => "https://en.wikipedia.org/wiki/6_(number)",
                       }, "ParsedKeys"),
-        start      => 51,
+        start      => 49,
         title      => "six",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 61,
+        end        => 59,
         index      => 7,
         name       => 7,
         parsedKeys => bless({
@@ -466,12 +466,12 @@ do {
                         title => "seven",
                         wiki => "https://en.wikipedia.org/wiki/7_(number)",
                       }, "ParsedKeys"),
-        start      => 57,
+        start      => 55,
         title      => "seven",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 67,
+        end        => 65,
         index      => 8,
         name       => 8,
         parsedKeys => bless({
@@ -482,12 +482,12 @@ do {
                         title => "eight",
                         wiki => "https://en.wikipedia.org/wiki/8_(number)",
                       }, "ParsedKeys"),
-        start      => 63,
+        start      => 61,
         title      => "eight",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 73,
+        end        => 71,
         index      => 9,
         name       => 9,
         parsedKeys => bless({
@@ -498,12 +498,12 @@ do {
                         title => "nine",
                         wiki => "https://en.wikipedia.org/wiki/9_(number)",
                       }, "ParsedKeys"),
-        start      => 69,
+        start      => 67,
         title      => "nine",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 79,
+        end        => 77,
         index      => 10,
         name       => 10,
         parsedKeys => bless({
@@ -514,12 +514,12 @@ do {
                         title => "ten",
                         wiki => "https://en.wikipedia.org/wiki/10_(number)",
                       }, "ParsedKeys"),
-        start      => 75,
+        start      => 73,
         title      => "ten",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 85,
+        end        => 83,
         index      => 11,
         name       => 11,
         parsedKeys => bless({
@@ -530,12 +530,12 @@ do {
                         title => "eleven",
                         wiki => "https://en.wikipedia.org/wiki/11_(number)",
                       }, "ParsedKeys"),
-        start      => 81,
+        start      => 79,
         title      => "eleven",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 91,
+        end        => 89,
         index      => 12,
         name       => 12,
         parsedKeys => bless({
@@ -546,12 +546,12 @@ do {
                         title => "twelve",
                         wiki => "https://en.wikipedia.org/wiki/12_(number)",
                       }, "ParsedKeys"),
-        start      => 87,
+        start      => 85,
         title      => "twelve",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 97,
+        end        => 95,
         index      => 13,
         name       => 13,
         parsedKeys => bless({
@@ -562,12 +562,12 @@ do {
                         title => "thirteen",
                         wiki => "https://en.wikipedia.org/wiki/13_(number)",
                       }, "ParsedKeys"),
-        start      => 93,
+        start      => 91,
         title      => "thirteen",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 103,
+        end        => 101,
         index      => 14,
         name       => 14,
         parsedKeys => bless({
@@ -578,12 +578,12 @@ do {
                         title => "fourteen",
                         wiki => "https://en.wikipedia.org/wiki/14_(number)",
                       }, "ParsedKeys"),
-        start      => 99,
+        start      => 97,
         title      => "fourteen",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 109,
+        end        => 107,
         index      => 15,
         name       => 15,
         parsedKeys => bless({
@@ -594,12 +594,12 @@ do {
                         title => "fifteen",
                         wiki => "https://en.wikipedia.org/wiki/15_(number)",
                       }, "ParsedKeys"),
-        start      => 105,
+        start      => 103,
         title      => "fifteen",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 115,
+        end        => 113,
         index      => 16,
         name       => 16,
         parsedKeys => bless({
@@ -610,12 +610,12 @@ do {
                         title => "sixteen",
                         wiki => "https://en.wikipedia.org/wiki/16_(number)",
                       }, "ParsedKeys"),
-        start      => 111,
+        start      => 109,
         title      => "sixteen",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 121,
+        end        => 119,
         index      => 17,
         name       => 17,
         parsedKeys => bless({
@@ -626,12 +626,12 @@ do {
                         title => "seventeen",
                         wiki => "https://en.wikipedia.org/wiki/17_(number)",
                       }, "ParsedKeys"),
-        start      => 117,
+        start      => 115,
         title      => "seventeen",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 127,
+        end        => 125,
         index      => 18,
         name       => 18,
         parsedKeys => bless({
@@ -642,12 +642,12 @@ do {
                         title => "eighteen",
                         wiki => "https://en.wikipedia.org/wiki/18_(number)",
                       }, "ParsedKeys"),
-        start      => 123,
+        start      => 121,
         title      => "eighteen",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 133,
+        end        => 131,
         index      => 19,
         name       => 19,
         parsedKeys => bless({
@@ -658,12 +658,12 @@ do {
                         title => "nineteen",
                         wiki => "https://en.wikipedia.org/wiki/19_(number)",
                       }, "ParsedKeys"),
-        start      => 129,
+        start      => 127,
         title      => "nineteen",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 139,
+        end        => 137,
         index      => 20,
         name       => 20,
         parsedKeys => bless({
@@ -674,12 +674,12 @@ do {
                         title => "twenty",
                         wiki => "https://en.wikipedia.org/wiki/20_(number)",
                       }, "ParsedKeys"),
-        start      => 135,
+        start      => 133,
         title      => "twenty",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 145,
+        end        => 143,
         index      => 21,
         name       => 21,
         parsedKeys => bless({
@@ -690,12 +690,12 @@ do {
                         title => "twenty-one",
                         wiki => "https://en.wikipedia.org/wiki/21_(number)",
                       }, "ParsedKeys"),
-        start      => 141,
+        start      => 139,
         title      => "twenty-one",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 151,
+        end        => 149,
         index      => 22,
         name       => 22,
         parsedKeys => bless({
@@ -706,12 +706,12 @@ do {
                         title => "twenty-two",
                         wiki => "https://en.wikipedia.org/wiki/22_(number)",
                       }, "ParsedKeys"),
-        start      => 147,
+        start      => 145,
         title      => "twenty-two",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 157,
+        end        => 155,
         index      => 23,
         name       => 23,
         parsedKeys => bless({
@@ -722,12 +722,12 @@ do {
                         title => "twenty-three",
                         wiki => "https://en.wikipedia.org/wiki/23_(number)",
                       }, "ParsedKeys"),
-        start      => 153,
+        start      => 151,
         title      => "twenty-three",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 163,
+        end        => 161,
         index      => 24,
         name       => 24,
         parsedKeys => bless({
@@ -738,12 +738,12 @@ do {
                         title => "twenty-four",
                         wiki => "https://en.wikipedia.org/wiki/24_(number)",
                       }, "ParsedKeys"),
-        start      => 159,
+        start      => 157,
         title      => "twenty-four",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 169,
+        end        => 167,
         index      => 25,
         name       => 25,
         parsedKeys => bless({
@@ -754,12 +754,12 @@ do {
                         title => "twenty-five",
                         wiki => "https://en.wikipedia.org/wiki/25_(number)",
                       }, "ParsedKeys"),
-        start      => 165,
+        start      => 163,
         title      => "twenty-five",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 175,
+        end        => 173,
         index      => 26,
         name       => 26,
         parsedKeys => bless({
@@ -770,12 +770,12 @@ do {
                         title => "twenty-six",
                         wiki => "https://en.wikipedia.org/wiki/26_(number)",
                       }, "ParsedKeys"),
-        start      => 171,
+        start      => 169,
         title      => "twenty-six",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 181,
+        end        => 179,
         index      => 27,
         name       => 27,
         parsedKeys => bless({
@@ -786,12 +786,12 @@ do {
                         title => "twenty-seven",
                         wiki => "https://en.wikipedia.org/wiki/27_(number)",
                       }, "ParsedKeys"),
-        start      => 177,
+        start      => 175,
         title      => "twenty-seven",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 187,
+        end        => 185,
         index      => 28,
         name       => 28,
         parsedKeys => bless({
@@ -802,12 +802,12 @@ do {
                         title => "twenty-eight",
                         wiki => "https://en.wikipedia.org/wiki/28_(number)",
                       }, "ParsedKeys"),
-        start      => 183,
+        start      => 181,
         title      => "twenty-eight",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 193,
+        end        => 191,
         index      => 29,
         name       => 29,
         parsedKeys => bless({
@@ -818,12 +818,12 @@ do {
                         title => "twenty-nine",
                         wiki => "https://en.wikipedia.org/wiki/29_(number)",
                       }, "ParsedKeys"),
-        start      => 189,
+        start      => 187,
         title      => "twenty-nine",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 199,
+        end        => 197,
         index      => 30,
         name       => 30,
         parsedKeys => bless({
@@ -834,12 +834,12 @@ do {
                         title => "thirty",
                         wiki => "https://en.wikipedia.org/wiki/30_(number)",
                       }, "ParsedKeys"),
-        start      => 195,
+        start      => 193,
         title      => "thirty",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 205,
+        end        => 203,
         index      => 31,
         name       => 31,
         parsedKeys => bless({
@@ -850,12 +850,12 @@ do {
                         title => "thirty-one",
                         wiki => "https://en.wikipedia.org/wiki/31_(number)",
                       }, "ParsedKeys"),
-        start      => 201,
+        start      => 199,
         title      => "thirty-one",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 211,
+        end        => 209,
         index      => 32,
         name       => 32,
         parsedKeys => bless({
@@ -866,12 +866,12 @@ do {
                         title => "thirty-two",
                         wiki => "https://en.wikipedia.org/wiki/32_(number)",
                       }, "ParsedKeys"),
-        start      => 207,
+        start      => 205,
         title      => "thirty-two",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 217,
+        end        => 215,
         index      => 33,
         name       => 33,
         parsedKeys => bless({
@@ -882,12 +882,12 @@ do {
                         title => "thirty-three",
                         wiki => "https://en.wikipedia.org/wiki/33_(number)",
                       }, "ParsedKeys"),
-        start      => 213,
+        start      => 211,
         title      => "thirty-three",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 223,
+        end        => 221,
         index      => 34,
         name       => 34,
         parsedKeys => bless({
@@ -898,12 +898,12 @@ do {
                         title => "thirty-four",
                         wiki => "https://en.wikipedia.org/wiki/34_(number)",
                       }, "ParsedKeys"),
-        start      => 219,
+        start      => 217,
         title      => "thirty-four",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 229,
+        end        => 227,
         index      => 35,
         name       => 35,
         parsedKeys => bless({
@@ -914,12 +914,12 @@ do {
                         title => "thirty-five",
                         wiki => "https://en.wikipedia.org/wiki/35_(number)",
                       }, "ParsedKeys"),
-        start      => 225,
+        start      => 223,
         title      => "thirty-five",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 235,
+        end        => 233,
         index      => 36,
         name       => 36,
         parsedKeys => bless({
@@ -930,12 +930,12 @@ do {
                         title => "thirty-six",
                         wiki => "https://en.wikipedia.org/wiki/36_(number)",
                       }, "ParsedKeys"),
-        start      => 231,
+        start      => 229,
         title      => "thirty-six",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 241,
+        end        => 239,
         index      => 37,
         name       => 37,
         parsedKeys => bless({
@@ -946,12 +946,12 @@ do {
                         title => "thirty-seven",
                         wiki => "https://en.wikipedia.org/wiki/37_(number)",
                       }, "ParsedKeys"),
-        start      => 237,
+        start      => 235,
         title      => "thirty-seven",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 247,
+        end        => 245,
         index      => 38,
         name       => 38,
         parsedKeys => bless({
@@ -962,12 +962,12 @@ do {
                         title => "thirty-eight",
                         wiki => "https://en.wikipedia.org/wiki/38_(number)",
                       }, "ParsedKeys"),
-        start      => 243,
+        start      => 241,
         title      => "thirty-eight",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 253,
+        end        => 251,
         index      => 39,
         name       => 39,
         parsedKeys => bless({
@@ -978,12 +978,12 @@ do {
                         title => "thirty-nine",
                         wiki => "https://en.wikipedia.org/wiki/39_(number)",
                       }, "ParsedKeys"),
-        start      => 249,
+        start      => 247,
         title      => "thirty-nine",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 259,
+        end        => 257,
         index      => 40,
         name       => 40,
         parsedKeys => bless({
@@ -994,12 +994,12 @@ do {
                         title => "forty",
                         wiki => "https://en.wikipedia.org/wiki/40_(number)",
                       }, "ParsedKeys"),
-        start      => 255,
+        start      => 253,
         title      => "forty",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 265,
+        end        => 263,
         index      => 41,
         name       => 41,
         parsedKeys => bless({
@@ -1010,12 +1010,12 @@ do {
                         title => "forty-one",
                         wiki => "https://en.wikipedia.org/wiki/41_(number)",
                       }, "ParsedKeys"),
-        start      => 261,
+        start      => 259,
         title      => "forty-one",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 271,
+        end        => 269,
         index      => 42,
         name       => 42,
         parsedKeys => bless({
@@ -1026,12 +1026,12 @@ do {
                         title => "forty-two",
                         wiki => "https://en.wikipedia.org/wiki/42_(number)",
                       }, "ParsedKeys"),
-        start      => 267,
+        start      => 265,
         title      => "forty-two",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 277,
+        end        => 275,
         index      => 43,
         name       => 43,
         parsedKeys => bless({
@@ -1042,12 +1042,12 @@ do {
                         title => "forty-three",
                         wiki => "https://en.wikipedia.org/wiki/43_(number)",
                       }, "ParsedKeys"),
-        start      => 273,
+        start      => 271,
         title      => "forty-three",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 283,
+        end        => 281,
         index      => 44,
         name       => 44,
         parsedKeys => bless({
@@ -1058,12 +1058,12 @@ do {
                         title => "forty-four",
                         wiki => "https://en.wikipedia.org/wiki/44_(number)",
                       }, "ParsedKeys"),
-        start      => 279,
+        start      => 277,
         title      => "forty-four",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 289,
+        end        => 287,
         index      => 45,
         name       => 45,
         parsedKeys => bless({
@@ -1074,12 +1074,12 @@ do {
                         title => "forty-five",
                         wiki => "https://en.wikipedia.org/wiki/45_(number)",
                       }, "ParsedKeys"),
-        start      => 285,
+        start      => 283,
         title      => "forty-five",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 295,
+        end        => 293,
         index      => 46,
         name       => 46,
         parsedKeys => bless({
@@ -1090,12 +1090,12 @@ do {
                         title => "forty-six",
                         wiki => "https://en.wikipedia.org/wiki/46_(number)",
                       }, "ParsedKeys"),
-        start      => 291,
+        start      => 289,
         title      => "forty-six",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 301,
+        end        => 299,
         index      => 47,
         name       => 47,
         parsedKeys => bless({
@@ -1106,12 +1106,12 @@ do {
                         title => "forty-seven",
                         wiki => "https://en.wikipedia.org/wiki/47_(number)",
                       }, "ParsedKeys"),
-        start      => 297,
+        start      => 295,
         title      => "forty-seven",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 307,
+        end        => 305,
         index      => 48,
         name       => 48,
         parsedKeys => bless({
@@ -1122,12 +1122,12 @@ do {
                         title => "forty-eight",
                         wiki => "https://en.wikipedia.org/wiki/48_(number)",
                       }, "ParsedKeys"),
-        start      => 303,
+        start      => 301,
         title      => "forty-eight",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 313,
+        end        => 311,
         index      => 49,
         name       => 49,
         parsedKeys => bless({
@@ -1138,12 +1138,12 @@ do {
                         title => "forty-nine",
                         wiki => "https://en.wikipedia.org/wiki/49_(number)",
                       }, "ParsedKeys"),
-        start      => 309,
+        start      => 307,
         title      => "forty-nine",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 319,
+        end        => 317,
         index      => 50,
         name       => 50,
         parsedKeys => bless({
@@ -1154,12 +1154,12 @@ do {
                         title => "fifty",
                         wiki => "https://en.wikipedia.org/wiki/50_(number)",
                       }, "ParsedKeys"),
-        start      => 315,
+        start      => 313,
         title      => "fifty",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 325,
+        end        => 323,
         index      => 51,
         name       => 51,
         parsedKeys => bless({
@@ -1170,12 +1170,12 @@ do {
                         title => "fifty-one",
                         wiki => "https://en.wikipedia.org/wiki/51_(number)",
                       }, "ParsedKeys"),
-        start      => 321,
+        start      => 319,
         title      => "fifty-one",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 331,
+        end        => 329,
         index      => 52,
         name       => 52,
         parsedKeys => bless({
@@ -1186,12 +1186,12 @@ do {
                         title => "fifty-two",
                         wiki => "https://en.wikipedia.org/wiki/52_(number)",
                       }, "ParsedKeys"),
-        start      => 327,
+        start      => 325,
         title      => "fifty-two",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 337,
+        end        => 335,
         index      => 53,
         name       => 53,
         parsedKeys => bless({
@@ -1202,12 +1202,12 @@ do {
                         title => "fifty-three",
                         wiki => "https://en.wikipedia.org/wiki/53_(number)",
                       }, "ParsedKeys"),
-        start      => 333,
+        start      => 331,
         title      => "fifty-three",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 343,
+        end        => 341,
         index      => 54,
         name       => 54,
         parsedKeys => bless({
@@ -1218,12 +1218,12 @@ do {
                         title => "fifty-four",
                         wiki => "https://en.wikipedia.org/wiki/54_(number)",
                       }, "ParsedKeys"),
-        start      => 339,
+        start      => 337,
         title      => "fifty-four",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 349,
+        end        => 347,
         index      => 55,
         name       => 55,
         parsedKeys => bless({
@@ -1234,12 +1234,12 @@ do {
                         title => "fifty-five",
                         wiki => "https://en.wikipedia.org/wiki/55_(number)",
                       }, "ParsedKeys"),
-        start      => 345,
+        start      => 343,
         title      => "fifty-five",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 355,
+        end        => 353,
         index      => 56,
         name       => 56,
         parsedKeys => bless({
@@ -1250,12 +1250,12 @@ do {
                         title => "fifty-six",
                         wiki => "https://en.wikipedia.org/wiki/56_(number)",
                       }, "ParsedKeys"),
-        start      => 351,
+        start      => 349,
         title      => "fifty-six",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 361,
+        end        => 359,
         index      => 57,
         name       => 57,
         parsedKeys => bless({
@@ -1266,12 +1266,12 @@ do {
                         title => "fifty-seven",
                         wiki => "https://en.wikipedia.org/wiki/57_(number)",
                       }, "ParsedKeys"),
-        start      => 357,
+        start      => 355,
         title      => "fifty-seven",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 367,
+        end        => 365,
         index      => 58,
         name       => 58,
         parsedKeys => bless({
@@ -1282,12 +1282,12 @@ do {
                         title => "fifty-eight",
                         wiki => "https://en.wikipedia.org/wiki/58_(number)",
                       }, "ParsedKeys"),
-        start      => 363,
+        start      => 361,
         title      => "fifty-eight",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 373,
+        end        => 371,
         index      => 59,
         name       => 59,
         parsedKeys => bless({
@@ -1298,12 +1298,12 @@ do {
                         title => "fifty-nine",
                         wiki => "https://en.wikipedia.org/wiki/59_(number)",
                       }, "ParsedKeys"),
-        start      => 369,
+        start      => 367,
         title      => "fifty-nine",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 379,
+        end        => 377,
         index      => 60,
         name       => 60,
         parsedKeys => bless({
@@ -1314,12 +1314,12 @@ do {
                         title => "sixty",
                         wiki => "https://en.wikipedia.org/wiki/60_(number)",
                       }, "ParsedKeys"),
-        start      => 375,
+        start      => 373,
         title      => "sixty",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 385,
+        end        => 383,
         index      => 61,
         name       => 61,
         parsedKeys => bless({
@@ -1330,12 +1330,12 @@ do {
                         title => "sixty-one",
                         wiki => "https://en.wikipedia.org/wiki/61_(number)",
                       }, "ParsedKeys"),
-        start      => 381,
+        start      => 379,
         title      => "sixty-one",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 391,
+        end        => 389,
         index      => 62,
         name       => 62,
         parsedKeys => bless({
@@ -1346,12 +1346,12 @@ do {
                         title => "sixty-two",
                         wiki => "https://en.wikipedia.org/wiki/62_(number)",
                       }, "ParsedKeys"),
-        start      => 387,
+        start      => 385,
         title      => "sixty-two",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 397,
+        end        => 395,
         index      => 63,
         name       => 63,
         parsedKeys => bless({
@@ -1362,12 +1362,12 @@ do {
                         title => "sixty-three",
                         wiki => "https://en.wikipedia.org/wiki/63_(number)",
                       }, "ParsedKeys"),
-        start      => 393,
+        start      => 391,
         title      => "sixty-three",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 403,
+        end        => 401,
         index      => 64,
         name       => 64,
         parsedKeys => bless({
@@ -1378,12 +1378,12 @@ do {
                         title => "sixty-four",
                         wiki => "https://en.wikipedia.org/wiki/64_(number)",
                       }, "ParsedKeys"),
-        start      => 399,
+        start      => 397,
         title      => "sixty-four",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 409,
+        end        => 407,
         index      => 65,
         name       => 65,
         parsedKeys => bless({
@@ -1394,12 +1394,12 @@ do {
                         title => "sixty-five",
                         wiki => "https://en.wikipedia.org/wiki/65_(number)",
                       }, "ParsedKeys"),
-        start      => 405,
+        start      => 403,
         title      => "sixty-five",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 415,
+        end        => 413,
         index      => 66,
         name       => 66,
         parsedKeys => bless({
@@ -1410,12 +1410,12 @@ do {
                         title => "sixty-six",
                         wiki => "https://en.wikipedia.org/wiki/66_(number)",
                       }, "ParsedKeys"),
-        start      => 411,
+        start      => 409,
         title      => "sixty-six",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 421,
+        end        => 419,
         index      => 67,
         name       => 67,
         parsedKeys => bless({
@@ -1426,12 +1426,12 @@ do {
                         title => "sixty-seven",
                         wiki => "https://en.wikipedia.org/wiki/67_(number)",
                       }, "ParsedKeys"),
-        start      => 417,
+        start      => 415,
         title      => "sixty-seven",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 427,
+        end        => 425,
         index      => 68,
         name       => 68,
         parsedKeys => bless({
@@ -1442,12 +1442,12 @@ do {
                         title => "sixty-eight",
                         wiki => "https://en.wikipedia.org/wiki/68_(number)",
                       }, "ParsedKeys"),
-        start      => 423,
+        start      => 421,
         title      => "sixty-eight",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 433,
+        end        => 431,
         index      => 69,
         name       => 69,
         parsedKeys => bless({
@@ -1458,12 +1458,12 @@ do {
                         title => "sixty-nine",
                         wiki => "https://en.wikipedia.org/wiki/69_(number)",
                       }, "ParsedKeys"),
-        start      => 429,
+        start      => 427,
         title      => "sixty-nine",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 439,
+        end        => 437,
         index      => 70,
         name       => 70,
         parsedKeys => bless({
@@ -1474,12 +1474,12 @@ do {
                         title => "seventy",
                         wiki => "https://en.wikipedia.org/wiki/70_(number)",
                       }, "ParsedKeys"),
-        start      => 435,
+        start      => 433,
         title      => "seventy",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 445,
+        end        => 443,
         index      => 71,
         name       => 71,
         parsedKeys => bless({
@@ -1490,12 +1490,12 @@ do {
                         title => "seventy-one",
                         wiki => "https://en.wikipedia.org/wiki/71_(number)",
                       }, "ParsedKeys"),
-        start      => 441,
+        start      => 439,
         title      => "seventy-one",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 451,
+        end        => 449,
         index      => 72,
         name       => 72,
         parsedKeys => bless({
@@ -1506,12 +1506,12 @@ do {
                         title => "seventy-two",
                         wiki => "https://en.wikipedia.org/wiki/72_(number)",
                       }, "ParsedKeys"),
-        start      => 447,
+        start      => 445,
         title      => "seventy-two",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 457,
+        end        => 455,
         index      => 73,
         name       => 73,
         parsedKeys => bless({
@@ -1522,12 +1522,12 @@ do {
                         title => "seventy-three",
                         wiki => "https://en.wikipedia.org/wiki/73_(number)",
                       }, "ParsedKeys"),
-        start      => 453,
+        start      => 451,
         title      => "seventy-three",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 463,
+        end        => 461,
         index      => 74,
         name       => 74,
         parsedKeys => bless({
@@ -1538,12 +1538,12 @@ do {
                         title => "seventy-four",
                         wiki => "https://en.wikipedia.org/wiki/74_(number)",
                       }, "ParsedKeys"),
-        start      => 459,
+        start      => 457,
         title      => "seventy-four",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 469,
+        end        => 467,
         index      => 75,
         name       => 75,
         parsedKeys => bless({
@@ -1554,12 +1554,12 @@ do {
                         title => "seventy-five",
                         wiki => "https://en.wikipedia.org/wiki/75_(number)",
                       }, "ParsedKeys"),
-        start      => 465,
+        start      => 463,
         title      => "seventy-five",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 475,
+        end        => 473,
         index      => 76,
         name       => 76,
         parsedKeys => bless({
@@ -1570,12 +1570,12 @@ do {
                         title => "seventy-six",
                         wiki => "https://en.wikipedia.org/wiki/76_(number)",
                       }, "ParsedKeys"),
-        start      => 471,
+        start      => 469,
         title      => "seventy-six",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 481,
+        end        => 479,
         index      => 77,
         name       => 77,
         parsedKeys => bless({
@@ -1586,12 +1586,12 @@ do {
                         title => "seventy-seven",
                         wiki => "https://en.wikipedia.org/wiki/77_(number)",
                       }, "ParsedKeys"),
-        start      => 477,
+        start      => 475,
         title      => "seventy-seven",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 487,
+        end        => 485,
         index      => 78,
         name       => 78,
         parsedKeys => bless({
@@ -1602,12 +1602,12 @@ do {
                         title => "seventy-eight",
                         wiki => "https://en.wikipedia.org/wiki/78_(number)",
                       }, "ParsedKeys"),
-        start      => 483,
+        start      => 481,
         title      => "seventy-eight",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 493,
+        end        => 491,
         index      => 79,
         name       => 79,
         parsedKeys => bless({
@@ -1618,12 +1618,12 @@ do {
                         title => "seventy-nine",
                         wiki => "https://en.wikipedia.org/wiki/79_(number)",
                       }, "ParsedKeys"),
-        start      => 489,
+        start      => 487,
         title      => "seventy-nine",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 499,
+        end        => 497,
         index      => 80,
         name       => 80,
         parsedKeys => bless({
@@ -1634,12 +1634,12 @@ do {
                         title => "eighty",
                         wiki => "https://en.wikipedia.org/wiki/80_(number)",
                       }, "ParsedKeys"),
-        start      => 495,
+        start      => 493,
         title      => "eighty",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 505,
+        end        => 503,
         index      => 81,
         name       => 81,
         parsedKeys => bless({
@@ -1650,12 +1650,12 @@ do {
                         title => "eighty-one",
                         wiki => "https://en.wikipedia.org/wiki/81_(number)",
                       }, "ParsedKeys"),
-        start      => 501,
+        start      => 499,
         title      => "eighty-one",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 511,
+        end        => 509,
         index      => 82,
         name       => 82,
         parsedKeys => bless({
@@ -1666,12 +1666,12 @@ do {
                         title => "eighty-two",
                         wiki => "https://en.wikipedia.org/wiki/82_(number)",
                       }, "ParsedKeys"),
-        start      => 507,
+        start      => 505,
         title      => "eighty-two",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 517,
+        end        => 515,
         index      => 83,
         name       => 83,
         parsedKeys => bless({
@@ -1682,12 +1682,12 @@ do {
                         title => "eighty-three",
                         wiki => "https://en.wikipedia.org/wiki/83_(number)",
                       }, "ParsedKeys"),
-        start      => 513,
+        start      => 511,
         title      => "eighty-three",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 523,
+        end        => 521,
         index      => 84,
         name       => 84,
         parsedKeys => bless({
@@ -1698,12 +1698,12 @@ do {
                         title => "eighty-four",
                         wiki => "https://en.wikipedia.org/wiki/84_(number)",
                       }, "ParsedKeys"),
-        start      => 519,
+        start      => 517,
         title      => "eighty-four",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 529,
+        end        => 527,
         index      => 85,
         name       => 85,
         parsedKeys => bless({
@@ -1714,12 +1714,12 @@ do {
                         title => "eighty-five",
                         wiki => "https://en.wikipedia.org/wiki/85_(number)",
                       }, "ParsedKeys"),
-        start      => 525,
+        start      => 523,
         title      => "eighty-five",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 535,
+        end        => 533,
         index      => 86,
         name       => 86,
         parsedKeys => bless({
@@ -1730,12 +1730,12 @@ do {
                         title => "eighty-six",
                         wiki => "https://en.wikipedia.org/wiki/86_(number)",
                       }, "ParsedKeys"),
-        start      => 531,
+        start      => 529,
         title      => "eighty-six",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 541,
+        end        => 539,
         index      => 87,
         name       => 87,
         parsedKeys => bless({
@@ -1746,12 +1746,12 @@ do {
                         title => "eighty-seven",
                         wiki => "https://en.wikipedia.org/wiki/87_(number)",
                       }, "ParsedKeys"),
-        start      => 537,
+        start      => 535,
         title      => "eighty-seven",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 547,
+        end        => 545,
         index      => 88,
         name       => 88,
         parsedKeys => bless({
@@ -1762,12 +1762,12 @@ do {
                         title => "eighty-eight",
                         wiki => "https://en.wikipedia.org/wiki/88_(number)",
                       }, "ParsedKeys"),
-        start      => 543,
+        start      => 541,
         title      => "eighty-eight",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 553,
+        end        => 551,
         index      => 89,
         name       => 89,
         parsedKeys => bless({
@@ -1778,12 +1778,12 @@ do {
                         title => "eighty-nine",
                         wiki => "https://en.wikipedia.org/wiki/89_(number)",
                       }, "ParsedKeys"),
-        start      => 549,
+        start      => 547,
         title      => "eighty-nine",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 559,
+        end        => 557,
         index      => 90,
         name       => 90,
         parsedKeys => bless({
@@ -1794,12 +1794,12 @@ do {
                         title => "ninety",
                         wiki => "https://en.wikipedia.org/wiki/90_(number)",
                       }, "ParsedKeys"),
-        start      => 555,
+        start      => 553,
         title      => "ninety",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 565,
+        end        => 563,
         index      => 91,
         name       => 91,
         parsedKeys => bless({
@@ -1810,12 +1810,12 @@ do {
                         title => "ninety-one",
                         wiki => "https://en.wikipedia.org/wiki/91_(number)",
                       }, "ParsedKeys"),
-        start      => 561,
+        start      => 559,
         title      => "ninety-one",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 571,
+        end        => 569,
         index      => 92,
         name       => 92,
         parsedKeys => bless({
@@ -1826,12 +1826,12 @@ do {
                         title => "ninety-two",
                         wiki => "https://en.wikipedia.org/wiki/92_(number)",
                       }, "ParsedKeys"),
-        start      => 567,
+        start      => 565,
         title      => "ninety-two",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 577,
+        end        => 575,
         index      => 93,
         name       => 93,
         parsedKeys => bless({
@@ -1842,12 +1842,12 @@ do {
                         title => "ninety-three",
                         wiki => "https://en.wikipedia.org/wiki/93_(number)",
                       }, "ParsedKeys"),
-        start      => 573,
+        start      => 571,
         title      => "ninety-three",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 583,
+        end        => 581,
         index      => 94,
         name       => 94,
         parsedKeys => bless({
@@ -1858,12 +1858,12 @@ do {
                         title => "ninety-four",
                         wiki => "https://en.wikipedia.org/wiki/94_(number)",
                       }, "ParsedKeys"),
-        start      => 579,
+        start      => 577,
         title      => "ninety-four",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 589,
+        end        => 587,
         index      => 95,
         name       => 95,
         parsedKeys => bless({
@@ -1874,12 +1874,12 @@ do {
                         title => "ninety-five",
                         wiki => "https://en.wikipedia.org/wiki/95_(number)",
                       }, "ParsedKeys"),
-        start      => 585,
+        start      => 583,
         title      => "ninety-five",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 595,
+        end        => 593,
         index      => 96,
         name       => 96,
         parsedKeys => bless({
@@ -1890,12 +1890,12 @@ do {
                         title => "ninety-six",
                         wiki => "https://en.wikipedia.org/wiki/96_(number)",
                       }, "ParsedKeys"),
-        start      => 591,
+        start      => 589,
         title      => "ninety-six",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 601,
+        end        => 599,
         index      => 97,
         name       => 97,
         parsedKeys => bless({
@@ -1906,12 +1906,12 @@ do {
                         title => "ninety-seven",
                         wiki => "https://en.wikipedia.org/wiki/97_(number)",
                       }, "ParsedKeys"),
-        start      => 597,
+        start      => 595,
         title      => "ninety-seven",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 607,
+        end        => 605,
         index      => 98,
         name       => 98,
         parsedKeys => bless({
@@ -1922,12 +1922,12 @@ do {
                         title => "ninety-eight",
                         wiki => "https://en.wikipedia.org/wiki/98_(number)",
                       }, "ParsedKeys"),
-        start      => 603,
+        start      => 601,
         title      => "ninety-eight",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 613,
+        end        => 611,
         index      => 99,
         name       => 99,
         parsedKeys => bless({
@@ -1938,12 +1938,12 @@ do {
                         title => "ninety-nine",
                         wiki => "https://en.wikipedia.org/wiki/99_(number)",
                       }, "ParsedKeys"),
-        start      => 609,
+        start      => 607,
         title      => "ninety-nine",
       }, "ParsedCmd"),
       bless({
         cmd        => "photo",
-        end        => 619,
+        end        => 617,
         index      => 100,
         name       => 100,
         parsedKeys => bless({
@@ -1954,13 +1954,13 @@ do {
                         title => "one hundred",
                         wiki => "https://en.wikipedia.org/wiki/100_(number)",
                       }, "ParsedKeys"),
-        start      => 615,
+        start      => 613,
         title      => "one hundred",
       }, "ParsedCmd"),
     ],
     project => "philiprbrenan/100/en/100",
-    source => "  app 100.en.100 = The Numbers from 0 to 100 in English\n  description   = Learn to recognize and say the numbers from 0 to 100 in English\n  icon          = icon.png\n  ordered       = finally\n  maxImages     = 12\n  author        = philiprbrenan\n  email         = philiprbrenan\@gmail.com\n  language      = en\n#  prerequisites = philiprbrenan/100/en/9 philiprbrenan/100/en/10x10\n#  enables       = \n  full name on google play = com.appaapps.photoapp.en100                    # The original names of these apps when they were all inspearate repositories on Github instead of just one as they are now\n  version       = 2017-12-02 at 23:35:25\n\n\nphoto 0 = zero\n  afewchars = 0\n  level     = 1\n  say       = 0\n  wiki      = https://en.wikipedia.org/wiki/0_(number)\n\nphoto 1 = one\n  afewchars = 1\n  level     = 1\n  say       = 1\n  wiki      = https://en.wikipedia.org/wiki/1_(number)\n\nphoto 2 = two\n  afewchars = 2\n  level     = 1\n  say       = 2\n  wiki      = https://en.wikipedia.org/wiki/2_(number)\n\nphoto 3 = three\n  afewchars = 3\n  level     = 1\n  say       = 3\n  wiki      = https://en.wikipedia.org/wiki/3_(number)\n\nphoto 4 = four\n  afewchars = 4\n  level     = 1\n  say       = 4\n  wiki      = https://en.wikipedia.org/wiki/4_(number)\n\nphoto 5 = five\n  afewchars = 5\n  level     = 1\n  say       = 5\n  wiki      = https://en.wikipedia.org/wiki/5_(number)\n\nphoto 6 = six\n  afewchars = 6\n  level     = 1\n  say       = 6\n  wiki      = https://en.wikipedia.org/wiki/6_(number)\n\nphoto 7 = seven\n  afewchars = 7\n  level     = 1\n  say       = 7\n  wiki      = https://en.wikipedia.org/wiki/7_(number)\n\nphoto 8 = eight\n  afewchars = 8\n  level     = 1\n  say       = 8\n  wiki      = https://en.wikipedia.org/wiki/8_(number)\n\nphoto 9 = nine\n  afewchars = 9\n  level     = 1\n  say       = 9\n  wiki      = https://en.wikipedia.org/wiki/9_(number)\n\nphoto 10 = ten\n  afewchars = 10\n  level     = 2\n  say       = 10\n  wiki      = https://en.wikipedia.org/wiki/10_(number)\n\nphoto 11 = eleven\n  afewchars = 11\n  level     = 2\n  say       = 11\n  wiki      = https://en.wikipedia.org/wiki/11_(number)\n\nphoto 12 = twelve\n  afewchars = 12\n  level     = 2\n  say       = 12\n  wiki      = https://en.wikipedia.org/wiki/12_(number)\n\nphoto 13 = thirteen\n  afewchars = 13\n  level     = 2\n  say       = 13\n  wiki      = https://en.wikipedia.org/wiki/13_(number)\n\nphoto 14 = fourteen\n  afewchars = 14\n  level     = 2\n  say       = 14\n  wiki      = https://en.wikipedia.org/wiki/14_(number)\n\nphoto 15 = fifteen\n  afewchars = 15\n  level     = 2\n  say       = 15\n  wiki      = https://en.wikipedia.org/wiki/15_(number)\n\nphoto 16 = sixteen\n  afewchars = 16\n  level     = 2\n  say       = 16\n  wiki      = https://en.wikipedia.org/wiki/16_(number)\n\nphoto 17 = seventeen\n  afewchars = 17\n  level     = 2\n  say       = 17\n  wiki      = https://en.wikipedia.org/wiki/17_(number)\n\nphoto 18 = eighteen\n  afewchars = 18\n  level     = 2\n  say       = 18\n  wiki      = https://en.wikipedia.org/wiki/18_(number)\n\nphoto 19 = nineteen\n  afewchars = 19\n  level     = 2\n  say       = 19\n  wiki      = https://en.wikipedia.org/wiki/19_(number)\n\nphoto 20 = twenty\n  afewchars = 20\n  level     = 3\n  say       = 20\n  wiki      = https://en.wikipedia.org/wiki/20_(number)\n\nphoto 21 = twenty-one\n  afewchars = 21\n  level     = 5\n  say       = 21\n  wiki      = https://en.wikipedia.org/wiki/21_(number)\n\nphoto 22 = twenty-two\n  afewchars = 22\n  level     = 4\n  say       = 22\n  wiki      = https://en.wikipedia.org/wiki/22_(number)\n\nphoto 23 = twenty-three\n  afewchars = 23\n  level     = 5\n  say       = 23\n  wiki      = https://en.wikipedia.org/wiki/23_(number)\n\nphoto 24 = twenty-four\n  afewchars = 24\n  level     = 5\n  say       = 24\n  wiki      = https://en.wikipedia.org/wiki/24_(number)\n\nphoto 25 = twenty-five\n  afewchars = 25\n  level     = 5\n  say       = 25\n  wiki      = https://en.wikipedia.org/wiki/25_(number)\n\nphoto 26 = twenty-six\n  afewchars = 26\n  level     = 5\n  say       = 26\n  wiki      = https://en.wikipedia.org/wiki/26_(number)\n\nphoto 27 = twenty-seven\n  afewchars = 27\n  level     = 5\n  say       = 27\n  wiki      = https://en.wikipedia.org/wiki/27_(number)\n\nphoto 28 = twenty-eight\n  afewchars = 28\n  level     = 5\n  say       = 28\n  wiki      = https://en.wikipedia.org/wiki/28_(number)\n\nphoto 29 = twenty-nine\n  afewchars = 29\n  level     = 5\n  say       = 29\n  wiki      = https://en.wikipedia.org/wiki/29_(number)\n\nphoto 30 = thirty\n  afewchars = 30\n  level     = 3\n  say       = 30\n  wiki      = https://en.wikipedia.org/wiki/30_(number)\n\nphoto 31 = thirty-one\n  afewchars = 31\n  level     = 6\n  say       = 31\n  wiki      = https://en.wikipedia.org/wiki/31_(number)\n\nphoto 32 = thirty-two\n  afewchars = 32\n  level     = 6\n  say       = 32\n  wiki      = https://en.wikipedia.org/wiki/32_(number)\n\nphoto 33 = thirty-three\n  afewchars = 33\n  level     = 4\n  say       = 33\n  wiki      = https://en.wikipedia.org/wiki/33_(number)\n\nphoto 34 = thirty-four\n  afewchars = 34\n  level     = 6\n  say       = 34\n  wiki      = https://en.wikipedia.org/wiki/34_(number)\n\nphoto 35 = thirty-five\n  afewchars = 35\n  level     = 6\n  say       = 35\n  wiki      = https://en.wikipedia.org/wiki/35_(number)\n\nphoto 36 = thirty-six\n  afewchars = 36\n  level     = 6\n  say       = 36\n  wiki      = https://en.wikipedia.org/wiki/36_(number)\n\nphoto 37 = thirty-seven\n  afewchars = 37\n  level     = 6\n  say       = 37\n  wiki      = https://en.wikipedia.org/wiki/37_(number)\n\nphoto 38 = thirty-eight\n  afewchars = 38\n  level     = 6\n  say       = 38\n  wiki      = https://en.wikipedia.org/wiki/38_(number)\n\nphoto 39 = thirty-nine\n  afewchars = 39\n  level     = 6\n  say       = 39\n  wiki      = https://en.wikipedia.org/wiki/39_(number)\n\nphoto 40 = forty\n  afewchars = 40\n  level     = 3\n  say       = 40\n  wiki      = https://en.wikipedia.org/wiki/40_(number)\n\nphoto 41 = forty-one\n  afewchars = 41\n  level     = 7\n  say       = 41\n  wiki      = https://en.wikipedia.org/wiki/41_(number)\n\nphoto 42 = forty-two\n  afewchars = 42\n  level     = 7\n  say       = 42\n  wiki      = https://en.wikipedia.org/wiki/42_(number)\n\nphoto 43 = forty-three\n  afewchars = 43\n  level     = 7\n  say       = 43\n  wiki      = https://en.wikipedia.org/wiki/43_(number)\n\nphoto 44 = forty-four\n  afewchars = 44\n  level     = 4\n  say       = 44\n  wiki      = https://en.wikipedia.org/wiki/44_(number)\n\nphoto 45 = forty-five\n  afewchars = 45\n  level     = 7\n  say       = 45\n  wiki      = https://en.wikipedia.org/wiki/45_(number)\n\nphoto 46 = forty-six\n  afewchars = 46\n  level     = 7\n  say       = 46\n  wiki      = https://en.wikipedia.org/wiki/46_(number)\n\nphoto 47 = forty-seven\n  afewchars = 47\n  level     = 7\n  say       = 47\n  wiki      = https://en.wikipedia.org/wiki/47_(number)\n\nphoto 48 = forty-eight\n  afewchars = 48\n  level     = 7\n  say       = 48\n  wiki      = https://en.wikipedia.org/wiki/48_(number)\n\nphoto 49 = forty-nine\n  afewchars = 49\n  level     = 7\n  say       = 49\n  wiki      = https://en.wikipedia.org/wiki/49_(number)\n\nphoto 50 = fifty\n  afewchars = 50\n  level     = 3\n  say       = 50\n  wiki      = https://en.wikipedia.org/wiki/50_(number)\n\nphoto 51 = fifty-one\n  afewchars = 51\n  level     = 8\n  say       = 51\n  wiki      = https://en.wikipedia.org/wiki/51_(number)\n\nphoto 52 = fifty-two\n  afewchars = 52\n  level     = 8\n  say       = 52\n  wiki      = https://en.wikipedia.org/wiki/52_(number)\n\nphoto 53 = fifty-three\n  afewchars = 53\n  level     = 8\n  say       = 53\n  wiki      = https://en.wikipedia.org/wiki/53_(number)\n\nphoto 54 = fifty-four\n  afewchars = 54\n  level     = 8\n  say       = 54\n  wiki      = https://en.wikipedia.org/wiki/54_(number)\n\nphoto 55 = fifty-five\n  afewchars = 55\n  level     = 4\n  say       = 55\n  wiki      = https://en.wikipedia.org/wiki/55_(number)\n\nphoto 56 = fifty-six\n  afewchars = 56\n  level     = 8\n  say       = 56\n  wiki      = https://en.wikipedia.org/wiki/56_(number)\n\nphoto 57 = fifty-seven\n  afewchars = 57\n  level     = 8\n  say       = 57\n  wiki      = https://en.wikipedia.org/wiki/57_(number)\n\nphoto 58 = fifty-eight\n  afewchars = 58\n  level     = 8\n  say       = 58\n  wiki      = https://en.wikipedia.org/wiki/58_(number)\n\nphoto 59 = fifty-nine\n  afewchars = 59\n  level     = 8\n  say       = 59\n  wiki      = https://en.wikipedia.org/wiki/59_(number)\n\nphoto 60 = sixty\n  afewchars = 60\n  level     = 3\n  say       = 60\n  wiki      = https://en.wikipedia.org/wiki/60_(number)\n\nphoto 61 = sixty-one\n  afewchars = 61\n  level     = 9\n  say       = 61\n  wiki      = https://en.wikipedia.org/wiki/61_(number)\n\nphoto 62 = sixty-two\n  afewchars = 62\n  level     = 9\n  say       = 62\n  wiki      = https://en.wikipedia.org/wiki/62_(number)\n\nphoto 63 = sixty-three\n  afewchars = 63\n  level     = 9\n  say       = 63\n  wiki      = https://en.wikipedia.org/wiki/63_(number)\n\nphoto 64 = sixty-four\n  afewchars = 64\n  level     = 9\n  say       = 64\n  wiki      = https://en.wikipedia.org/wiki/64_(number)\n\nphoto 65 = sixty-five\n  afewchars = 65\n  level     = 9\n  say       = 65\n  wiki      = https://en.wikipedia.org/wiki/65_(number)\n\nphoto 66 = sixty-six\n  afewchars = 66\n  level     = 4\n  say       = 66\n  wiki      = https://en.wikipedia.org/wiki/66_(number)\n\nphoto 67 = sixty-seven\n  afewchars = 67\n  level     = 9\n  say       = 67\n  wiki      = https://en.wikipedia.org/wiki/67_(number)\n\nphoto 68 = sixty-eight\n  afewchars = 68\n  level     = 9\n  say       = 68\n  wiki      = https://en.wikipedia.org/wiki/68_(number)\n\nphoto 69 = sixty-nine\n  afewchars = 69\n  level     = 9\n  say       = 69\n  wiki      = https://en.wikipedia.org/wiki/69_(number)\n\nphoto 70 = seventy\n  afewchars = 70\n  level     = 3\n  say       = 70\n  wiki      = https://en.wikipedia.org/wiki/70_(number)\n\nphoto 71 = seventy-one\n  afewchars = 71\n  level     = 9\n  say       = 71\n  wiki      = https://en.wikipedia.org/wiki/71_(number)\n\nphoto 72 = seventy-two\n  afewchars = 72\n  level     = 9\n  say       = 72\n  wiki      = https://en.wikipedia.org/wiki/72_(number)\n\nphoto 73 = seventy-three\n  afewchars = 73\n  level     = 9\n  say       = 73\n  wiki      = https://en.wikipedia.org/wiki/73_(number)\n\nphoto 74 = seventy-four\n  afewchars = 74\n  level     = 9\n  say       = 74\n  wiki      = https://en.wikipedia.org/wiki/74_(number)\n\nphoto 75 = seventy-five\n  afewchars = 75\n  level     = 9\n  say       = 75\n  wiki      = https://en.wikipedia.org/wiki/75_(number)\n\nphoto 76 = seventy-six\n  afewchars = 76\n  level     = 9\n  say       = 76\n  wiki      = https://en.wikipedia.org/wiki/76_(number)\n\nphoto 77 = seventy-seven\n  afewchars = 77\n  level     = 4\n  say       = 77\n  wiki      = https://en.wikipedia.org/wiki/77_(number)\n\nphoto 78 = seventy-eight\n  afewchars = 78\n  level     = 9\n  say       = 78\n  wiki      = https://en.wikipedia.org/wiki/78_(number)\n\nphoto 79 = seventy-nine\n  afewchars = 79\n  level     = 9\n  say       = 79\n  wiki      = https://en.wikipedia.org/wiki/79_(number)\n\nphoto 80 = eighty\n  afewchars = 80\n  level     = 3\n  say       = 80\n  wiki      = https://en.wikipedia.org/wiki/80_(number)\n\nphoto 81 = eighty-one\n  afewchars = 81\n  level     = 10\n  say       = 81\n  wiki      = https://en.wikipedia.org/wiki/81_(number)\n\nphoto 82 = eighty-two\n  afewchars = 82\n  level     = 10\n  say       = 82\n  wiki      = https://en.wikipedia.org/wiki/82_(number)\n\nphoto 83 = eighty-three\n  afewchars = 83\n  level     = 10\n  say       = 83\n  wiki      = https://en.wikipedia.org/wiki/83_(number)\n\nphoto 84 = eighty-four\n  afewchars = 84\n  level     = 10\n  say       = 84\n  wiki      = https://en.wikipedia.org/wiki/84_(number)\n\nphoto 85 = eighty-five\n  afewchars = 85\n  level     = 10\n  say       = 85\n  wiki      = https://en.wikipedia.org/wiki/85_(number)\n\nphoto 86 = eighty-six\n  afewchars = 86\n  level     = 10\n  say       = 86\n  wiki      = https://en.wikipedia.org/wiki/86_(number)\n\nphoto 87 = eighty-seven\n  afewchars = 87\n  level     = 10\n  say       = 87\n  wiki      = https://en.wikipedia.org/wiki/87_(number)\n\nphoto 88 = eighty-eight\n  afewchars = 88\n  level     = 4\n  say       = 88\n  wiki      = https://en.wikipedia.org/wiki/88_(number)\n\nphoto 89 = eighty-nine\n  afewchars = 89\n  level     = 10\n  say       = 89\n  wiki      = https://en.wikipedia.org/wiki/89_(number)\n\nphoto 90 = ninety\n  afewchars = 90\n  level     = 3\n  say       = 90\n  wiki      = https://en.wikipedia.org/wiki/90_(number)\n\nphoto 91 = ninety-one\n  afewchars = 91\n  level     = 10\n  say       = 91\n  wiki      = https://en.wikipedia.org/wiki/91_(number)\n\nphoto 92 = ninety-two\n  afewchars = 92\n  level     = 10\n  say       = 92\n  wiki      = https://en.wikipedia.org/wiki/92_(number)\n\nphoto 93 = ninety-three\n  afewchars = 93\n  level     = 10\n  say       = 93\n  wiki      = https://en.wikipedia.org/wiki/93_(number)\n\nphoto 94 = ninety-four\n  afewchars = 94\n  level     = 10\n  say       = 94\n  wiki      = https://en.wikipedia.org/wiki/94_(number)\n\nphoto 95 = ninety-five\n  afewchars = 95\n  level     = 10\n  say       = 95\n  wiki      = https://en.wikipedia.org/wiki/95_(number)\n\nphoto 96 = ninety-six\n  afewchars = 96\n  level     = 10\n  say       = 96\n  wiki      = https://en.wikipedia.org/wiki/96_(number)\n\nphoto 97 = ninety-seven\n  afewchars = 97\n  level     = 10\n  say       = 97\n  wiki      = https://en.wikipedia.org/wiki/97_(number)\n\nphoto 98 = ninety-eight\n  afewchars = 98\n  level     = 10\n  say       = 98\n  wiki      = https://en.wikipedia.org/wiki/98_(number)\n\nphoto 99 = ninety-nine\n  afewchars = 99\n  level     = 4\n  say       = 99\n  wiki      = https://en.wikipedia.org/wiki/99_(number)\n\nphoto 100 = one hundred\n  afewchars = 100\n  level     = 3\n  say       = 100\n  wiki      = https://en.wikipedia.org/wiki/100_(number)\n",
-    sourceFileSha => "eeb277991706b8fa0ef21d6b8aea1bfd8f36621e",
+    source => "  app 100.en.100 = The Numbers from 0 to 100 in English\n  description   = Learn to recognize and say the numbers from 0 to 100 in English\n  icon          = icon.png\n  ordered       = finally\n  maxImages     = 12\n  author        = philiprbrenan\n  email         = philiprbrenan\@gmail.com\n  language      = en\n  full name on google play = com.appaapps.photoapp.en100                  \n  version       = 2017-12-02 at 23:35:25\n\n\nphoto 0 = zero\n  afewchars = 0\n  level     = 1\n  say       = 0\n  wiki      = https://en.wikipedia.org/wiki/0_(number)\n\nphoto 1 = one\n  afewchars = 1\n  level     = 1\n  say       = 1\n  wiki      = https://en.wikipedia.org/wiki/1_(number)\n\nphoto 2 = two\n  afewchars = 2\n  level     = 1\n  say       = 2\n  wiki      = https://en.wikipedia.org/wiki/2_(number)\n\nphoto 3 = three\n  afewchars = 3\n  level     = 1\n  say       = 3\n  wiki      = https://en.wikipedia.org/wiki/3_(number)\n\nphoto 4 = four\n  afewchars = 4\n  level     = 1\n  say       = 4\n  wiki      = https://en.wikipedia.org/wiki/4_(number)\n\nphoto 5 = five\n  afewchars = 5\n  level     = 1\n  say       = 5\n  wiki      = https://en.wikipedia.org/wiki/5_(number)\n\nphoto 6 = six\n  afewchars = 6\n  level     = 1\n  say       = 6\n  wiki      = https://en.wikipedia.org/wiki/6_(number)\n\nphoto 7 = seven\n  afewchars = 7\n  level     = 1\n  say       = 7\n  wiki      = https://en.wikipedia.org/wiki/7_(number)\n\nphoto 8 = eight\n  afewchars = 8\n  level     = 1\n  say       = 8\n  wiki      = https://en.wikipedia.org/wiki/8_(number)\n\nphoto 9 = nine\n  afewchars = 9\n  level     = 1\n  say       = 9\n  wiki      = https://en.wikipedia.org/wiki/9_(number)\n\nphoto 10 = ten\n  afewchars = 10\n  level     = 2\n  say       = 10\n  wiki      = https://en.wikipedia.org/wiki/10_(number)\n\nphoto 11 = eleven\n  afewchars = 11\n  level     = 2\n  say       = 11\n  wiki      = https://en.wikipedia.org/wiki/11_(number)\n\nphoto 12 = twelve\n  afewchars = 12\n  level     = 2\n  say       = 12\n  wiki      = https://en.wikipedia.org/wiki/12_(number)\n\nphoto 13 = thirteen\n  afewchars = 13\n  level     = 2\n  say       = 13\n  wiki      = https://en.wikipedia.org/wiki/13_(number)\n\nphoto 14 = fourteen\n  afewchars = 14\n  level     = 2\n  say       = 14\n  wiki      = https://en.wikipedia.org/wiki/14_(number)\n\nphoto 15 = fifteen\n  afewchars = 15\n  level     = 2\n  say       = 15\n  wiki      = https://en.wikipedia.org/wiki/15_(number)\n\nphoto 16 = sixteen\n  afewchars = 16\n  level     = 2\n  say       = 16\n  wiki      = https://en.wikipedia.org/wiki/16_(number)\n\nphoto 17 = seventeen\n  afewchars = 17\n  level     = 2\n  say       = 17\n  wiki      = https://en.wikipedia.org/wiki/17_(number)\n\nphoto 18 = eighteen\n  afewchars = 18\n  level     = 2\n  say       = 18\n  wiki      = https://en.wikipedia.org/wiki/18_(number)\n\nphoto 19 = nineteen\n  afewchars = 19\n  level     = 2\n  say       = 19\n  wiki      = https://en.wikipedia.org/wiki/19_(number)\n\nphoto 20 = twenty\n  afewchars = 20\n  level     = 3\n  say       = 20\n  wiki      = https://en.wikipedia.org/wiki/20_(number)\n\nphoto 21 = twenty-one\n  afewchars = 21\n  level     = 5\n  say       = 21\n  wiki      = https://en.wikipedia.org/wiki/21_(number)\n\nphoto 22 = twenty-two\n  afewchars = 22\n  level     = 4\n  say       = 22\n  wiki      = https://en.wikipedia.org/wiki/22_(number)\n\nphoto 23 = twenty-three\n  afewchars = 23\n  level     = 5\n  say       = 23\n  wiki      = https://en.wikipedia.org/wiki/23_(number)\n\nphoto 24 = twenty-four\n  afewchars = 24\n  level     = 5\n  say       = 24\n  wiki      = https://en.wikipedia.org/wiki/24_(number)\n\nphoto 25 = twenty-five\n  afewchars = 25\n  level     = 5\n  say       = 25\n  wiki      = https://en.wikipedia.org/wiki/25_(number)\n\nphoto 26 = twenty-six\n  afewchars = 26\n  level     = 5\n  say       = 26\n  wiki      = https://en.wikipedia.org/wiki/26_(number)\n\nphoto 27 = twenty-seven\n  afewchars = 27\n  level     = 5\n  say       = 27\n  wiki      = https://en.wikipedia.org/wiki/27_(number)\n\nphoto 28 = twenty-eight\n  afewchars = 28\n  level     = 5\n  say       = 28\n  wiki      = https://en.wikipedia.org/wiki/28_(number)\n\nphoto 29 = twenty-nine\n  afewchars = 29\n  level     = 5\n  say       = 29\n  wiki      = https://en.wikipedia.org/wiki/29_(number)\n\nphoto 30 = thirty\n  afewchars = 30\n  level     = 3\n  say       = 30\n  wiki      = https://en.wikipedia.org/wiki/30_(number)\n\nphoto 31 = thirty-one\n  afewchars = 31\n  level     = 6\n  say       = 31\n  wiki      = https://en.wikipedia.org/wiki/31_(number)\n\nphoto 32 = thirty-two\n  afewchars = 32\n  level     = 6\n  say       = 32\n  wiki      = https://en.wikipedia.org/wiki/32_(number)\n\nphoto 33 = thirty-three\n  afewchars = 33\n  level     = 4\n  say       = 33\n  wiki      = https://en.wikipedia.org/wiki/33_(number)\n\nphoto 34 = thirty-four\n  afewchars = 34\n  level     = 6\n  say       = 34\n  wiki      = https://en.wikipedia.org/wiki/34_(number)\n\nphoto 35 = thirty-five\n  afewchars = 35\n  level     = 6\n  say       = 35\n  wiki      = https://en.wikipedia.org/wiki/35_(number)\n\nphoto 36 = thirty-six\n  afewchars = 36\n  level     = 6\n  say       = 36\n  wiki      = https://en.wikipedia.org/wiki/36_(number)\n\nphoto 37 = thirty-seven\n  afewchars = 37\n  level     = 6\n  say       = 37\n  wiki      = https://en.wikipedia.org/wiki/37_(number)\n\nphoto 38 = thirty-eight\n  afewchars = 38\n  level     = 6\n  say       = 38\n  wiki      = https://en.wikipedia.org/wiki/38_(number)\n\nphoto 39 = thirty-nine\n  afewchars = 39\n  level     = 6\n  say       = 39\n  wiki      = https://en.wikipedia.org/wiki/39_(number)\n\nphoto 40 = forty\n  afewchars = 40\n  level     = 3\n  say       = 40\n  wiki      = https://en.wikipedia.org/wiki/40_(number)\n\nphoto 41 = forty-one\n  afewchars = 41\n  level     = 7\n  say       = 41\n  wiki      = https://en.wikipedia.org/wiki/41_(number)\n\nphoto 42 = forty-two\n  afewchars = 42\n  level     = 7\n  say       = 42\n  wiki      = https://en.wikipedia.org/wiki/42_(number)\n\nphoto 43 = forty-three\n  afewchars = 43\n  level     = 7\n  say       = 43\n  wiki      = https://en.wikipedia.org/wiki/43_(number)\n\nphoto 44 = forty-four\n  afewchars = 44\n  level     = 4\n  say       = 44\n  wiki      = https://en.wikipedia.org/wiki/44_(number)\n\nphoto 45 = forty-five\n  afewchars = 45\n  level     = 7\n  say       = 45\n  wiki      = https://en.wikipedia.org/wiki/45_(number)\n\nphoto 46 = forty-six\n  afewchars = 46\n  level     = 7\n  say       = 46\n  wiki      = https://en.wikipedia.org/wiki/46_(number)\n\nphoto 47 = forty-seven\n  afewchars = 47\n  level     = 7\n  say       = 47\n  wiki      = https://en.wikipedia.org/wiki/47_(number)\n\nphoto 48 = forty-eight\n  afewchars = 48\n  level     = 7\n  say       = 48\n  wiki      = https://en.wikipedia.org/wiki/48_(number)\n\nphoto 49 = forty-nine\n  afewchars = 49\n  level     = 7\n  say       = 49\n  wiki      = https://en.wikipedia.org/wiki/49_(number)\n\nphoto 50 = fifty\n  afewchars = 50\n  level     = 3\n  say       = 50\n  wiki      = https://en.wikipedia.org/wiki/50_(number)\n\nphoto 51 = fifty-one\n  afewchars = 51\n  level     = 8\n  say       = 51\n  wiki      = https://en.wikipedia.org/wiki/51_(number)\n\nphoto 52 = fifty-two\n  afewchars = 52\n  level     = 8\n  say       = 52\n  wiki      = https://en.wikipedia.org/wiki/52_(number)\n\nphoto 53 = fifty-three\n  afewchars = 53\n  level     = 8\n  say       = 53\n  wiki      = https://en.wikipedia.org/wiki/53_(number)\n\nphoto 54 = fifty-four\n  afewchars = 54\n  level     = 8\n  say       = 54\n  wiki      = https://en.wikipedia.org/wiki/54_(number)\n\nphoto 55 = fifty-five\n  afewchars = 55\n  level     = 4\n  say       = 55\n  wiki      = https://en.wikipedia.org/wiki/55_(number)\n\nphoto 56 = fifty-six\n  afewchars = 56\n  level     = 8\n  say       = 56\n  wiki      = https://en.wikipedia.org/wiki/56_(number)\n\nphoto 57 = fifty-seven\n  afewchars = 57\n  level     = 8\n  say       = 57\n  wiki      = https://en.wikipedia.org/wiki/57_(number)\n\nphoto 58 = fifty-eight\n  afewchars = 58\n  level     = 8\n  say       = 58\n  wiki      = https://en.wikipedia.org/wiki/58_(number)\n\nphoto 59 = fifty-nine\n  afewchars = 59\n  level     = 8\n  say       = 59\n  wiki      = https://en.wikipedia.org/wiki/59_(number)\n\nphoto 60 = sixty\n  afewchars = 60\n  level     = 3\n  say       = 60\n  wiki      = https://en.wikipedia.org/wiki/60_(number)\n\nphoto 61 = sixty-one\n  afewchars = 61\n  level     = 9\n  say       = 61\n  wiki      = https://en.wikipedia.org/wiki/61_(number)\n\nphoto 62 = sixty-two\n  afewchars = 62\n  level     = 9\n  say       = 62\n  wiki      = https://en.wikipedia.org/wiki/62_(number)\n\nphoto 63 = sixty-three\n  afewchars = 63\n  level     = 9\n  say       = 63\n  wiki      = https://en.wikipedia.org/wiki/63_(number)\n\nphoto 64 = sixty-four\n  afewchars = 64\n  level     = 9\n  say       = 64\n  wiki      = https://en.wikipedia.org/wiki/64_(number)\n\nphoto 65 = sixty-five\n  afewchars = 65\n  level     = 9\n  say       = 65\n  wiki      = https://en.wikipedia.org/wiki/65_(number)\n\nphoto 66 = sixty-six\n  afewchars = 66\n  level     = 4\n  say       = 66\n  wiki      = https://en.wikipedia.org/wiki/66_(number)\n\nphoto 67 = sixty-seven\n  afewchars = 67\n  level     = 9\n  say       = 67\n  wiki      = https://en.wikipedia.org/wiki/67_(number)\n\nphoto 68 = sixty-eight\n  afewchars = 68\n  level     = 9\n  say       = 68\n  wiki      = https://en.wikipedia.org/wiki/68_(number)\n\nphoto 69 = sixty-nine\n  afewchars = 69\n  level     = 9\n  say       = 69\n  wiki      = https://en.wikipedia.org/wiki/69_(number)\n\nphoto 70 = seventy\n  afewchars = 70\n  level     = 3\n  say       = 70\n  wiki      = https://en.wikipedia.org/wiki/70_(number)\n\nphoto 71 = seventy-one\n  afewchars = 71\n  level     = 9\n  say       = 71\n  wiki      = https://en.wikipedia.org/wiki/71_(number)\n\nphoto 72 = seventy-two\n  afewchars = 72\n  level     = 9\n  say       = 72\n  wiki      = https://en.wikipedia.org/wiki/72_(number)\n\nphoto 73 = seventy-three\n  afewchars = 73\n  level     = 9\n  say       = 73\n  wiki      = https://en.wikipedia.org/wiki/73_(number)\n\nphoto 74 = seventy-four\n  afewchars = 74\n  level     = 9\n  say       = 74\n  wiki      = https://en.wikipedia.org/wiki/74_(number)\n\nphoto 75 = seventy-five\n  afewchars = 75\n  level     = 9\n  say       = 75\n  wiki      = https://en.wikipedia.org/wiki/75_(number)\n\nphoto 76 = seventy-six\n  afewchars = 76\n  level     = 9\n  say       = 76\n  wiki      = https://en.wikipedia.org/wiki/76_(number)\n\nphoto 77 = seventy-seven\n  afewchars = 77\n  level     = 4\n  say       = 77\n  wiki      = https://en.wikipedia.org/wiki/77_(number)\n\nphoto 78 = seventy-eight\n  afewchars = 78\n  level     = 9\n  say       = 78\n  wiki      = https://en.wikipedia.org/wiki/78_(number)\n\nphoto 79 = seventy-nine\n  afewchars = 79\n  level     = 9\n  say       = 79\n  wiki      = https://en.wikipedia.org/wiki/79_(number)\n\nphoto 80 = eighty\n  afewchars = 80\n  level     = 3\n  say       = 80\n  wiki      = https://en.wikipedia.org/wiki/80_(number)\n\nphoto 81 = eighty-one\n  afewchars = 81\n  level     = 10\n  say       = 81\n  wiki      = https://en.wikipedia.org/wiki/81_(number)\n\nphoto 82 = eighty-two\n  afewchars = 82\n  level     = 10\n  say       = 82\n  wiki      = https://en.wikipedia.org/wiki/82_(number)\n\nphoto 83 = eighty-three\n  afewchars = 83\n  level     = 10\n  say       = 83\n  wiki      = https://en.wikipedia.org/wiki/83_(number)\n\nphoto 84 = eighty-four\n  afewchars = 84\n  level     = 10\n  say       = 84\n  wiki      = https://en.wikipedia.org/wiki/84_(number)\n\nphoto 85 = eighty-five\n  afewchars = 85\n  level     = 10\n  say       = 85\n  wiki      = https://en.wikipedia.org/wiki/85_(number)\n\nphoto 86 = eighty-six\n  afewchars = 86\n  level     = 10\n  say       = 86\n  wiki      = https://en.wikipedia.org/wiki/86_(number)\n\nphoto 87 = eighty-seven\n  afewchars = 87\n  level     = 10\n  say       = 87\n  wiki      = https://en.wikipedia.org/wiki/87_(number)\n\nphoto 88 = eighty-eight\n  afewchars = 88\n  level     = 4\n  say       = 88\n  wiki      = https://en.wikipedia.org/wiki/88_(number)\n\nphoto 89 = eighty-nine\n  afewchars = 89\n  level     = 10\n  say       = 89\n  wiki      = https://en.wikipedia.org/wiki/89_(number)\n\nphoto 90 = ninety\n  afewchars = 90\n  level     = 3\n  say       = 90\n  wiki      = https://en.wikipedia.org/wiki/90_(number)\n\nphoto 91 = ninety-one\n  afewchars = 91\n  level     = 10\n  say       = 91\n  wiki      = https://en.wikipedia.org/wiki/91_(number)\n\nphoto 92 = ninety-two\n  afewchars = 92\n  level     = 10\n  say       = 92\n  wiki      = https://en.wikipedia.org/wiki/92_(number)\n\nphoto 93 = ninety-three\n  afewchars = 93\n  level     = 10\n  say       = 93\n  wiki      = https://en.wikipedia.org/wiki/93_(number)\n\nphoto 94 = ninety-four\n  afewchars = 94\n  level     = 10\n  say       = 94\n  wiki      = https://en.wikipedia.org/wiki/94_(number)\n\nphoto 95 = ninety-five\n  afewchars = 95\n  level     = 10\n  say       = 95\n  wiki      = https://en.wikipedia.org/wiki/95_(number)\n\nphoto 96 = ninety-six\n  afewchars = 96\n  level     = 10\n  say       = 96\n  wiki      = https://en.wikipedia.org/wiki/96_(number)\n\nphoto 97 = ninety-seven\n  afewchars = 97\n  level     = 10\n  say       = 97\n  wiki      = https://en.wikipedia.org/wiki/97_(number)\n\nphoto 98 = ninety-eight\n  afewchars = 98\n  level     = 10\n  say       = 98\n  wiki      = https://en.wikipedia.org/wiki/98_(number)\n\nphoto 99 = ninety-nine\n  afewchars = 99\n  level     = 4\n  say       = 99\n  wiki      = https://en.wikipedia.org/wiki/99_(number)\n\nphoto 100 = one hundred\n  afewchars = 100\n  level     = 3\n  say       = 100\n  wiki      = https://en.wikipedia.org/wiki/100_(number)\n",
+    sourceFileSha => "4417faf5a8fa6f85c05f04bb2cac0f02b15d35a6",
     step => "parseSource",
   }, "Manifest");
   $a->{parsedCmds}[0] = $a->{app};
