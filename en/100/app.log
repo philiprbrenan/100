@@ -1,36 +1,20 @@
-Failed.
+SUCCESS!
 
-2017-12-03 at 00:38:54 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/en/100
+2017-12-03 at 01:54:23 Generate AppaAppsPhotoApp version 20171202-1 philiprbrenan/100/en/100
 
-2017-12-03 at 00:38:59 Step: parseSource
-2017-12-03 at 00:38:59 <b>Good source file!</b>
-2017-12-03 at 00:38:59 Step: loadAssets
-2017-12-03 at 01:12:21 3232 new, 0 reused audio files
-2017-12-03 at 01:12:21 Step: multiplyPhotosByFacts
-2017-12-03 at 01:12:21 Step: genJavaManifest
-2017-12-03 at 01:12:21 Step: genJsonManifest
-2017-12-03 at 01:12:21 Step: genGameHtml
-2017-12-03 at 01:12:22 Step: genHtmlAssets
-2017-12-03 at 01:12:22 Step: zipAssets
-2017-12-03 at 01:12:22 Step: compileApp
-2017-12-03 at 01:12:24 Unable to create apk file /tmp/AppaAppsPhotoApp/build/bin/en100                    .apk in build folder:
-/tmp/AppaAppsPhotoApp/users/philiprbrenan/100/en/100/
-Java errors
-/tmp/AppaAppsPhotoApp/build/gen/com/appaapps/photoapp/en100/Activity.java:108: error: package R does not exist
-    parameters = getResources().getString(R.string.parameters);                 // The parameters supplied with the app
-                                           ^
-/tmp/AppaAppsPhotoApp/build/gen/com/appaapps/photoapp/en100/Activity.java:119: error: package R does not exist
-    packageName = getResources().getString(R.string.packageName);               // The package name of this app
-                                            ^
-2 errors
- at /usr/local/share/perl/5.22.1/Android/Build.pm line 450.
-	Android::Build::make(Android::Build=HASH(0x33bb330)) called at /usr/local/share/perl/5.22.1/Android/Build.pm line 549
-	Android::Build::compile(Android::Build=HASH(0x33bb330)) called at AppaAppsPhotoApp.pm line 2397
-	eval {...} called at AppaAppsPhotoApp.pm line 2397
-	Manifest::compileApp(Manifest=HASH(0x330ee58)) called at AppaAppsPhotoApp.pm line 659
-	main::genApplicationDescriptionFromSourceFile() called at AppaAppsPhotoApp.pm line 2887
-	main::projectAction("philiprbrenan/100/en/100", 4) called at AppaAppsPhotoApp.pm line 2921
-
+2017-12-03 at 01:54:27 Step: parseSource
+2017-12-03 at 01:54:27 <b>Good source file!</b>
+2017-12-03 at 01:54:27 Step: loadAssets
+2017-12-03 at 01:54:28 0 new, 3232 reused audio files
+2017-12-03 at 01:54:28 Step: multiplyPhotosByFacts
+2017-12-03 at 01:54:28 Step: genJavaManifest
+2017-12-03 at 01:54:28 Step: genJsonManifest
+2017-12-03 at 01:54:28 Step: genGameHtml
+2017-12-03 at 01:54:28 Step: genHtmlAssets
+2017-12-03 at 01:54:28 Step: zipAssets
+2017-12-03 at 01:54:29 Step: compileApp
+2017-12-03 at 01:54:33 Step: copyLinksToGitHub
+2017-12-03 at 01:54:37 Step: copyFilesIntoPositionOnWebServer
 --------------------------------------------------------------------------------
 do {
   my $a = bless({
@@ -48,11 +32,15 @@ do {
                        keyStorePwd   => "genApp",
                        libs          => [],
                        log           => [
-                                          "/tmp/AppaAppsPhotoApp/build/AndroidManifest.xml:2: Tag <manifest> attribute package has invalid character ' '.",
-                                          "/tmp/AppaAppsPhotoApp/build/gen/com/appaapps/photoapp/en100/Activity.java:108: error: package R does not exist\n    parameters = getResources().getString(R.string.parameters);                 // The parameters supplied with the app\n                                           ^\n/tmp/AppaAppsPhotoApp/build/gen/com/appaapps/photoapp/en100/Activity.java:119: error: package R does not exist\n    packageName = getResources().getString(R.string.packageName);               // The package name of this app\n                                            ^\n2 errors",
+                                          "",
+                                          "",
+                                          "libpng error: IDAT: invalid distance too far back\nlibpng error: IDAT: invalid distance too far back\nCrunching PNG Files in source dir: /tmp/AppaAppsPhotoApp/build/res/\nTo destination dir: /tmp/AppaAppsPhotoApp/build/bin//tmp/AppaAppsPhotoApp/build/res",
+                                          "",
+                                          "Enter Passphrase for keystore: jar signed.\n\nWarning: \nNo -tsa or -tsacert is provided and this jar is not timestamped. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2044-09-10) or after any future revocation date.",
+                                          "",
                                         ],
-                       package       => "com.appaapps.photoapp.en100                    ",
-                       parameters    => "1512263542,philiprbrenan,100,en/100,http://www.appaapps.com/users/philiprbrenan/100/en/100/zip/philiprbrenan100en100.zip,The Numbers from 0 to 100 in English",
+                       package       => "com.appaapps.photoapp.en100",
+                       parameters    => "1512266069,philiprbrenan,100,en/100,http://www.appaapps.com/users/philiprbrenan/100/en/100/zip/philiprbrenan100en100.zip,The Numbers from 0 to 100 in English",
                        permissions   => ["INTERNET", "ACCESS_NETWORK_STATE", "WRITE_EXTERNAL_STORAGE"],
                        platform      => "/home/phil/Android/sdk/platforms/android-25/",
                        platformTools => "/home/phil/Android/sdk/platform-tools/",
@@ -78,6 +66,7 @@ do {
                                           "/home/phil/java/unzip/Unzip.java",
                                         ],
                        title         => "The Numbers from 0 to 100 in English",
+                       verifyApk     => undef,
                        version       => 20171203,
                      }, "Android::Build"),
     app           => bless({
@@ -90,7 +79,7 @@ do {
                          cmd                  => "app",
                          description          => "Learn to recognize and say the numbers from 0 to 100 in English",
                          email                => "philiprbrenan\@gmail.com",
-                         fullNameOnGooglePlay => "com.appaapps.photoapp.en100                    ",
+                         fullNameOnGooglePlay => "com.appaapps.photoapp.en100",
                          icon                 => "icon.png",
                          language             => "en",
                          maximages            => 12,
@@ -105,22 +94,23 @@ do {
                        title => "The Numbers from 0 to 100 in English",
                        titleFile => undef,
                      }, "ParsedCmd"),
-    error         => 1,
+    error         => 0,
     iconFile      => "/home/phil/audioImageCache/images/icon.png",
     log           => [
-                       "\n2017-12-03 at 00:38:54 Generate AppaAppsPhotoApp version 20171126-222 philiprbrenan/100/en/100\n",
-                       "2017-12-03 at 00:38:59 Step: parseSource",
-                       "2017-12-03 at 00:38:59 <b>Good source file!</b>",
-                       "2017-12-03 at 00:38:59 Step: loadAssets",
-                       "2017-12-03 at 01:12:21 3232 new, 0 reused audio files",
-                       "2017-12-03 at 01:12:21 Step: multiplyPhotosByFacts",
-                       "2017-12-03 at 01:12:21 Step: genJavaManifest",
-                       "2017-12-03 at 01:12:21 Step: genJsonManifest",
-                       "2017-12-03 at 01:12:21 Step: genGameHtml",
-                       "2017-12-03 at 01:12:22 Step: genHtmlAssets",
-                       "2017-12-03 at 01:12:22 Step: zipAssets",
-                       "2017-12-03 at 01:12:22 Step: compileApp",
-                       "2017-12-03 at 01:12:24 Unable to create apk file /tmp/AppaAppsPhotoApp/build/bin/en100                    .apk in build folder:\n/tmp/AppaAppsPhotoApp/users/philiprbrenan/100/en/100/\nJava errors\n/tmp/AppaAppsPhotoApp/build/gen/com/appaapps/photoapp/en100/Activity.java:108: error: package R does not exist\n    parameters = getResources().getString(R.string.parameters);                 // The parameters supplied with the app\n                                           ^\n/tmp/AppaAppsPhotoApp/build/gen/com/appaapps/photoapp/en100/Activity.java:119: error: package R does not exist\n    packageName = getResources().getString(R.string.packageName);               // The package name of this app\n                                            ^\n2 errors\n at /usr/local/share/perl/5.22.1/Android/Build.pm line 450.\n\tAndroid::Build::make(Android::Build=HASH(0x33bb330)) called at /usr/local/share/perl/5.22.1/Android/Build.pm line 549\n\tAndroid::Build::compile(Android::Build=HASH(0x33bb330)) called at AppaAppsPhotoApp.pm line 2397\n\teval {...} called at AppaAppsPhotoApp.pm line 2397\n\tManifest::compileApp(Manifest=HASH(0x330ee58)) called at AppaAppsPhotoApp.pm line 659\n\tmain::genApplicationDescriptionFromSourceFile() called at AppaAppsPhotoApp.pm line 2887\n\tmain::projectAction(\"philiprbrenan/100/en/100\", 4) called at AppaAppsPhotoApp.pm line 2921\n",
+                       "\n2017-12-03 at 01:54:23 Generate AppaAppsPhotoApp version 20171202-1 philiprbrenan/100/en/100\n",
+                       "2017-12-03 at 01:54:27 Step: parseSource",
+                       "2017-12-03 at 01:54:27 <b>Good source file!</b>",
+                       "2017-12-03 at 01:54:27 Step: loadAssets",
+                       "2017-12-03 at 01:54:28 0 new, 3232 reused audio files",
+                       "2017-12-03 at 01:54:28 Step: multiplyPhotosByFacts",
+                       "2017-12-03 at 01:54:28 Step: genJavaManifest",
+                       "2017-12-03 at 01:54:28 Step: genJsonManifest",
+                       "2017-12-03 at 01:54:28 Step: genGameHtml",
+                       "2017-12-03 at 01:54:28 Step: genHtmlAssets",
+                       "2017-12-03 at 01:54:28 Step: zipAssets",
+                       "2017-12-03 at 01:54:29 Step: compileApp",
+                       "2017-12-03 at 01:54:33 Step: copyLinksToGitHub",
+                       "2017-12-03 at 01:54:37 Step: copyFilesIntoPositionOnWebServer",
                      ],
     parsedCmds    => [
                        'fix',
@@ -128,12 +118,11 @@ do {
                          cmd => "photo",
                          end => 19,
                          index => 0,
-                         name => 0,
+                         name => undef,
                          parsedKeys => bless({
                            afewchars => 0,
                            cmd => "photo",
                            level => 1,
-                           name => 0,
                            say => 0,
                            title => "zero",
                            titleFile => "zero",
@@ -2148,7 +2137,7 @@ do {
     project       => "philiprbrenan/100/en/100",
     source        => "app 100.en.100 = The Numbers from 0 to 100 in English\n  description   = Learn to recognize and say the numbers from 0 to 100 in English\n  icon          = icon.png\n  ordered       = finally\n  maxImages     = 12\n  author        = philiprbrenan\n  email         = philiprbrenan\@gmail.com\n  language      = en\n#  prerequisites = philiprbrenan/100/en/9 philiprbrenan/100/en/10x10\n#  enables       = \n  full_name_on_google_play = com.appaapps.photoapp.en100                    # The original names of these apps when they were all inspearate repositories on Github instead of just one as they are now\n  version       = 2017-12-03 at 00:17:41\n\n\nphoto 0 = zero\n  afewchars = 0\n  level     = 1\n  say       = 0\n  wiki      = https://en.wikipedia.org/wiki/0_(number)\n\nphoto 1 = one\n  afewchars = 1\n  level     = 1\n  say       = 1\n  wiki      = https://en.wikipedia.org/wiki/1_(number)\n\nphoto 2 = two\n  afewchars = 2\n  level     = 1\n  say       = 2\n  wiki      = https://en.wikipedia.org/wiki/2_(number)\n\nphoto 3 = three\n  afewchars = 3\n  level     = 1\n  say       = 3\n  wiki      = https://en.wikipedia.org/wiki/3_(number)\n\nphoto 4 = four\n  afewchars = 4\n  level     = 1\n  say       = 4\n  wiki      = https://en.wikipedia.org/wiki/4_(number)\n\nphoto 5 = five\n  afewchars = 5\n  level     = 1\n  say       = 5\n  wiki      = https://en.wikipedia.org/wiki/5_(number)\n\nphoto 6 = six\n  afewchars = 6\n  level     = 1\n  say       = 6\n  wiki      = https://en.wikipedia.org/wiki/6_(number)\n\nphoto 7 = seven\n  afewchars = 7\n  level     = 1\n  say       = 7\n  wiki      = https://en.wikipedia.org/wiki/7_(number)\n\nphoto 8 = eight\n  afewchars = 8\n  level     = 1\n  say       = 8\n  wiki      = https://en.wikipedia.org/wiki/8_(number)\n\nphoto 9 = nine\n  afewchars = 9\n  level     = 1\n  say       = 9\n  wiki      = https://en.wikipedia.org/wiki/9_(number)\n\nphoto 10 = ten\n  afewchars = 10\n  level     = 2\n  say       = 10\n  wiki      = https://en.wikipedia.org/wiki/10_(number)\n\nphoto 11 = eleven\n  afewchars = 11\n  level     = 2\n  say       = 11\n  wiki      = https://en.wikipedia.org/wiki/11_(number)\n\nphoto 12 = twelve\n  afewchars = 12\n  level     = 2\n  say       = 12\n  wiki      = https://en.wikipedia.org/wiki/12_(number)\n\nphoto 13 = thirteen\n  afewchars = 13\n  level     = 2\n  say       = 13\n  wiki      = https://en.wikipedia.org/wiki/13_(number)\n\nphoto 14 = fourteen\n  afewchars = 14\n  level     = 2\n  say       = 14\n  wiki      = https://en.wikipedia.org/wiki/14_(number)\n\nphoto 15 = fifteen\n  afewchars = 15\n  level     = 2\n  say       = 15\n  wiki      = https://en.wikipedia.org/wiki/15_(number)\n\nphoto 16 = sixteen\n  afewchars = 16\n  level     = 2\n  say       = 16\n  wiki      = https://en.wikipedia.org/wiki/16_(number)\n\nphoto 17 = seventeen\n  afewchars = 17\n  level     = 2\n  say       = 17\n  wiki      = https://en.wikipedia.org/wiki/17_(number)\n\nphoto 18 = eighteen\n  afewchars = 18\n  level     = 2\n  say       = 18\n  wiki      = https://en.wikipedia.org/wiki/18_(number)\n\nphoto 19 = nineteen\n  afewchars = 19\n  level     = 2\n  say       = 19\n  wiki      = https://en.wikipedia.org/wiki/19_(number)\n\nphoto 20 = twenty\n  afewchars = 20\n  level     = 3\n  say       = 20\n  wiki      = https://en.wikipedia.org/wiki/20_(number)\n\nphoto 21 = twenty-one\n  afewchars = 21\n  level     = 5\n  say       = 21\n  wiki      = https://en.wikipedia.org/wiki/21_(number)\n\nphoto 22 = twenty-two\n  afewchars = 22\n  level     = 4\n  say       = 22\n  wiki      = https://en.wikipedia.org/wiki/22_(number)\n\nphoto 23 = twenty-three\n  afewchars = 23\n  level     = 5\n  say       = 23\n  wiki      = https://en.wikipedia.org/wiki/23_(number)\n\nphoto 24 = twenty-four\n  afewchars = 24\n  level     = 5\n  say       = 24\n  wiki      = https://en.wikipedia.org/wiki/24_(number)\n\nphoto 25 = twenty-five\n  afewchars = 25\n  level     = 5\n  say       = 25\n  wiki      = https://en.wikipedia.org/wiki/25_(number)\n\nphoto 26 = twenty-six\n  afewchars = 26\n  level     = 5\n  say       = 26\n  wiki      = https://en.wikipedia.org/wiki/26_(number)\n\nphoto 27 = twenty-seven\n  afewchars = 27\n  level     = 5\n  say       = 27\n  wiki      = https://en.wikipedia.org/wiki/27_(number)\n\nphoto 28 = twenty-eight\n  afewchars = 28\n  level     = 5\n  say       = 28\n  wiki      = https://en.wikipedia.org/wiki/28_(number)\n\nphoto 29 = twenty-nine\n  afewchars = 29\n  level     = 5\n  say       = 29\n  wiki      = https://en.wikipedia.org/wiki/29_(number)\n\nphoto 30 = thirty\n  afewchars = 30\n  level     = 3\n  say       = 30\n  wiki      = https://en.wikipedia.org/wiki/30_(number)\n\nphoto 31 = thirty-one\n  afewchars = 31\n  level     = 6\n  say       = 31\n  wiki      = https://en.wikipedia.org/wiki/31_(number)\n\nphoto 32 = thirty-two\n  afewchars = 32\n  level     = 6\n  say       = 32\n  wiki      = https://en.wikipedia.org/wiki/32_(number)\n\nphoto 33 = thirty-three\n  afewchars = 33\n  level     = 4\n  say       = 33\n  wiki      = https://en.wikipedia.org/wiki/33_(number)\n\nphoto 34 = thirty-four\n  afewchars = 34\n  level     = 6\n  say       = 34\n  wiki      = https://en.wikipedia.org/wiki/34_(number)\n\nphoto 35 = thirty-five\n  afewchars = 35\n  level     = 6\n  say       = 35\n  wiki      = https://en.wikipedia.org/wiki/35_(number)\n\nphoto 36 = thirty-six\n  afewchars = 36\n  level     = 6\n  say       = 36\n  wiki      = https://en.wikipedia.org/wiki/36_(number)\n\nphoto 37 = thirty-seven\n  afewchars = 37\n  level     = 6\n  say       = 37\n  wiki      = https://en.wikipedia.org/wiki/37_(number)\n\nphoto 38 = thirty-eight\n  afewchars = 38\n  level     = 6\n  say       = 38\n  wiki      = https://en.wikipedia.org/wiki/38_(number)\n\nphoto 39 = thirty-nine\n  afewchars = 39\n  level     = 6\n  say       = 39\n  wiki      = https://en.wikipedia.org/wiki/39_(number)\n\nphoto 40 = forty\n  afewchars = 40\n  level     = 3\n  say       = 40\n  wiki      = https://en.wikipedia.org/wiki/40_(number)\n\nphoto 41 = forty-one\n  afewchars = 41\n  level     = 7\n  say       = 41\n  wiki      = https://en.wikipedia.org/wiki/41_(number)\n\nphoto 42 = forty-two\n  afewchars = 42\n  level     = 7\n  say       = 42\n  wiki      = https://en.wikipedia.org/wiki/42_(number)\n\nphoto 43 = forty-three\n  afewchars = 43\n  level     = 7\n  say       = 43\n  wiki      = https://en.wikipedia.org/wiki/43_(number)\n\nphoto 44 = forty-four\n  afewchars = 44\n  level     = 4\n  say       = 44\n  wiki      = https://en.wikipedia.org/wiki/44_(number)\n\nphoto 45 = forty-five\n  afewchars = 45\n  level     = 7\n  say       = 45\n  wiki      = https://en.wikipedia.org/wiki/45_(number)\n\nphoto 46 = forty-six\n  afewchars = 46\n  level     = 7\n  say       = 46\n  wiki      = https://en.wikipedia.org/wiki/46_(number)\n\nphoto 47 = forty-seven\n  afewchars = 47\n  level     = 7\n  say       = 47\n  wiki      = https://en.wikipedia.org/wiki/47_(number)\n\nphoto 48 = forty-eight\n  afewchars = 48\n  level     = 7\n  say       = 48\n  wiki      = https://en.wikipedia.org/wiki/48_(number)\n\nphoto 49 = forty-nine\n  afewchars = 49\n  level     = 7\n  say       = 49\n  wiki      = https://en.wikipedia.org/wiki/49_(number)\n\nphoto 50 = fifty\n  afewchars = 50\n  level     = 3\n  say       = 50\n  wiki      = https://en.wikipedia.org/wiki/50_(number)\n\nphoto 51 = fifty-one\n  afewchars = 51\n  level     = 8\n  say       = 51\n  wiki      = https://en.wikipedia.org/wiki/51_(number)\n\nphoto 52 = fifty-two\n  afewchars = 52\n  level     = 8\n  say       = 52\n  wiki      = https://en.wikipedia.org/wiki/52_(number)\n\nphoto 53 = fifty-three\n  afewchars = 53\n  level     = 8\n  say       = 53\n  wiki      = https://en.wikipedia.org/wiki/53_(number)\n\nphoto 54 = fifty-four\n  afewchars = 54\n  level     = 8\n  say       = 54\n  wiki      = https://en.wikipedia.org/wiki/54_(number)\n\nphoto 55 = fifty-five\n  afewchars = 55\n  level     = 4\n  say       = 55\n  wiki      = https://en.wikipedia.org/wiki/55_(number)\n\nphoto 56 = fifty-six\n  afewchars = 56\n  level     = 8\n  say       = 56\n  wiki      = https://en.wikipedia.org/wiki/56_(number)\n\nphoto 57 = fifty-seven\n  afewchars = 57\n  level     = 8\n  say       = 57\n  wiki      = https://en.wikipedia.org/wiki/57_(number)\n\nphoto 58 = fifty-eight\n  afewchars = 58\n  level     = 8\n  say       = 58\n  wiki      = https://en.wikipedia.org/wiki/58_(number)\n\nphoto 59 = fifty-nine\n  afewchars = 59\n  level     = 8\n  say       = 59\n  wiki      = https://en.wikipedia.org/wiki/59_(number)\n\nphoto 60 = sixty\n  afewchars = 60\n  level     = 3\n  say       = 60\n  wiki      = https://en.wikipedia.org/wiki/60_(number)\n\nphoto 61 = sixty-one\n  afewchars = 61\n  level     = 9\n  say       = 61\n  wiki      = https://en.wikipedia.org/wiki/61_(number)\n\nphoto 62 = sixty-two\n  afewchars = 62\n  level     = 9\n  say       = 62\n  wiki      = https://en.wikipedia.org/wiki/62_(number)\n\nphoto 63 = sixty-three\n  afewchars = 63\n  level     = 9\n  say       = 63\n  wiki      = https://en.wikipedia.org/wiki/63_(number)\n\nphoto 64 = sixty-four\n  afewchars = 64\n  level     = 9\n  say       = 64\n  wiki      = https://en.wikipedia.org/wiki/64_(number)\n\nphoto 65 = sixty-five\n  afewchars = 65\n  level     = 9\n  say       = 65\n  wiki      = https://en.wikipedia.org/wiki/65_(number)\n\nphoto 66 = sixty-six\n  afewchars = 66\n  level     = 4\n  say       = 66\n  wiki      = https://en.wikipedia.org/wiki/66_(number)\n\nphoto 67 = sixty-seven\n  afewchars = 67\n  level     = 9\n  say       = 67\n  wiki      = https://en.wikipedia.org/wiki/67_(number)\n\nphoto 68 = sixty-eight\n  afewchars = 68\n  level     = 9\n  say       = 68\n  wiki      = https://en.wikipedia.org/wiki/68_(number)\n\nphoto 69 = sixty-nine\n  afewchars = 69\n  level     = 9\n  say       = 69\n  wiki      = https://en.wikipedia.org/wiki/69_(number)\n\nphoto 70 = seventy\n  afewchars = 70\n  level     = 3\n  say       = 70\n  wiki      = https://en.wikipedia.org/wiki/70_(number)\n\nphoto 71 = seventy-one\n  afewchars = 71\n  level     = 9\n  say       = 71\n  wiki      = https://en.wikipedia.org/wiki/71_(number)\n\nphoto 72 = seventy-two\n  afewchars = 72\n  level     = 9\n  say       = 72\n  wiki      = https://en.wikipedia.org/wiki/72_(number)\n\nphoto 73 = seventy-three\n  afewchars = 73\n  level     = 9\n  say       = 73\n  wiki      = https://en.wikipedia.org/wiki/73_(number)\n\nphoto 74 = seventy-four\n  afewchars = 74\n  level     = 9\n  say       = 74\n  wiki      = https://en.wikipedia.org/wiki/74_(number)\n\nphoto 75 = seventy-five\n  afewchars = 75\n  level     = 9\n  say       = 75\n  wiki      = https://en.wikipedia.org/wiki/75_(number)\n\nphoto 76 = seventy-six\n  afewchars = 76\n  level     = 9\n  say       = 76\n  wiki      = https://en.wikipedia.org/wiki/76_(number)\n\nphoto 77 = seventy-seven\n  afewchars = 77\n  level     = 4\n  say       = 77\n  wiki      = https://en.wikipedia.org/wiki/77_(number)\n\nphoto 78 = seventy-eight\n  afewchars = 78\n  level     = 9\n  say       = 78\n  wiki      = https://en.wikipedia.org/wiki/78_(number)\n\nphoto 79 = seventy-nine\n  afewchars = 79\n  level     = 9\n  say       = 79\n  wiki      = https://en.wikipedia.org/wiki/79_(number)\n\nphoto 80 = eighty\n  afewchars = 80\n  level     = 3\n  say       = 80\n  wiki      = https://en.wikipedia.org/wiki/80_(number)\n\nphoto 81 = eighty-one\n  afewchars = 81\n  level     = 10\n  say       = 81\n  wiki      = https://en.wikipedia.org/wiki/81_(number)\n\nphoto 82 = eighty-two\n  afewchars = 82\n  level     = 10\n  say       = 82\n  wiki      = https://en.wikipedia.org/wiki/82_(number)\n\nphoto 83 = eighty-three\n  afewchars = 83\n  level     = 10\n  say       = 83\n  wiki      = https://en.wikipedia.org/wiki/83_(number)\n\nphoto 84 = eighty-four\n  afewchars = 84\n  level     = 10\n  say       = 84\n  wiki      = https://en.wikipedia.org/wiki/84_(number)\n\nphoto 85 = eighty-five\n  afewchars = 85\n  level     = 10\n  say       = 85\n  wiki      = https://en.wikipedia.org/wiki/85_(number)\n\nphoto 86 = eighty-six\n  afewchars = 86\n  level     = 10\n  say       = 86\n  wiki      = https://en.wikipedia.org/wiki/86_(number)\n\nphoto 87 = eighty-seven\n  afewchars = 87\n  level     = 10\n  say       = 87\n  wiki      = https://en.wikipedia.org/wiki/87_(number)\n\nphoto 88 = eighty-eight\n  afewchars = 88\n  level     = 4\n  say       = 88\n  wiki      = https://en.wikipedia.org/wiki/88_(number)\n\nphoto 89 = eighty-nine\n  afewchars = 89\n  level     = 10\n  say       = 89\n  wiki      = https://en.wikipedia.org/wiki/89_(number)\n\nphoto 90 = ninety\n  afewchars = 90\n  level     = 3\n  say       = 90\n  wiki      = https://en.wikipedia.org/wiki/90_(number)\n\nphoto 91 = ninety-one\n  afewchars = 91\n  level     = 10\n  say       = 91\n  wiki      = https://en.wikipedia.org/wiki/91_(number)\n\nphoto 92 = ninety-two\n  afewchars = 92\n  level     = 10\n  say       = 92\n  wiki      = https://en.wikipedia.org/wiki/92_(number)\n\nphoto 93 = ninety-three\n  afewchars = 93\n  level     = 10\n  say       = 93\n  wiki      = https://en.wikipedia.org/wiki/93_(number)\n\nphoto 94 = ninety-four\n  afewchars = 94\n  level     = 10\n  say       = 94\n  wiki      = https://en.wikipedia.org/wiki/94_(number)\n\nphoto 95 = ninety-five\n  afewchars = 95\n  level     = 10\n  say       = 95\n  wiki      = https://en.wikipedia.org/wiki/95_(number)\n\nphoto 96 = ninety-six\n  afewchars = 96\n  level     = 10\n  say       = 96\n  wiki      = https://en.wikipedia.org/wiki/96_(number)\n\nphoto 97 = ninety-seven\n  afewchars = 97\n  level     = 10\n  say       = 97\n  wiki      = https://en.wikipedia.org/wiki/97_(number)\n\nphoto 98 = ninety-eight\n  afewchars = 98\n  level     = 10\n  say       = 98\n  wiki      = https://en.wikipedia.org/wiki/98_(number)\n\nphoto 99 = ninety-nine\n  afewchars = 99\n  level     = 4\n  say       = 99\n  wiki      = https://en.wikipedia.org/wiki/99_(number)\n\nphoto 100 = one hundred\n  afewchars = 100\n  level     = 3\n  say       = 100\n  wiki      = https://en.wikipedia.org/wiki/100_(number)\n",
     sourceFileSha => "dbba7fd2640a2abc9ab74a5535378ea94af461b7",
-    step          => "compileApp",
+    step          => "completed",
   }, "Manifest");
   $a->{parsedCmds}[0] = $a->{app};
   $a;
