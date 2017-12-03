@@ -1,21 +1,20 @@
 SUCCESS!
 
-2017-12-03 at 21:20:24 Generate AppaAppsPhotoApp version 20171202-3 philiprbrenan/100/de/100
+2017-12-03 at 22:18:52 Generate AppaAppsPhotoApp version 20171203-1 philiprbrenan/100/de/100
 
-2017-12-03 at 21:20:26 Step: parseSource
-2017-12-03 at 21:20:26 <b>Good source file!</b>
-2017-12-03 at 21:20:26 Step: loadAssets
-2017-12-03 at 21:28:12 606 new, 0 reused audio files
-2017-12-03 at 21:28:12 Step: multiplyPhotosByFacts
-2017-12-03 at 21:28:12 Step: genJavaManifest
-2017-12-03 at 21:28:12 Step: genJsonManifest
-2017-12-03 at 21:28:12 Step: genGameHtml
-2017-12-03 at 21:28:12 Step: genHtmlAssets
-2017-12-03 at 21:28:12 Step: zipAssets
-2017-12-03 at 21:28:12 Step: compileApp
-2017-12-03 at 21:28:21 Step: copyLinksToGitHub
-2017-12-03 at 21:28:22 Step: copyFilesIntoPositionOnWebServer
-2017-12-03 at 21:53:46 Compilation already done
+2017-12-03 at 22:18:54 Step: parseSource
+2017-12-03 at 22:18:54 <b>Good source file!</b>
+2017-12-03 at 22:18:54 Step: loadAssets
+2017-12-03 at 22:18:54 0 new, 606 reused audio files
+2017-12-03 at 22:18:54 Step: multiplyPhotosByFacts
+2017-12-03 at 22:18:54 Step: genJavaManifest
+2017-12-03 at 22:18:54 Step: genJsonManifest
+2017-12-03 at 22:18:54 Step: genGameHtml
+2017-12-03 at 22:18:54 Step: genHtmlAssets
+2017-12-03 at 22:18:54 Step: zipAssets
+2017-12-03 at 22:18:54 Step: compileApp
+2017-12-03 at 22:19:03 Step: copyLinksToGitHub
+2017-12-03 at 22:19:04 Step: copyFilesIntoPositionOnWebServer
 --------------------------------------------------------------------------------
 do {
   my $a = bless({
@@ -35,13 +34,13 @@ do {
                        log           => [
                                           "",
                                           "",
-                                          "libpng error: Read Error\nlibpng error: Read Error\nCrunching PNG Files in source dir: /tmp/AppaAppsPhotoApp/build/res/\nTo destination dir: /tmp/AppaAppsPhotoApp/build/bin//tmp/AppaAppsPhotoApp/build/res",
+                                          "Crunching PNG Files in source dir: /tmp/AppaAppsPhotoApp/build/res/\nTo destination dir: /tmp/AppaAppsPhotoApp/build/bin//tmp/AppaAppsPhotoApp/build/res",
                                           "",
                                           "Enter Passphrase for keystore: jar signed.\n\nWarning: \nNo -tsa or -tsacert is provided and this jar is not timestamped. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2044-09-10) or after any future revocation date.",
                                           "",
                                         ],
                        package       => "com.appaapps.photoapp.de100",
-                       parameters    => "1512336492,philiprbrenan,100,de/100,http://www.appaapps.com/users/philiprbrenan/100/de/100/zip/philiprbrenan100de100.zip,The Numbers from 0 to 100 in German",
+                       parameters    => "1512339534,philiprbrenan,100,de/100,http://www.appaapps.com/users/philiprbrenan/100/de/100/zip/philiprbrenan100de100.zip,The Numbers from 0 to 100 in German",
                        permissions   => ["INTERNET", "ACCESS_NETWORK_STATE", "WRITE_EXTERNAL_STORAGE"],
                        platform      => "/home/phil/Android/sdk/platforms/android-25/",
                        platformTools => "/home/phil/Android/sdk/platform-tools/",
@@ -98,21 +97,20 @@ do {
     error         => 0,
     iconFile      => "/home/phil/audioImageCache/images/icon.png",
     log           => [
-                       "\n2017-12-03 at 21:20:24 Generate AppaAppsPhotoApp version 20171202-3 philiprbrenan/100/de/100\n",
-                       "2017-12-03 at 21:20:26 Step: parseSource",
-                       "2017-12-03 at 21:20:26 <b>Good source file!</b>",
-                       "2017-12-03 at 21:20:26 Step: loadAssets",
-                       "2017-12-03 at 21:28:12 606 new, 0 reused audio files",
-                       "2017-12-03 at 21:28:12 Step: multiplyPhotosByFacts",
-                       "2017-12-03 at 21:28:12 Step: genJavaManifest",
-                       "2017-12-03 at 21:28:12 Step: genJsonManifest",
-                       "2017-12-03 at 21:28:12 Step: genGameHtml",
-                       "2017-12-03 at 21:28:12 Step: genHtmlAssets",
-                       "2017-12-03 at 21:28:12 Step: zipAssets",
-                       "2017-12-03 at 21:28:12 Step: compileApp",
-                       "2017-12-03 at 21:28:21 Step: copyLinksToGitHub",
-                       "2017-12-03 at 21:28:22 Step: copyFilesIntoPositionOnWebServer",
-                       "2017-12-03 at 21:53:46 Compilation already done",
+                       "\n2017-12-03 at 22:18:52 Generate AppaAppsPhotoApp version 20171203-1 philiprbrenan/100/de/100\n",
+                       "2017-12-03 at 22:18:54 Step: parseSource",
+                       "2017-12-03 at 22:18:54 <b>Good source file!</b>",
+                       "2017-12-03 at 22:18:54 Step: loadAssets",
+                       "2017-12-03 at 22:18:54 0 new, 606 reused audio files",
+                       "2017-12-03 at 22:18:54 Step: multiplyPhotosByFacts",
+                       "2017-12-03 at 22:18:54 Step: genJavaManifest",
+                       "2017-12-03 at 22:18:54 Step: genJsonManifest",
+                       "2017-12-03 at 22:18:54 Step: genGameHtml",
+                       "2017-12-03 at 22:18:54 Step: genHtmlAssets",
+                       "2017-12-03 at 22:18:54 Step: zipAssets",
+                       "2017-12-03 at 22:18:54 Step: compileApp",
+                       "2017-12-03 at 22:19:03 Step: copyLinksToGitHub",
+                       "2017-12-03 at 22:19:04 Step: copyFilesIntoPositionOnWebServer",
                      ],
     parsedCmds    => [
                        'fix',
