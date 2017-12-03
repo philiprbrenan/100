@@ -1,21 +1,20 @@
 SUCCESS!
 
-2017-12-03 at 23:22:06 Generate AppaAppsPhotoApp version 20171203-4 philiprbrenan/100/fr/100
+2017-12-03 at 23:33:41 Generate AppaAppsPhotoApp version 20171203-5 philiprbrenan/100/fr/100
 
-2017-12-03 at 23:22:08 Step: parseSource
-2017-12-03 at 23:22:08 <b>Good source file!</b>
-2017-12-03 at 23:22:08 Step: loadAssets
-2017-12-03 at 23:22:09 0 new, 606 reused audio files
-2017-12-03 at 23:22:09 Step: multiplyPhotosByFacts
-2017-12-03 at 23:22:09 Step: genJavaManifest
-2017-12-03 at 23:22:09 Step: genJsonManifest
-2017-12-03 at 23:22:09 Step: genGameHtml
-2017-12-03 at 23:22:09 Step: genHtmlAssets
-2017-12-03 at 23:22:09 Step: zipAssets
-2017-12-03 at 23:22:09 Step: compileApp
-2017-12-03 at 23:22:16 Step: copyLinksToGitHub
-2017-12-03 at 23:22:18 Step: copyFilesIntoPositionOnWebServer
-2017-12-03 at 23:33:00 Compilation already done
+2017-12-03 at 23:33:42 Step: parseSource
+2017-12-03 at 23:33:42 <b>Good source file!</b>
+2017-12-03 at 23:33:42 Step: loadAssets
+2017-12-03 at 23:33:43 0 new, 606 reused audio files
+2017-12-03 at 23:33:43 Step: multiplyPhotosByFacts
+2017-12-03 at 23:33:43 Step: genJavaManifest
+2017-12-03 at 23:33:43 Step: genJsonManifest
+2017-12-03 at 23:33:43 Step: genGameHtml
+2017-12-03 at 23:33:43 Step: genHtmlAssets
+2017-12-03 at 23:33:43 Step: zipAssets
+2017-12-03 at 23:33:43 Step: compileApp
+2017-12-03 at 23:33:52 Step: copyLinksToGitHub
+2017-12-03 at 23:33:53 Step: copyFilesIntoPositionOnWebServer
 --------------------------------------------------------------------------------
 do {
   my $a = bless({
@@ -26,7 +25,7 @@ do {
                        buildTools    => "/home/phil/Android/sdk/build-tools/25.0.3/",
                        debug         => 0,
                        device        => "-s emulator-5554",
-                       home          => "/",
+                       home          => "/root/",
                        icon          => "/home/phil/audioImageCache/images/icon.png",
                        keyAlias      => "genApp",
                        keyStoreFile  => "/home/phil/AppaAppsPhotoApp/keys/genApp.keystore",
@@ -41,7 +40,7 @@ do {
                                           "",
                                         ],
                        package       => "com.appaapps.photoapp.fr100",
-                       parameters    => "1512343329,philiprbrenan,100,fr/100,http://www.appaapps.com/users/philiprbrenan/100/fr/100/zip/philiprbrenan100fr100.zip,The Numbers from 0 to 100 in French",
+                       parameters    => "1512344023,philiprbrenan,100,fr/100,http://www.appaapps.com/users/philiprbrenan/100/fr/100/zip/philiprbrenan100fr100.zip,The Numbers from 0 to 100 in French",
                        permissions   => ["INTERNET", "ACCESS_NETWORK_STATE", "WRITE_EXTERNAL_STORAGE"],
                        platform      => "/home/phil/Android/sdk/platforms/android-25/",
                        platformTools => "/home/phil/Android/sdk/platform-tools/",
@@ -98,21 +97,20 @@ do {
     error         => 0,
     iconFile      => "/home/phil/audioImageCache/images/icon.png",
     log           => [
-                       "\n2017-12-03 at 23:22:06 Generate AppaAppsPhotoApp version 20171203-4 philiprbrenan/100/fr/100\n",
-                       "2017-12-03 at 23:22:08 Step: parseSource",
-                       "2017-12-03 at 23:22:08 <b>Good source file!</b>",
-                       "2017-12-03 at 23:22:08 Step: loadAssets",
-                       "2017-12-03 at 23:22:09 0 new, 606 reused audio files",
-                       "2017-12-03 at 23:22:09 Step: multiplyPhotosByFacts",
-                       "2017-12-03 at 23:22:09 Step: genJavaManifest",
-                       "2017-12-03 at 23:22:09 Step: genJsonManifest",
-                       "2017-12-03 at 23:22:09 Step: genGameHtml",
-                       "2017-12-03 at 23:22:09 Step: genHtmlAssets",
-                       "2017-12-03 at 23:22:09 Step: zipAssets",
-                       "2017-12-03 at 23:22:09 Step: compileApp",
-                       "2017-12-03 at 23:22:16 Step: copyLinksToGitHub",
-                       "2017-12-03 at 23:22:18 Step: copyFilesIntoPositionOnWebServer",
-                       "2017-12-03 at 23:33:00 Compilation already done",
+                       "\n2017-12-03 at 23:33:41 Generate AppaAppsPhotoApp version 20171203-5 philiprbrenan/100/fr/100\n",
+                       "2017-12-03 at 23:33:42 Step: parseSource",
+                       "2017-12-03 at 23:33:42 <b>Good source file!</b>",
+                       "2017-12-03 at 23:33:42 Step: loadAssets",
+                       "2017-12-03 at 23:33:43 0 new, 606 reused audio files",
+                       "2017-12-03 at 23:33:43 Step: multiplyPhotosByFacts",
+                       "2017-12-03 at 23:33:43 Step: genJavaManifest",
+                       "2017-12-03 at 23:33:43 Step: genJsonManifest",
+                       "2017-12-03 at 23:33:43 Step: genGameHtml",
+                       "2017-12-03 at 23:33:43 Step: genHtmlAssets",
+                       "2017-12-03 at 23:33:43 Step: zipAssets",
+                       "2017-12-03 at 23:33:43 Step: compileApp",
+                       "2017-12-03 at 23:33:52 Step: copyLinksToGitHub",
+                       "2017-12-03 at 23:33:53 Step: copyFilesIntoPositionOnWebServer",
                      ],
     parsedCmds    => [
                        'fix',
