@@ -9,7 +9,7 @@ app 100.ja.100 = The Numbers from 0 to 100 in Japanese
 #  prerequisites = philiprbrenan/100/ja/9 philiprbrenan/100/ja/10x10
 #  enables       = 
   full_name_on_google_play = com.appaapps.photoapp.ja100                    # The original names of these apps when they were all inspearate repositories on Github instead of just one as they are now
-  version       = 2017-12-04 at 00:29:04
+  version       = 2017-12-05 at 06:38:15
 
 
 photo 0 = rei
