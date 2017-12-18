@@ -1,4 +1,4 @@
-app 100.en.100 = The Numbers from 0 to 100 in English
+app 100         = The Numbers from 0 to 100 in English
   description   = Learn to recognize and say the numbers from 0 to 100 in spoken English
   icon          = icon.png
   ordered       = finally
@@ -8,8 +8,8 @@ app 100.en.100 = The Numbers from 0 to 100 in English
   language      = en
 #  prerequisites = philiprbrenan/100/en/9 philiprbrenan/100/en/10x10
 #  enables       = 
-  full_name_on_google_play = com.appaapps.photoapp.en100                    # The original names of these apps when they were all inspearate repositories on Github instead of just one as they are now
-  version       = 2017-12-05 at 06:37:58
+  full_name_on_google_play = com.appaapps.photoapp.en100   
+  version       = 2017-12-18
 
 
 photo 0 = zero
