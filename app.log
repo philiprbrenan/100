@@ -1,20 +1,20 @@
 SUCCESS!
 
-2017-12-18 at 11:03:37 Generate AppaAppsPhotoApp version 20171205-1 philiprbrenan/100
+2017-12-18 at 11:10:37 Generate AppaAppsPhotoApp version 20171205-1 philiprbrenan/100
 
-2017-12-18 at 11:03:38 Step: parseSource
-2017-12-18 at 11:03:38 <b>Good source file!</b>
-2017-12-18 at 11:03:38 Step: loadAssets
-2017-12-18 at 11:03:38 0 new, 192 reused audio files
-2017-12-18 at 11:03:38 Step: multiplyPhotosByFacts
-2017-12-18 at 11:03:38 Step: genJavaManifest
-2017-12-18 at 11:03:38 Step: genJsonManifest
-2017-12-18 at 11:03:38 Step: genGameHtml
-2017-12-18 at 11:03:38 Step: genHtmlAssets
-2017-12-18 at 11:03:38 Step: zipAssets
-2017-12-18 at 11:03:38 Step: compileApp
-2017-12-18 at 11:03:48 Step: copyLinksToGitHub
-2017-12-18 at 11:03:50 Step: copyFilesIntoPositionOnWebServer
+2017-12-18 at 11:10:40 Step: parseSource
+2017-12-18 at 11:10:40 <b>Good source file!</b>
+2017-12-18 at 11:10:40 Step: loadAssets
+2017-12-18 at 11:10:40 0 new, 96 reused audio files
+2017-12-18 at 11:10:40 Step: multiplyPhotosByFacts
+2017-12-18 at 11:10:40 Step: genJavaManifest
+2017-12-18 at 11:10:40 Step: genJsonManifest
+2017-12-18 at 11:10:40 Step: genGameHtml
+2017-12-18 at 11:10:40 Step: genHtmlAssets
+2017-12-18 at 11:10:40 Step: zipAssets
+2017-12-18 at 11:10:40 Step: compileApp
+2017-12-18 at 11:10:44 Step: copyLinksToGitHub
+2017-12-18 at 11:10:47 Step: copyFilesIntoPositionOnWebServer
 --------------------------------------------------------------------------------
 do {
   my $a = bless({
@@ -22,10 +22,10 @@ do {
                        action        => "run",
                        activity      => "Activity",
                        buildFolder   => "/tmp/AppaAppsPhotoApp/build/",
-                       buildTools    => "/home/phil/Android/sdk/build-tools/25.0.3/",
+                       buildTools    => "/home/phil/Android/sdk/build-tools/25.0.2/",
                        debug         => 0,
                        device        => "-s emulator-5554",
-                       home          => "/",
+                       home          => "/home/phil/AppaAppsPhotoApp/",
                        icon          => "/home/phil/audioImageCache/images/icon.png",
                        keyAlias      => "genApp",
                        keyStoreFile  => "/home/phil/AppaAppsPhotoApp/keys/genApp.keystore",
@@ -40,7 +40,7 @@ do {
                                           "",
                                         ],
                        package       => "com.appaapps.photoapp.en100",
-                       parameters    => "1513595018,philiprbrenan,100,,http://www.appaapps.com/users/philiprbrenan/100/zip/philiprbrenan100.zip,The Numbers from 0 to 100 in English",
+                       parameters    => "1513595440,philiprbrenan,100,,http://www.appaapps.com,The Numbers from 0 to 100 in English",
                        permissions   => ["INTERNET", "ACCESS_NETWORK_STATE", "WRITE_EXTERNAL_STORAGE"],
                        platform      => "/home/phil/Android/sdk/platforms/android-25/",
                        platformTools => "/home/phil/Android/sdk/platform-tools/",
@@ -60,6 +60,7 @@ do {
                                           "/home/phil/java/sound/Midi.java",
                                           "/home/phil/java/sound/Speech.java",
                                           "/home/phil/java/svg/Svg.java",
+                                          "/home/phil/java/translations/Translations.java",
                                           "/home/phil/java/unpackappdescription/Unpackappdescription.java",
                                           "/home/phil/java/upload/UploadStream.java",
                                           "/home/phil/java/upload/GitHubUploadStream.java",
@@ -71,6 +72,7 @@ do {
                      }, "Android::Build"),
     app           => bless({
                        cmd => "app",
+                       defaulted => { rightInARow => 1 },
                        end => 12,
                        index => 0,
                        name => 100,
@@ -79,10 +81,11 @@ do {
                          cmd                  => "app",
                          description          => "Learn to recognize and say the numbers from 0 to 100 in spoken English",
                          email                => "philiprbrenan\@gmail.com",
+                         emphasis             => undef,
                          fullNameOnGooglePlay => "com.appaapps.photoapp.en100",
                          icon                 => "icon.png",
                          language             => "en",
-                         maximages            => 12,
+                         maxImages            => 12,
                          name                 => 100,
                          ordered              => "finally",
                          rightInARow          => 7,
@@ -97,30 +100,31 @@ do {
     error         => 0,
     iconFile      => "/home/phil/audioImageCache/images/icon.png",
     log           => [
-                       "\n2017-12-18 at 11:03:37 Generate AppaAppsPhotoApp version 20171205-1 philiprbrenan/100\n",
-                       "2017-12-18 at 11:03:38 Step: parseSource",
-                       "2017-12-18 at 11:03:38 <b>Good source file!</b>",
-                       "2017-12-18 at 11:03:38 Step: loadAssets",
-                       "2017-12-18 at 11:03:38 0 new, 192 reused audio files",
-                       "2017-12-18 at 11:03:38 Step: multiplyPhotosByFacts",
-                       "2017-12-18 at 11:03:38 Step: genJavaManifest",
-                       "2017-12-18 at 11:03:38 Step: genJsonManifest",
-                       "2017-12-18 at 11:03:38 Step: genGameHtml",
-                       "2017-12-18 at 11:03:38 Step: genHtmlAssets",
-                       "2017-12-18 at 11:03:38 Step: zipAssets",
-                       "2017-12-18 at 11:03:38 Step: compileApp",
-                       "2017-12-18 at 11:03:48 Step: copyLinksToGitHub",
-                       "2017-12-18 at 11:03:50 Step: copyFilesIntoPositionOnWebServer",
+                       "\n2017-12-18 at 11:10:37 Generate AppaAppsPhotoApp version 20171205-1 philiprbrenan/100\n",
+                       "2017-12-18 at 11:10:40 Step: parseSource",
+                       "2017-12-18 at 11:10:40 <b>Good source file!</b>",
+                       "2017-12-18 at 11:10:40 Step: loadAssets",
+                       "2017-12-18 at 11:10:40 0 new, 96 reused audio files",
+                       "2017-12-18 at 11:10:40 Step: multiplyPhotosByFacts",
+                       "2017-12-18 at 11:10:40 Step: genJavaManifest",
+                       "2017-12-18 at 11:10:40 Step: genJsonManifest",
+                       "2017-12-18 at 11:10:40 Step: genGameHtml",
+                       "2017-12-18 at 11:10:40 Step: genHtmlAssets",
+                       "2017-12-18 at 11:10:40 Step: zipAssets",
+                       "2017-12-18 at 11:10:40 Step: compileApp",
+                       "2017-12-18 at 11:10:44 Step: copyLinksToGitHub",
+                       "2017-12-18 at 11:10:47 Step: copyFilesIntoPositionOnWebServer",
                      ],
     parsedCmds    => [
                        'fix',
                        bless({
                          cmd => "photo",
+                         defaulted => { titleFile => 1 },
                          end => 19,
                          index => 0,
                          name => undef,
                          parsedKeys => bless({
-                           afewchars => 0,
+                           aFewChars => 0,
                            cmd => "photo",
                            level => 1,
                            say => 0,
@@ -135,11 +139,12 @@ do {
                        }, "ParsedCmd"),
                        bless({
                          cmd => "photo",
+                         defaulted => { titleFile => 1 },
                          end => 25,
                          index => 1,
                          name => 1,
                          parsedKeys => bless({
-                           afewchars => 1,
+                           aFewChars => 1,
                            cmd => "photo",
                            level => 1,
                            name => 1,
@@ -155,11 +160,12 @@ do {
                        }, "ParsedCmd"),
                        bless({
                          cmd => "photo",
+                         defaulted => { titleFile => 1 },
                          end => 31,
                          index => 2,
                          name => 2,
                          parsedKeys => bless({
-                           afewchars => 2,
+                           aFewChars => 2,
                            cmd => "photo",
                            level => 1,
                            name => 2,
@@ -175,11 +181,12 @@ do {
                        }, "ParsedCmd"),
                        bless({
                          cmd => "photo",
+                         defaulted => { titleFile => 1 },
                          end => 37,
                          index => 3,
                          name => 3,
                          parsedKeys => bless({
-                           afewchars => 3,
+                           aFewChars => 3,
                            cmd => "photo",
                            level => 1,
                            name => 3,
@@ -195,11 +202,12 @@ do {
                        }, "ParsedCmd"),
                        bless({
                          cmd => "photo",
+                         defaulted => { titleFile => 1 },
                          end => 43,
                          index => 4,
                          name => 4,
                          parsedKeys => bless({
-                           afewchars => 4,
+                           aFewChars => 4,
                            cmd => "photo",
                            level => 1,
                            name => 4,
@@ -215,11 +223,12 @@ do {
                        }, "ParsedCmd"),
                        bless({
                          cmd => "photo",
+                         defaulted => { titleFile => 1 },
                          end => 48,
                          index => 5,
                          name => 5,
                          parsedKeys => bless({
-                           afewchars => 5,
+                           aFewChars => 5,
                            cmd => "photo",
                            level => 1,
                            name => 5,
