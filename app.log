@@ -1,20 +1,20 @@
 SUCCESS!
 
-2017-12-18 at 11:10:37 Generate AppaAppsPhotoApp version 20171205-1 philiprbrenan/100
+2017-12-26 at 19:39:44 Generate AppaAppsPhotoApp version 20171226-193944 philiprbrenan/100
 
-2017-12-18 at 11:10:40 Step: parseSource
-2017-12-18 at 11:10:40 <b>Good source file!</b>
-2017-12-18 at 11:10:40 Step: loadAssets
-2017-12-18 at 11:10:40 0 new, 96 reused audio files
-2017-12-18 at 11:10:40 Step: multiplyPhotosByFacts
-2017-12-18 at 11:10:40 Step: genJavaManifest
-2017-12-18 at 11:10:40 Step: genJsonManifest
-2017-12-18 at 11:10:40 Step: genGameHtml
-2017-12-18 at 11:10:40 Step: genHtmlAssets
-2017-12-18 at 11:10:40 Step: zipAssets
-2017-12-18 at 11:10:40 Step: compileApp
-2017-12-18 at 11:10:44 Step: copyLinksToGitHub
-2017-12-18 at 11:10:47 Step: copyFilesIntoPositionOnWebServer
+2017-12-26 at 19:39:46 Step: parseSource
+2017-12-26 at 19:39:46 <b>Good source file!</b>
+2017-12-26 at 19:39:46 Step: loadAssets
+2017-12-26 at 19:39:56 12 new, 0 reused audio files
+2017-12-26 at 19:39:56 Step: multiplyPhotosByFacts
+2017-12-26 at 19:39:56 Step: genJavaManifest
+2017-12-26 at 19:39:56 Step: genJsonManifest
+2017-12-26 at 19:39:56 Step: genGameHtml
+2017-12-26 at 19:39:56 Step: genHtmlAssets
+2017-12-26 at 19:39:56 Step: zipAssets
+2017-12-26 at 19:39:56 Step: compileApp
+2017-12-26 at 19:40:08 Step: copyLinksToGitHub
+2017-12-26 at 19:40:10 Step: copyFilesIntoPositionOnWebServer
 --------------------------------------------------------------------------------
 do {
   my $a = bless({
@@ -22,25 +22,27 @@ do {
                        action        => "run",
                        activity      => "Activity",
                        buildFolder   => "/tmp/AppaAppsPhotoApp/build/",
-                       buildTools    => "/home/phil/Android/sdk/build-tools/25.0.2/",
+                       buildTools    => "/home/phil/Android/sdk/build-tools/25.0.3/",
                        debug         => 0,
                        device        => "-s emulator-5554",
-                       home          => "/home/phil/AppaAppsPhotoApp/",
+                       fastIcons     => undef,
+                       home          => "/root/",
                        icon          => "/home/phil/audioImageCache/images/icon.png",
                        keyAlias      => "genApp",
                        keyStoreFile  => "/home/phil/AppaAppsPhotoApp/keys/genApp.keystore",
                        keyStorePwd   => "genApp",
                        libs          => [],
-                       log           => [
-                                          "",
-                                          "",
-                                          "Crunching PNG Files in source dir: /tmp/AppaAppsPhotoApp/build/res/\nTo destination dir: /tmp/AppaAppsPhotoApp/build/bin//tmp/AppaAppsPhotoApp/build/res",
-                                          "",
-                                          "Enter Passphrase for keystore: jar signed.\n\nWarning: \nNo -tsa or -tsacert is provided and this jar is not timestamped. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2044-09-10) or after any future revocation date.",
-                                          "",
-                                        ],
+                       log           => [],
                        package       => "com.appaapps.photoapp.en100",
-                       parameters    => "1513595440,philiprbrenan,100,,http://www.appaapps.com,The Numbers from 0 to 100 in English",
+                       parameters    => {
+                                          appName  => 100,
+                                          appPath  => "",
+                                          cTime    => 1514317196,
+                                          devMode  => 0,
+                                          download => "http://www.appaapps.com",
+                                          title    => "The Numbers from 0 to 100 in English",
+                                          userid   => "philiprbrenan",
+                                        },
                        permissions   => ["INTERNET", "ACCESS_NETWORK_STATE", "WRITE_EXTERNAL_STORAGE"],
                        platform      => "/home/phil/Android/sdk/platforms/android-25/",
                        platformTools => "/home/phil/Android/sdk/platform-tools/",
@@ -48,6 +50,7 @@ do {
                        src           => [
                                           "/home/phil/java/appState/AppState.java",
                                           "/home/phil/java/choices/Choices.java",
+                                          "/home/phil/java/congratulations/Congratulations.java",
                                           "/home/phil/java/coloursTransformed/ColoursTransformed.java",
                                           "/home/phil/java/download/Download.java",
                                           "/home/phil/java/email/Email.java",
@@ -57,9 +60,11 @@ do {
                                           "/home/phil/java/maths/Maths.java",
                                           "/home/phil/java/randomChoice/RandomChoice.java",
                                           "/home/phil/java/save/Save.java",
+                                          "/home/phil/java/say/Say.java",
                                           "/home/phil/java/sound/Midi.java",
                                           "/home/phil/java/sound/Speech.java",
                                           "/home/phil/java/svg/Svg.java",
+                                          "/home/phil/java/time/Time.java",
                                           "/home/phil/java/translations/Translations.java",
                                           "/home/phil/java/unpackappdescription/Unpackappdescription.java",
                                           "/home/phil/java/upload/UploadStream.java",
@@ -67,13 +72,14 @@ do {
                                           "/home/phil/java/unzip/Unzip.java",
                                         ],
                        title         => "The Numbers from 0 to 100 in English",
+                       titles        => undef,
                        verifyApk     => undef,
-                       version       => 20171218,
+                       version       => 20171227,
                      }, "Android::Build"),
     app           => bless({
                        cmd => "app",
                        defaulted => { rightInARow => 1 },
-                       end => 12,
+                       end => 14,
                        index => 0,
                        name => 100,
                        parsedKeys => bless({
@@ -81,7 +87,7 @@ do {
                          cmd                  => "app",
                          description          => "Learn to recognize and say the numbers from 0 to 100 in spoken English",
                          email                => "philiprbrenan\@gmail.com",
-                         emphasis             => undef,
+                         emphasis             => 15,
                          fullNameOnGooglePlay => "com.appaapps.photoapp.en100",
                          icon                 => "icon.png",
                          language             => "en",
@@ -89,7 +95,8 @@ do {
                          name                 => 100,
                          ordered              => "finally",
                          rightInARow          => 7,
-                         speakers             => "Aditi Amy Brian Emma Geraint Ivy Joanna Joey Justin Kendra Kimberly Matthew Nicole Raveena Russell Salli",
+                         screenShots          => undef,
+                         speakers             => "Amy",
                          title                => "The Numbers from 0 to 100 in English",
                          version              => "2017-12-18",
                        }, "ParsedKeys"),
@@ -100,47 +107,48 @@ do {
     error         => 0,
     iconFile      => "/home/phil/audioImageCache/images/icon.png",
     log           => [
-                       "\n2017-12-18 at 11:10:37 Generate AppaAppsPhotoApp version 20171205-1 philiprbrenan/100\n",
-                       "2017-12-18 at 11:10:40 Step: parseSource",
-                       "2017-12-18 at 11:10:40 <b>Good source file!</b>",
-                       "2017-12-18 at 11:10:40 Step: loadAssets",
-                       "2017-12-18 at 11:10:40 0 new, 96 reused audio files",
-                       "2017-12-18 at 11:10:40 Step: multiplyPhotosByFacts",
-                       "2017-12-18 at 11:10:40 Step: genJavaManifest",
-                       "2017-12-18 at 11:10:40 Step: genJsonManifest",
-                       "2017-12-18 at 11:10:40 Step: genGameHtml",
-                       "2017-12-18 at 11:10:40 Step: genHtmlAssets",
-                       "2017-12-18 at 11:10:40 Step: zipAssets",
-                       "2017-12-18 at 11:10:40 Step: compileApp",
-                       "2017-12-18 at 11:10:44 Step: copyLinksToGitHub",
-                       "2017-12-18 at 11:10:47 Step: copyFilesIntoPositionOnWebServer",
+                       "\n2017-12-26 at 19:39:44 Generate AppaAppsPhotoApp version 20171226-193944 philiprbrenan/100\n",
+                       "2017-12-26 at 19:39:46 Step: parseSource",
+                       "2017-12-26 at 19:39:46 <b>Good source file!</b>",
+                       "2017-12-26 at 19:39:46 Step: loadAssets",
+                       "2017-12-26 at 19:39:56 12 new, 0 reused audio files",
+                       "2017-12-26 at 19:39:56 Step: multiplyPhotosByFacts",
+                       "2017-12-26 at 19:39:56 Step: genJavaManifest",
+                       "2017-12-26 at 19:39:56 Step: genJsonManifest",
+                       "2017-12-26 at 19:39:56 Step: genGameHtml",
+                       "2017-12-26 at 19:39:56 Step: genHtmlAssets",
+                       "2017-12-26 at 19:39:56 Step: zipAssets",
+                       "2017-12-26 at 19:39:56 Step: compileApp",
+                       "2017-12-26 at 19:40:08 Step: copyLinksToGitHub",
+                       "2017-12-26 at 19:40:10 Step: copyFilesIntoPositionOnWebServer",
                      ],
     parsedCmds    => [
                        'fix',
                        bless({
                          cmd => "photo",
                          defaulted => { titleFile => 1 },
-                         end => 19,
+                         end => 21,
                          index => 0,
-                         name => undef,
+                         name => 0,
                          parsedKeys => bless({
                            aFewChars => 0,
                            cmd => "photo",
                            level => 1,
+                           name => 0,
                            say => 0,
                            title => "zero",
                            titleFile => "zero",
                            wiki => "https://en.wikipedia.org/wiki/0_(number)",
                          }, "ParsedKeys"),
                          say => 0,
-                         start => 15,
+                         start => 17,
                          title => "zero",
                          titleFile => "zero",
                        }, "ParsedCmd"),
                        bless({
                          cmd => "photo",
                          defaulted => { titleFile => 1 },
-                         end => 25,
+                         end => 27,
                          index => 1,
                          name => 1,
                          parsedKeys => bless({
@@ -154,14 +162,14 @@ do {
                            wiki => "https://en.wikipedia.org/wiki/1_(number)",
                          }, "ParsedKeys"),
                          say => 1,
-                         start => 21,
+                         start => 23,
                          title => "one",
                          titleFile => "one",
                        }, "ParsedCmd"),
                        bless({
                          cmd => "photo",
                          defaulted => { titleFile => 1 },
-                         end => 31,
+                         end => 33,
                          index => 2,
                          name => 2,
                          parsedKeys => bless({
@@ -175,14 +183,14 @@ do {
                            wiki => "https://en.wikipedia.org/wiki/2_(number)",
                          }, "ParsedKeys"),
                          say => 2,
-                         start => 27,
+                         start => 29,
                          title => "two",
                          titleFile => "two",
                        }, "ParsedCmd"),
                        bless({
                          cmd => "photo",
                          defaulted => { titleFile => 1 },
-                         end => 37,
+                         end => 39,
                          index => 3,
                          name => 3,
                          parsedKeys => bless({
@@ -196,14 +204,14 @@ do {
                            wiki => "https://en.wikipedia.org/wiki/3_(number)",
                          }, "ParsedKeys"),
                          say => 3,
-                         start => 33,
+                         start => 35,
                          title => "three",
                          titleFile => "three",
                        }, "ParsedCmd"),
                        bless({
                          cmd => "photo",
                          defaulted => { titleFile => 1 },
-                         end => 43,
+                         end => 45,
                          index => 4,
                          name => 4,
                          parsedKeys => bless({
@@ -217,14 +225,14 @@ do {
                            wiki => "https://en.wikipedia.org/wiki/4_(number)",
                          }, "ParsedKeys"),
                          say => 4,
-                         start => 39,
+                         start => 41,
                          title => "four",
                          titleFile => "four",
                        }, "ParsedCmd"),
                        bless({
                          cmd => "photo",
                          defaulted => { titleFile => 1 },
-                         end => 48,
+                         end => 50,
                          index => 5,
                          name => 5,
                          parsedKeys => bless({
@@ -237,14 +245,14 @@ do {
                            titleFile => "five",
                          }, "ParsedKeys"),
                          say => 5,
-                         start => 45,
+                         start => 47,
                          title => "five",
                          titleFile => "five",
                        }, "ParsedCmd"),
                      ],
     project       => "philiprbrenan/100",
-    source        => "app 100         = The Numbers from 0 to 100 in English\n  description   = Learn to recognize and say the numbers from 0 to 100 in spoken English\n  icon          = icon.png\n  ordered       = finally\n  maxImages     = 12\n  author        = philiprbrenan\n  email         = philiprbrenan\@gmail.com\n  language      = en\n#  prerequisites = philiprbrenan/100/en/9 philiprbrenan/100/en/10x10\n#  enables       = \n  full_name_on_google_play = com.appaapps.photoapp.en100   \n  version       = 2017-12-18\n\n\nphoto 0 = zero\n  afewchars = 0\n  level     = 1\n  say       = 0\n  wiki      = https://en.wikipedia.org/wiki/0_(number)\n\nphoto 1 = one\n  afewchars = 1\n  level     = 1\n  say       = 1\n  wiki      = https://en.wikipedia.org/wiki/1_(number)\n\nphoto 2 = two\n  afewchars = 2\n  level     = 1\n  say       = 2\n  wiki      = https://en.wikipedia.org/wiki/2_(number)\n\nphoto 3 = three\n  afewchars = 3\n  level     = 1\n  say       = 3\n  wiki      = https://en.wikipedia.org/wiki/3_(number)\n\nphoto 4 = four\n  afewchars = 4\n  level     = 1\n  say       = 4\n  wiki      = https://en.wikipedia.org/wiki/4_(number)\n\nphoto 5 = five\n  afewchars = 5\n  level     = 1\n  say       = 5\n",
-    sourceFileSha => "de7dbc8b808b97bb0e0d20a7938bda8ed80ba63f",
+    source        => "app 100         = The Numbers from 0 to 100 in English\n  description   = Learn to recognize and say the numbers from 0 to 100 in spoken English\n  icon          = icon.png\n  ordered       = finally\n  maxImages     = 12\n  author        = philiprbrenan\n  email         = philiprbrenan\@gmail.com\n  language      = en\n  emphasis = 15\n  speakers = Amy\n#  prerequisites = philiprbrenan/100/en/9 philiprbrenan/100/en/10x10\n#  enables       = \n  full_name_on_google_play = com.appaapps.photoapp.en100   \n  version       = 2017-12-18\n\n\nphoto 0 = zero\n  afewchars = 0\n  level     = 1\n  say       = 0\n  wiki      = https://en.wikipedia.org/wiki/0_(number)\n\nphoto 1 = one\n  afewchars = 1\n  level     = 1\n  say       = 1\n  wiki      = https://en.wikipedia.org/wiki/1_(number)\n\nphoto 2 = two\n  afewchars = 2\n  level     = 1\n  say       = 2\n  wiki      = https://en.wikipedia.org/wiki/2_(number)\n\nphoto 3 = three\n  afewchars = 3\n  level     = 1\n  say       = 3\n  wiki      = https://en.wikipedia.org/wiki/3_(number)\n\nphoto 4 = four\n  afewchars = 4\n  level     = 1\n  say       = 4\n  wiki      = https://en.wikipedia.org/wiki/4_(number)\n\nphoto 5 = five\n  afewchars = 5\n  level     = 1\n  say       = 5\n",
+    sourceFileSha => "ca2761ec0e2e5b562656a3256f5a13f390312dc7",
     step          => "completed",
   }, "Manifest");
   $a->{parsedCmds}[0] = $a->{app};
