@@ -15,6 +15,7 @@ SUCCESS!
 2017-12-28 at 19:09:00 Step: compileApp
 2017-12-28 at 19:09:10 Step: copyLinksToGitHub
 2017-12-28 at 19:09:11 Step: copyFilesIntoPositionOnWebServer
+2017-12-28 at 19:13:42 Compilation already done
 --------------------------------------------------------------------------------
 do {
   my $a = bless({
@@ -122,6 +123,7 @@ do {
       "2017-12-28 at 19:09:00 Step: compileApp",
       "2017-12-28 at 19:09:10 Step: copyLinksToGitHub",
       "2017-12-28 at 19:09:11 Step: copyFilesIntoPositionOnWebServer",
+      "2017-12-28 at 19:13:42 Compilation already done",
     ],
     parsedCmds => [
       'fix',
