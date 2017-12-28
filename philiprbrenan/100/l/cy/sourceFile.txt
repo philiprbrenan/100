@@ -1,4 +1,4 @@
-app 100.cy.100 = The Numbers from 0 to 100 in Welsh
+app 100.l.cy   = The Numbers from 0 to 100 in Welsh
   description   = Learn to recognize and say the Numbers from 0 to 100 in spoken Welsh
   ordered       = finally
   maxImages     = 12
@@ -6,8 +6,8 @@ app 100.cy.100 = The Numbers from 0 to 100 in Welsh
   email         = philiprbrenan@gmail.com
   emphasis      = 3
   language      = cy 
-  full_name_on_google_play = com.appaapps.photoapp.{cy}100                                           # The original names of these apps when they were all inspearate repositories on Github instead of just one as they are now
-  version       = 2017-12-28 at 18:27:26
+  full_name_on_google_play = com.appaapps.photoapp.cy100                                           # The original names of these apps when they were all inspearate repositories on Github instead of just one as they are now
+  version       = 2017-12-28 at 18:28:46
 
 
 photo 0 = dim
