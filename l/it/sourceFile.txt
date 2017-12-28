@@ -1,13 +1,14 @@
 app 100.l.it    = The Numbers from 0 to 100 in Italian
   description   = Learn to recognize and say the Numbers from 0 to 100 in spoken Italian
   ordered       = finally
+  icon          = icon.png
   maxImages     = 12
   author        = philiprbrenan
   email         = philiprbrenan@gmail.com
   emphasis      = 3
   language      = it 
   full_name_on_google_play = com.appaapps.photoapp.it100                                           # The original names of these apps when they were all inspearate repositories on Github instead of just one as they are now
-  version       = 2017-12-28 at 18:44:09
+  version       = 2017-12-28 at 19:06:32
 
 
 photo 0 = zero
