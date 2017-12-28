@@ -7,7 +7,7 @@ app 100.l.da    = The Numbers from 0 to 100 in Danish
   emphasis      = 3
   language      = da 
   full_name_on_google_play = com.appaapps.photoapp.da100                                           # The original names of these apps when they were all inspearate repositories on Github instead of just one as they are now
-  version       = 2017-12-28 at 18:30:11
+  version       = 2017-12-28 at 18:33:47
 
 
 photo 0 = nul
@@ -136,7 +136,7 @@ photo 20 = tyve
   say       = 20
   wiki      = https://en.wikipedia.org/wiki/20_(number)
 
-photo 21 = énogtyve
+photo 21 = Ã©nogtyve
   afewchars = 21
   level     = 5
   say       = 21
@@ -196,7 +196,7 @@ photo 30 = tredive
   say       = 30
   wiki      = https://en.wikipedia.org/wiki/30_(number)
 
-photo 31 = énogtredive
+photo 31 = Ã©nogtredive
   afewchars = 31
   level     = 6
   say       = 31
@@ -256,7 +256,7 @@ photo 40 = fyrre
   say       = 40
   wiki      = https://en.wikipedia.org/wiki/40_(number)
 
-photo 41 = énogfyrre
+photo 41 = Ã©nogfyrre
   afewchars = 41
   level     = 7
   say       = 41
@@ -316,7 +316,7 @@ photo 50 = halvtreds
   say       = 50
   wiki      = https://en.wikipedia.org/wiki/50_(number)
 
-photo 51 = énoghalvtreds
+photo 51 = Ã©noghalvtreds
   afewchars = 51
   level     = 8
   say       = 51
@@ -376,7 +376,7 @@ photo 60 = tres
   say       = 60
   wiki      = https://en.wikipedia.org/wiki/60_(number)
 
-photo 61 = énogtres
+photo 61 = Ã©nogtres
   afewchars = 61
   level     = 9
   say       = 61
@@ -436,7 +436,7 @@ photo 70 = halvfjerds
   say       = 70
   wiki      = https://en.wikipedia.org/wiki/70_(number)
 
-photo 71 = énoghalvfjerds
+photo 71 = Ã©noghalvfjerds
   afewchars = 71
   level     = 9
   say       = 71
@@ -496,7 +496,7 @@ photo 80 = firs
   say       = 80
   wiki      = https://en.wikipedia.org/wiki/80_(number)
 
-photo 81 = énogfirs
+photo 81 = Ã©nogfirs
   afewchars = 81
   level     = 10
   say       = 81
@@ -556,7 +556,7 @@ photo 90 = halvfems
   say       = 90
   wiki      = https://en.wikipedia.org/wiki/90_(number)
 
-photo 91 = énoghalvfems
+photo 91 = Ã©noghalvfems
   afewchars = 91
   level     = 10
   say       = 91
