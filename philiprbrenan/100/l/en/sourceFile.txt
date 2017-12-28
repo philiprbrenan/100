@@ -1,0 +1,618 @@
+app 100.l.en    = The Numbers from 0 to 100 in English
+  description   = Learn to recognize and say the Numbers from 0 to 100 in spoken English
+  ordered       = finally
+  maxImages     = 12
+  author        = philiprbrenan
+  email         = philiprbrenan@gmail.com
+  emphasis      = 3
+  language      = en 
+ speakers = Amy
+  full_name_on_google_play = com.appaapps.photoapp.en100                                           # The original names of these apps when they were all inspearate repositories on Github instead of just one as they are now
+  version       = 2017-12-28 at 18:33:53
+
+
+photo 0 = zero
+  afewchars = 0
+  level     = 1
+  say       = 0
+  wiki      = https://en.wikipedia.org/wiki/0_(number)
+
+photo 1 = one
+  afewchars = 1
+  level     = 1
+  say       = 1
+  wiki      = https://en.wikipedia.org/wiki/1_(number)
+
+photo 2 = two
+  afewchars = 2
+  level     = 1
+  say       = 2
+  wiki      = https://en.wikipedia.org/wiki/2_(number)
+
+photo 3 = three
+  afewchars = 3
+  level     = 1
+  say       = 3
+  wiki      = https://en.wikipedia.org/wiki/3_(number)
+
+photo 4 = four
+  afewchars = 4
+  level     = 1
+  say       = 4
+  wiki      = https://en.wikipedia.org/wiki/4_(number)
+
+photo 5 = five
+  afewchars = 5
+  level     = 1
+  say       = 5
+  wiki      = https://en.wikipedia.org/wiki/5_(number)
+
+photo 6 = six
+  afewchars = 6
+  level     = 1
+  say       = 6
+  wiki      = https://en.wikipedia.org/wiki/6_(number)
+
+photo 7 = seven
+  afewchars = 7
+  level     = 1
+  say       = 7
+  wiki      = https://en.wikipedia.org/wiki/7_(number)
+
+photo 8 = eight
+  afewchars = 8
+  level     = 1
+  say       = 8
+  wiki      = https://en.wikipedia.org/wiki/8_(number)
+
+photo 9 = nine
+  afewchars = 9
+  level     = 1
+  say       = 9
+  wiki      = https://en.wikipedia.org/wiki/9_(number)
+
+photo 10 = ten
+  afewchars = 10
+  level     = 2
+  say       = 10
+  wiki      = https://en.wikipedia.org/wiki/10_(number)
+
+photo 11 = eleven
+  afewchars = 11
+  level     = 2
+  say       = 11
+  wiki      = https://en.wikipedia.org/wiki/11_(number)
+
+photo 12 = twelve
+  afewchars = 12
+  level     = 2
+  say       = 12
+  wiki      = https://en.wikipedia.org/wiki/12_(number)
+
+photo 13 = thirteen
+  afewchars = 13
+  level     = 2
+  say       = 13
+  wiki      = https://en.wikipedia.org/wiki/13_(number)
+
+photo 14 = fourteen
+  afewchars = 14
+  level     = 2
+  say       = 14
+  wiki      = https://en.wikipedia.org/wiki/14_(number)
+
+photo 15 = fifteen
+  afewchars = 15
+  level     = 2
+  say       = 15
+  wiki      = https://en.wikipedia.org/wiki/15_(number)
+
+photo 16 = sixteen
+  afewchars = 16
+  level     = 2
+  say       = 16
+  wiki      = https://en.wikipedia.org/wiki/16_(number)
+
+photo 17 = seventeen
+  afewchars = 17
+  level     = 2
+  say       = 17
+  wiki      = https://en.wikipedia.org/wiki/17_(number)
+
+photo 18 = eighteen
+  afewchars = 18
+  level     = 2
+  say       = 18
+  wiki      = https://en.wikipedia.org/wiki/18_(number)
+
+photo 19 = nineteen
+  afewchars = 19
+  level     = 2
+  say       = 19
+  wiki      = https://en.wikipedia.org/wiki/19_(number)
+
+photo 20 = twenty
+  afewchars = 20
+  level     = 3
+  say       = 20
+  wiki      = https://en.wikipedia.org/wiki/20_(number)
+
+photo 21 = twenty-one
+  afewchars = 21
+  level     = 5
+  say       = 21
+  wiki      = https://en.wikipedia.org/wiki/21_(number)
+
+photo 22 = twenty-two
+  afewchars = 22
+  level     = 4
+  say       = 22
+  wiki      = https://en.wikipedia.org/wiki/22_(number)
+
+photo 23 = twenty-three
+  afewchars = 23
+  level     = 5
+  say       = 23
+  wiki      = https://en.wikipedia.org/wiki/23_(number)
+
+photo 24 = twenty-four
+  afewchars = 24
+  level     = 5
+  say       = 24
+  wiki      = https://en.wikipedia.org/wiki/24_(number)
+
+photo 25 = twenty-five
+  afewchars = 25
+  level     = 5
+  say       = 25
+  wiki      = https://en.wikipedia.org/wiki/25_(number)
+
+photo 26 = twenty-six
+  afewchars = 26
+  level     = 5
+  say       = 26
+  wiki      = https://en.wikipedia.org/wiki/26_(number)
+
+photo 27 = twenty-seven
+  afewchars = 27
+  level     = 5
+  say       = 27
+  wiki      = https://en.wikipedia.org/wiki/27_(number)
+
+photo 28 = twenty-eight
+  afewchars = 28
+  level     = 5
+  say       = 28
+  wiki      = https://en.wikipedia.org/wiki/28_(number)
+
+photo 29 = twenty-nine
+  afewchars = 29
+  level     = 5
+  say       = 29
+  wiki      = https://en.wikipedia.org/wiki/29_(number)
+
+photo 30 = thirty
+  afewchars = 30
+  level     = 3
+  say       = 30
+  wiki      = https://en.wikipedia.org/wiki/30_(number)
+
+photo 31 = thirty-one
+  afewchars = 31
+  level     = 6
+  say       = 31
+  wiki      = https://en.wikipedia.org/wiki/31_(number)
+
+photo 32 = thirty-two
+  afewchars = 32
+  level     = 6
+  say       = 32
+  wiki      = https://en.wikipedia.org/wiki/32_(number)
+
+photo 33 = thirty-three
+  afewchars = 33
+  level     = 4
+  say       = 33
+  wiki      = https://en.wikipedia.org/wiki/33_(number)
+
+photo 34 = thirty-four
+  afewchars = 34
+  level     = 6
+  say       = 34
+  wiki      = https://en.wikipedia.org/wiki/34_(number)
+
+photo 35 = thirty-five
+  afewchars = 35
+  level     = 6
+  say       = 35
+  wiki      = https://en.wikipedia.org/wiki/35_(number)
+
+photo 36 = thirty-six
+  afewchars = 36
+  level     = 6
+  say       = 36
+  wiki      = https://en.wikipedia.org/wiki/36_(number)
+
+photo 37 = thirty-seven
+  afewchars = 37
+  level     = 6
+  say       = 37
+  wiki      = https://en.wikipedia.org/wiki/37_(number)
+
+photo 38 = thirty-eight
+  afewchars = 38
+  level     = 6
+  say       = 38
+  wiki      = https://en.wikipedia.org/wiki/38_(number)
+
+photo 39 = thirty-nine
+  afewchars = 39
+  level     = 6
+  say       = 39
+  wiki      = https://en.wikipedia.org/wiki/39_(number)
+
+photo 40 = forty
+  afewchars = 40
+  level     = 3
+  say       = 40
+  wiki      = https://en.wikipedia.org/wiki/40_(number)
+
+photo 41 = forty-one
+  afewchars = 41
+  level     = 7
+  say       = 41
+  wiki      = https://en.wikipedia.org/wiki/41_(number)
+
+photo 42 = forty-two
+  afewchars = 42
+  level     = 7
+  say       = 42
+  wiki      = https://en.wikipedia.org/wiki/42_(number)
+
+photo 43 = forty-three
+  afewchars = 43
+  level     = 7
+  say       = 43
+  wiki      = https://en.wikipedia.org/wiki/43_(number)
+
+photo 44 = forty-four
+  afewchars = 44
+  level     = 4
+  say       = 44
+  wiki      = https://en.wikipedia.org/wiki/44_(number)
+
+photo 45 = forty-five
+  afewchars = 45
+  level     = 7
+  say       = 45
+  wiki      = https://en.wikipedia.org/wiki/45_(number)
+
+photo 46 = forty-six
+  afewchars = 46
+  level     = 7
+  say       = 46
+  wiki      = https://en.wikipedia.org/wiki/46_(number)
+
+photo 47 = forty-seven
+  afewchars = 47
+  level     = 7
+  say       = 47
+  wiki      = https://en.wikipedia.org/wiki/47_(number)
+
+photo 48 = forty-eight
+  afewchars = 48
+  level     = 7
+  say       = 48
+  wiki      = https://en.wikipedia.org/wiki/48_(number)
+
+photo 49 = forty-nine
+  afewchars = 49
+  level     = 7
+  say       = 49
+  wiki      = https://en.wikipedia.org/wiki/49_(number)
+
+photo 50 = fifty
+  afewchars = 50
+  level     = 3
+  say       = 50
+  wiki      = https://en.wikipedia.org/wiki/50_(number)
+
+photo 51 = fifty-one
+  afewchars = 51
+  level     = 8
+  say       = 51
+  wiki      = https://en.wikipedia.org/wiki/51_(number)
+
+photo 52 = fifty-two
+  afewchars = 52
+  level     = 8
+  say       = 52
+  wiki      = https://en.wikipedia.org/wiki/52_(number)
+
+photo 53 = fifty-three
+  afewchars = 53
+  level     = 8
+  say       = 53
+  wiki      = https://en.wikipedia.org/wiki/53_(number)
+
+photo 54 = fifty-four
+  afewchars = 54
+  level     = 8
+  say       = 54
+  wiki      = https://en.wikipedia.org/wiki/54_(number)
+
+photo 55 = fifty-five
+  afewchars = 55
+  level     = 4
+  say       = 55
+  wiki      = https://en.wikipedia.org/wiki/55_(number)
+
+photo 56 = fifty-six
+  afewchars = 56
+  level     = 8
+  say       = 56
+  wiki      = https://en.wikipedia.org/wiki/56_(number)
+
+photo 57 = fifty-seven
+  afewchars = 57
+  level     = 8
+  say       = 57
+  wiki      = https://en.wikipedia.org/wiki/57_(number)
+
+photo 58 = fifty-eight
+  afewchars = 58
+  level     = 8
+  say       = 58
+  wiki      = https://en.wikipedia.org/wiki/58_(number)
+
+photo 59 = fifty-nine
+  afewchars = 59
+  level     = 8
+  say       = 59
+  wiki      = https://en.wikipedia.org/wiki/59_(number)
+
+photo 60 = sixty
+  afewchars = 60
+  level     = 3
+  say       = 60
+  wiki      = https://en.wikipedia.org/wiki/60_(number)
+
+photo 61 = sixty-one
+  afewchars = 61
+  level     = 9
+  say       = 61
+  wiki      = https://en.wikipedia.org/wiki/61_(number)
+
+photo 62 = sixty-two
+  afewchars = 62
+  level     = 9
+  say       = 62
+  wiki      = https://en.wikipedia.org/wiki/62_(number)
+
+photo 63 = sixty-three
+  afewchars = 63
+  level     = 9
+  say       = 63
+  wiki      = https://en.wikipedia.org/wiki/63_(number)
+
+photo 64 = sixty-four
+  afewchars = 64
+  level     = 9
+  say       = 64
+  wiki      = https://en.wikipedia.org/wiki/64_(number)
+
+photo 65 = sixty-five
+  afewchars = 65
+  level     = 9
+  say       = 65
+  wiki      = https://en.wikipedia.org/wiki/65_(number)
+
+photo 66 = sixty-six
+  afewchars = 66
+  level     = 4
+  say       = 66
+  wiki      = https://en.wikipedia.org/wiki/66_(number)
+
+photo 67 = sixty-seven
+  afewchars = 67
+  level     = 9
+  say       = 67
+  wiki      = https://en.wikipedia.org/wiki/67_(number)
+
+photo 68 = sixty-eight
+  afewchars = 68
+  level     = 9
+  say       = 68
+  wiki      = https://en.wikipedia.org/wiki/68_(number)
+
+photo 69 = sixty-nine
+  afewchars = 69
+  level     = 9
+  say       = 69
+  wiki      = https://en.wikipedia.org/wiki/69_(number)
+
+photo 70 = seventy
+  afewchars = 70
+  level     = 3
+  say       = 70
+  wiki      = https://en.wikipedia.org/wiki/70_(number)
+
+photo 71 = seventy-one
+  afewchars = 71
+  level     = 9
+  say       = 71
+  wiki      = https://en.wikipedia.org/wiki/71_(number)
+
+photo 72 = seventy-two
+  afewchars = 72
+  level     = 9
+  say       = 72
+  wiki      = https://en.wikipedia.org/wiki/72_(number)
+
+photo 73 = seventy-three
+  afewchars = 73
+  level     = 9
+  say       = 73
+  wiki      = https://en.wikipedia.org/wiki/73_(number)
+
+photo 74 = seventy-four
+  afewchars = 74
+  level     = 9
+  say       = 74
+  wiki      = https://en.wikipedia.org/wiki/74_(number)
+
+photo 75 = seventy-five
+  afewchars = 75
+  level     = 9
+  say       = 75
+  wiki      = https://en.wikipedia.org/wiki/75_(number)
+
+photo 76 = seventy-six
+  afewchars = 76
+  level     = 9
+  say       = 76
+  wiki      = https://en.wikipedia.org/wiki/76_(number)
+
+photo 77 = seventy-seven
+  afewchars = 77
+  level     = 4
+  say       = 77
+  wiki      = https://en.wikipedia.org/wiki/77_(number)
+
+photo 78 = seventy-eight
+  afewchars = 78
+  level     = 9
+  say       = 78
+  wiki      = https://en.wikipedia.org/wiki/78_(number)
+
+photo 79 = seventy-nine
+  afewchars = 79
+  level     = 9
+  say       = 79
+  wiki      = https://en.wikipedia.org/wiki/79_(number)
+
+photo 80 = eighty
+  afewchars = 80
+  level     = 3
+  say       = 80
+  wiki      = https://en.wikipedia.org/wiki/80_(number)
+
+photo 81 = eighty-one
+  afewchars = 81
+  level     = 10
+  say       = 81
+  wiki      = https://en.wikipedia.org/wiki/81_(number)
+
+photo 82 = eighty-two
+  afewchars = 82
+  level     = 10
+  say       = 82
+  wiki      = https://en.wikipedia.org/wiki/82_(number)
+
+photo 83 = eighty-three
+  afewchars = 83
+  level     = 10
+  say       = 83
+  wiki      = https://en.wikipedia.org/wiki/83_(number)
+
+photo 84 = eighty-four
+  afewchars = 84
+  level     = 10
+  say       = 84
+  wiki      = https://en.wikipedia.org/wiki/84_(number)
+
+photo 85 = eighty-five
+  afewchars = 85
+  level     = 10
+  say       = 85
+  wiki      = https://en.wikipedia.org/wiki/85_(number)
+
+photo 86 = eighty-six
+  afewchars = 86
+  level     = 10
+  say       = 86
+  wiki      = https://en.wikipedia.org/wiki/86_(number)
+
+photo 87 = eighty-seven
+  afewchars = 87
+  level     = 10
+  say       = 87
+  wiki      = https://en.wikipedia.org/wiki/87_(number)
+
+photo 88 = eighty-eight
+  afewchars = 88
+  level     = 4
+  say       = 88
+  wiki      = https://en.wikipedia.org/wiki/88_(number)
+
+photo 89 = eighty-nine
+  afewchars = 89
+  level     = 10
+  say       = 89
+  wiki      = https://en.wikipedia.org/wiki/89_(number)
+
+photo 90 = ninety
+  afewchars = 90
+  level     = 3
+  say       = 90
+  wiki      = https://en.wikipedia.org/wiki/90_(number)
+
+photo 91 = ninety-one
+  afewchars = 91
+  level     = 10
+  say       = 91
+  wiki      = https://en.wikipedia.org/wiki/91_(number)
+
+photo 92 = ninety-two
+  afewchars = 92
+  level     = 10
+  say       = 92
+  wiki      = https://en.wikipedia.org/wiki/92_(number)
+
+photo 93 = ninety-three
+  afewchars = 93
+  level     = 10
+  say       = 93
+  wiki      = https://en.wikipedia.org/wiki/93_(number)
+
+photo 94 = ninety-four
+  afewchars = 94
+  level     = 10
+  say       = 94
+  wiki      = https://en.wikipedia.org/wiki/94_(number)
+
+photo 95 = ninety-five
+  afewchars = 95
+  level     = 10
+  say       = 95
+  wiki      = https://en.wikipedia.org/wiki/95_(number)
+
+photo 96 = ninety-six
+  afewchars = 96
+  level     = 10
+  say       = 96
+  wiki      = https://en.wikipedia.org/wiki/96_(number)
+
+photo 97 = ninety-seven
+  afewchars = 97
+  level     = 10
+  say       = 97
+  wiki      = https://en.wikipedia.org/wiki/97_(number)
+
+photo 98 = ninety-eight
+  afewchars = 98
+  level     = 10
+  say       = 98
+  wiki      = https://en.wikipedia.org/wiki/98_(number)
+
+photo 99 = ninety-nine
+  afewchars = 99
+  level     = 4
+  say       = 99
+  wiki      = https://en.wikipedia.org/wiki/99_(number)
+
+photo 100 = one hundred
+  afewchars = 100
+  level     = 3
+  say       = 100
+  wiki      = https://en.wikipedia.org/wiki/100_(number)
