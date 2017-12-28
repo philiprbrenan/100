@@ -8,7 +8,7 @@ app 100.l.cy    = The Numbers from 0 to 100 in Welsh
   emphasis      = 3
   language      = cy 
   full_name_on_google_play = com.appaapps.photoapp.cy100                                           # The original names of these apps when they were all inspearate repositories on Github instead of just one as they are now
-  version       = 2017-12-28 at 18:57:22
+  version       = 2017-12-28 at 18:58:24
 
 
 photo 0 = dim
