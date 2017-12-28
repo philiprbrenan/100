@@ -8,7 +8,7 @@ app 100.l.fr    = The Numbers from 0 to 100 in French
   emphasis      = 3
   language      = fr 
   full_name_on_google_play = com.appaapps.photoapp.fr100                                           # The original names of these apps when they were all inspearate repositories on Github instead of just one as they are now
-  version       = 2017-12-28 at 19:06:26
+  version       = 2017-12-28 at 21:56:57
 
 
 photo 0 = zéro
@@ -557,7 +557,7 @@ photo 90 = quatre-vingt-dix
   say       = 90
   wiki      = https://en.wikipedia.org/wiki/90_(number)
 
-photo 91 = quatre-vingt-un
+photo 91 = quatre-vingt-onze
   afewchars = 91
   level     = 10
   say       = 91
