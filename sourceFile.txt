@@ -1,0 +1,40 @@
+app 100         = The Numbers from 1 to 5 in English
+  description   = Learn to recognize and say the Numbers from 0 to 100 in spoken English
+  ordered       = always
+  icon          = icon.png
+  maxImages     = 12
+  author        = philiprbrenan
+  email         = philiprbrenan@gmail.com
+  emphasis      = 3
+  language      = en 
+  speakers      = Amy
+
+photo 1 = one
+  afewchars = 1
+  level     = 1
+  say       = 1
+  wiki      = https://en.wikipedia.org/wiki/1_(number)
+
+photo 2 = two
+  afewchars = 2
+  level     = 1
+  say       = 2
+  wiki      = https://en.wikipedia.org/wiki/2_(number)
+
+photo 3 = three
+  afewchars = 3
+  level     = 1
+  say       = 3
+  wiki      = https://en.wikipedia.org/wiki/3_(number)
+
+photo 4 = four
+  afewchars = 4
+  level     = 1
+  say       = 4
+  wiki      = https://en.wikipedia.org/wiki/4_(number)
+
+photo 5 = five
+  afewchars = 5
+  level     = 1
+  say       = 5
+  wiki = https://en.wikipedia.org/wiki/5_(number)
