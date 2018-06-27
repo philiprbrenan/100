@@ -1,0 +1,22 @@
+app 100   = Learn to recognize and say the numbers from 0  to 100 in various languages
+  maximages = 6
+  icon      = https://avatars1.githubusercontent.com/u/7548378?v=4
+  author    = philiprbrenan
+  email     = philiprbrenan@gmail.com
+
+
+# Details of photo IMG_5720
+photo IMG_5720 = Title of IMG_5720
+  url = IMG_5720.jpg
+
+fact IMG_5720.1 = First fact about IMG_5720
+fact IMG_5720.2 = Another fact about IMG_5720
+
+
+# Details of photo icon
+photo icon = Title of icon
+  url = icon.png
+
+fact icon.1 = First fact about icon
+fact icon.2 = Another fact about icon
+
