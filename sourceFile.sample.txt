@@ -5,6 +5,14 @@ app 100   = Learn to recognize and say the numbers from 0  to 100 in various lan
   email     = philiprbrenan@gmail.com
 
 
+# Details of photo IMG_5715
+photo IMG_5715 = Title of IMG_5715
+  url = IMG_5715.jpg
+
+fact IMG_5715.1 = First fact about IMG_5715
+fact IMG_5715.2 = Another fact about IMG_5715
+
+
 # Details of photo IMG_5716
 photo IMG_5716 = Title of IMG_5716
   url = IMG_5716.jpg
