@@ -38,7 +38,7 @@ photo 5 = five
   afewchars = 5
   level     = 1
   say       = 5
-wiki = https://en.wikipedia.org/wiki/5_(number)
+  wiki = https://en.wikipedia.org/wiki/5_(number)
 
 
 
