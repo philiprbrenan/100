@@ -7,7 +7,7 @@ app 100         = The Numbers from 1 to 5 in English
   email         = philiprbrenan@gmail.com
   emphasis      = 3
   language      = en 
-  speakers      = Amy
+  speakers     = Amy
 
 photo 1 = one
   afewchars = 1
