@@ -7,7 +7,8 @@ app 100         = The Numbers from 1 to 5 in English
   author        = philiprbrenan
   email         = philiprbrenan@gmail.com
   emphasis      = 3
-  language      = en 
+  language      = en
+  rightInARow   = 2
   speakers      = Amy
 
 photo 1 = one
