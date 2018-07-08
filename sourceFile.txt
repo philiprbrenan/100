@@ -9,7 +9,7 @@ app 100         = The Numbers from 1 to 5 in English
   emphasis      = 3
   language      = en
   ordered       = finally
-  rightInARow   = 2
+  rightInARow   = 3
   wrongRight    = 1
   speakers      = Amy
 
