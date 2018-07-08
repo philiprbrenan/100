@@ -8,8 +8,9 @@ app 100         = The Numbers from 1 to 5 in English
   email         = philiprbrenan@gmail.com
   emphasis      = 3
   language      = en
+  ordered       = always
   rightInARow   = 2
-  wrongRight     = 1
+  wrongRight    = 1
   speakers      = Amy
 
 photo 1 = one
